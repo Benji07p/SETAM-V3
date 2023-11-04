@@ -1,0 +1,125 @@
+{
+    "name": "Auto Ender Crafter",
+    "appearance":{
+           "block": "extendedcrafting:ender_crafter"
+},
+"components": [
+    {
+        "type": "custommachinery:energy",
+        "capacity": 10000,
+        "mode": "input"
+    },
+    {
+        "id": "input",
+        "mode": "input",
+        "type": "custommachinery:item",
+        "filter": ["minecraft:nether_star", "extendedcrafting:ender_star"],
+        "whitelist": true,
+        "capacity": 1
+    },
+    {
+        "id": "input1",
+        "mode": "input",
+        "type": "custommachinery:item",
+        "filter": ["extendedcrafting:ender_ingot", "minecraft:ender_eye", "minecraft:diamond_block"],
+        "whitelist": true,
+        "capacity": 1
+    },
+    {
+        "id": "input2",
+        "mode": "input",
+        "type": "custommachinery:item",
+        "filter": ["extendedcrafting:ender_ingot", "minecraft:ender_eye", "minecraft:diamond_block"],
+        "whitelist": true,
+        "capacity": 1
+    },
+    {
+        "id": "input3",
+        "mode": "input",
+        "type": "custommachinery:item",
+        "filter": ["extendedcrafting:ender_ingot", "minecraft:ender_eye", "minecraft:diamond_block"],
+        "whitelist": true,
+        "capacity": 1
+    },
+    {
+        "id": "input4",
+        "mode": "input",
+        "type": "custommachinery:item",
+        "filter": ["extendedcrafting:ender_ingot", "minecraft:ender_eye", "minecraft:diamond_block"],
+        "whitelist": true,
+        "capacity": 1
+    },
+    {
+        "id": "output",
+        "mode": "output",
+        "type": "custommachinery:item"
+    }
+  ],
+  "gui": [
+    {
+        "texture": "custommachinery:textures/gui/base_background.png",
+        "x": 0,
+        "y": 0,
+        "type": "custommachinery:texture",
+        "height": 156,
+        "width": 196
+    },
+    {
+        "x": 17,
+        "y": 70,
+        "type": "custommachinery:player_inventory"
+    },
+    {
+        "type": "custommachinery:energy",
+        "x": 10,
+        "y": 20
+    },
+    {
+        "id": "input",
+        "x": 57,
+        "y": 32,
+        "type": "custommachinery:slot"
+    },
+    {
+        "id": "input1",
+        "x": 57,
+        "y": 14,
+        "type": "custommachinery:slot"
+    },
+    {
+        "id": "input2",
+        "x": 57,
+        "y": 50,
+        "type": "custommachinery:slot"
+    },
+    {
+        "id": "input3",
+        "x": 39,
+        "y": 32,
+        "type": "custommachinery:slot"
+    },
+    {
+        "id": "input4",
+        "x": 75,
+        "y": 32,
+        "type": "custommachinery:slot"
+    },
+    {
+        "id": "output",
+        "x": 136,
+        "y": 32,
+        "type": "custommachinery:slot"
+    },
+    {
+        "x": 102,
+        "y": 32,
+        "type": "custommachinery:progress"
+    },
+    {
+        "text": "Auto Ender Crafter",
+        "x": 7,
+        "y": 5,
+        "type": "custommachinery:text"
+    }
+  ]
+}

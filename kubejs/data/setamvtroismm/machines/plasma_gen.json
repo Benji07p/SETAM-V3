@@ -1,0 +1,12 @@
+{
+    "name": "Plasma Generator",
+    "appearance":{
+           "block": "minecraft:dispenser"
+},
+"components": [
+    {
+        "type": "custommachinery:energy",
+        "capacity": 1000
+    }
+  ]
+}

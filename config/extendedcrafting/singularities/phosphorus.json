@@ -1,0 +1,12 @@
+{
+  "name": "Phosphorus",
+  "colors": [
+    "b34b65",
+    "5b2633"
+  ],
+  "ingredient": {
+    "item": "chemlib:phosphorus"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

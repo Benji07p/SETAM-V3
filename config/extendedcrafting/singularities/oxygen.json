@@ -1,0 +1,12 @@
+{
+  "name": "Oxygen",
+  "colors": [
+    "afa878",
+    "6b6749"
+  ],
+  "ingredient": {
+    "item": "chemlib:oxygen"
+  },
+  "materialCount": 100000,
+  "inUltimateSingularity": true
+}

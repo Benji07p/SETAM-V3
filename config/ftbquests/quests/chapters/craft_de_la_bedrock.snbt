@@ -1,0 +1,399 @@
+{
+	id: "1EA51E4570989EB1"
+	group: "68ED07BD49A7098E"
+	order_index: 1
+	filename: "craft_de_la_bedrock"
+	title: "Craft de la bedrock"
+	icon: "minecraft:bedrock"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -14.0d
+			y: -2.0d
+			id: "350187D67CFE91E8"
+			tasks: [{
+				id: "01FDE38424CFF927"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				count: 5L
+			}]
+		}
+		{
+			x: -14.0d
+			y: 1.0d
+			id: "37DE31276FB68C67"
+			tasks: [{
+				id: "188F5367BC6C5CAE"
+				type: "item"
+				item: "chemlib:tungsten_ingot"
+				count: 5L
+			}]
+		}
+		{
+			x: -14.0d
+			y: 4.0d
+			id: "0A382B1B4C2E71B2"
+			tasks: [{
+				id: "27D4C4E9E3989E5D"
+				type: "item"
+				item: "electrodynamics:ingotmolybdenum"
+				count: 5L
+			}]
+		}
+		{
+			x: -14.0d
+			y: 7.0d
+			id: "5253D7456C9CFC24"
+			tasks: [{
+				id: "3C44B16614FB7473"
+				type: "item"
+				item: "electrodynamics:ingotsilver"
+				count: 5L
+			}]
+		}
+		{
+			title: "Accélérateur de particules"
+			icon: "nuclearscience:particleinjector"
+			x: -10.5d
+			y: 2.5d
+			dependencies: [
+				"37DE31276FB68C67"
+				"0A382B1B4C2E71B2"
+				"350187D67CFE91E8"
+				"5253D7456C9CFC24"
+			]
+			id: "142399C8439239DC"
+			tasks: [
+				{
+					id: "3B816AF0FC6F8F88"
+					type: "item"
+					item: {
+						id: "nuclearscience:celldarkmatter"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1B268150115AF4DC"
+					type: "item"
+					item: "nuclearscience:cellantimattersmall"
+					count: 7L
+				}
+			]
+		}
+		{
+			x: -4.5d
+			y: 2.5d
+			dependencies: ["79F5BEBF0ACFAEB5"]
+			id: "1CEADB2BB79F97FB"
+			tasks: [{
+				id: "2B552963ADC3C317"
+				type: "item"
+				item: "nuclearscience:atomicassembler"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 2.5d
+			dependencies: ["142399C8439239DC"]
+			id: "79F5BEBF0ACFAEB5"
+			tasks: [{
+				id: "54B32FDF9B6BF707"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "setamvtroismm:atomic_assembler"
+					}
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 5.5d
+			dependencies: ["79F5BEBF0ACFAEB5"]
+			id: "550087CC9B85BA13"
+			tasks: [
+				{
+					id: "7E289CA46084FCA5"
+					type: "item"
+					item: "alchemistry:fission_chamber_controller"
+				}
+				{
+					id: "37DDB53BB2E7FC4D"
+					type: "item"
+					item: "alchemistry:fission_core"
+					count: 3L
+				}
+				{
+					id: "09B34FFA69D76CA4"
+					type: "item"
+					item: "alchemistry:reactor_energy"
+				}
+				{
+					id: "0684F71759EAB1E5"
+					type: "item"
+					item: "alchemistry:reactor_output"
+				}
+				{
+					id: "5DC9BF55869C3EA3"
+					type: "item"
+					item: "alchemistry:reactor_input"
+				}
+				{
+					id: "3548E38C93989A43"
+					type: "item"
+					item: "alchemistry:reactor_glass"
+					count: 35L
+				}
+				{
+					id: "73E59DBCE72A8E6E"
+					type: "item"
+					item: "alchemistry:reactor_casing"
+					count: 59L
+				}
+			]
+		}
+		{
+			x: -3.5d
+			y: -0.5d
+			id: "3FA34145C700CA18"
+			tasks: [{
+				id: "3D21927BC9DC5FB8"
+				type: "item"
+				item: "nuclearscience:plutonium239"
+				count: 3L
+			}]
+		}
+		{
+			x: -3.5d
+			y: 5.5d
+			dependencies: ["550087CC9B85BA13"]
+			id: "1711A841EF8DEEC5"
+			tasks: [
+				{
+					id: "02FDE664EE8075D8"
+					type: "item"
+					item: "alchemistry:fusion_chamber_controller"
+				}
+				{
+					id: "6547FDE618006381"
+					type: "item"
+					item: "alchemistry:fusion_core"
+					count: 3L
+				}
+			]
+		}
+		{
+			x: -0.5d
+			y: 2.5d
+			dependencies: [
+				"3FA34145C700CA18"
+				"1711A841EF8DEEC5"
+			]
+			id: "22DDD07D15C41D15"
+			tasks: [{
+				id: "72CB86948DC4F133"
+				type: "item"
+				item: "timeextraminer:plutonium_243"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			dependencies: ["65FD42DDC3821ED7"]
+			id: "5F5FA88E48336175"
+			tasks: [{
+				id: "03E69B1A8C073F06"
+				type: "item"
+				item: "timeextraminer:americium_244"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			dependencies: ["22DDD07D15C41D15"]
+			id: "65FD42DDC3821ED7"
+			tasks: [{
+				id: "73367D43A0E9F037"
+				type: "item"
+				item: "timeextraminer:americium_243"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.5d
+			dependencies: ["5F5FA88E48336175"]
+			id: "7F82AC38062FDB68"
+			tasks: [{
+				id: "325182B4E8DFA33C"
+				type: "item"
+				item: "timeextraminer:curium_244"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 4.5d
+			dependencies: ["7F82AC38062FDB68"]
+			id: "3B7B89A0EC455F60"
+			tasks: [{
+				id: "3D9F8F37F5E12E94"
+				type: "item"
+				item: "timeextraminer:curium_249"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.5d
+			dependencies: ["3B7B89A0EC455F60"]
+			id: "3BE1ABC61E5BE142"
+			tasks: [{
+				id: "0BC915D53AAD5D93"
+				type: "item"
+				item: "timeextraminer:berkelium_249"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 4.5d
+			dependencies: ["3BE1ABC61E5BE142"]
+			id: "1D01FD19019BA303"
+			tasks: [{
+				id: "6A9065C945A1F59F"
+				type: "item"
+				item: "timeextraminer:californium_249"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 2.5d
+			dependencies: [
+				"1D01FD19019BA303"
+				"0190ABC4831E5005"
+			]
+			id: "41CEE54F1386076F"
+			tasks: [{
+				id: "64CDC5EF7AECE131"
+				type: "item"
+				item: "chemlib:oganesson"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -5.5d
+			dependencies: ["79F5BEBF0ACFAEB5"]
+			id: "4C51D45963F3C20D"
+			tasks: [{
+				id: "5A0F4B82FA734E53"
+				type: "item"
+				item: "chemlib:ruthenium"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -5.5d
+			dependencies: [
+				"4C51D45963F3C20D"
+				"1CEADB2BB79F97FB"
+			]
+			id: "71406E69168674FF"
+			tasks: [{
+				id: "27BF2597942BE706"
+				type: "item"
+				item: "chemlib:ruthenium_ingot"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -5.5d
+			dependencies: ["71406E69168674FF"]
+			id: "5AA75B5981D8A6E9"
+			tasks: [{
+				id: "52B05106E7B2E855"
+				type: "item"
+				item: "chemlib:ruthenium_metal_block"
+				count: 9L
+			}]
+		}
+		{
+			x: 5.5d
+			y: -2.5d
+			dependencies: ["6A82DEB00A25799D"]
+			id: "0190ABC4831E5005"
+			tasks: [{
+				id: "2025E20A4D70579E"
+				type: "item"
+				item: "timeextraminer:calcium_48"
+			}]
+		}
+		{
+			icon: "chemlib:osmium_ingot"
+			x: 7.5d
+			y: 10.0d
+			dependencies: ["79F5BEBF0ACFAEB5"]
+			id: "49A56AC9AB4591B7"
+			tasks: [{
+				id: "337F9E4899510F7F"
+				type: "item"
+				item: "chemlib:osmium"
+				count: 36L
+			}]
+		}
+		{
+			x: 2.5d
+			y: -2.5d
+			id: "6A82DEB00A25799D"
+			tasks: [{
+				id: "304309939B5C5E74"
+				type: "item"
+				item: "nuclearscience:chemicalextractor"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 2.5d
+			dependencies: [
+				"5AA75B5981D8A6E9"
+				"49A56AC9AB4591B7"
+				"41CEE54F1386076F"
+				"2BEF10B25F2D8004"
+			]
+			size: 2.0d
+			id: "6A74C2577E9C6ACE"
+			tasks: [{
+				id: "580105AF9C2156A3"
+				type: "item"
+				item: "minecraft:bedrock"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 1.0d
+			id: "2BEF10B25F2D8004"
+			tasks: [{
+				id: "5099D18187A8B57A"
+				type: "item"
+				item: "timeextraminer:mixing_silicon"
+				count: 36L
+			}]
+		}
+		{
+			title: "Un petit pas pour l'homme, mais un bon de géant pour la physique quantique"
+			x: -8.75d
+			y: -6.25d
+			shape: "gear"
+			size: 2.5d
+			id: "2BEFC1F26EA743A2"
+			tasks: [{
+				id: "5F7B37117D5EFAAC"
+				type: "item"
+				item: "nuclearscience:quantumcapacitor"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

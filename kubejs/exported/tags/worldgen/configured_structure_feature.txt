@@ -1,0 +1,69 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 28, 2023, 7:22:44 PM
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold
+- minecraft:ocean_ruin_warm
+
+#minecraft:mineshaft
+- minecraft:mineshaft
+- minecraft:mineshaft_mesa
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion
+
+#morevillagers:on_bastion_remnant_explorer_maps
+- minecraft:bastion_remnant
+
+#morevillagers:on_end_city_explorer_maps
+- minecraft:end_city
+
+#quark:soul_bead_target
+- minecraft:fortress
+
+#morevillagers:on_jungle_temple_explorer_maps
+- minecraft:jungle_pyramid
+
+#minecraft:shipwreck
+- minecraft:shipwreck
+- minecraft:shipwreck_beached
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument
+
+#morevillagers:on_pillager_outpost_explorer_maps
+- minecraft:pillager_outpost
+
+#morevillagers:on_fortress_explorer_maps
+- minecraft:fortress
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure
+
+#morevillagers:on_mineshaft_explorer_maps
+- minecraft:mineshaft
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert
+- minecraft:ruined_portal_jungle
+- minecraft:ruined_portal_mountain
+- minecraft:ruined_portal_nether
+- minecraft:ruined_portal_ocean
+- minecraft:ruined_portal
+- minecraft:ruined_portal_swamp
+
+#morevillagers:on_swamp_hut_explorer_maps
+- minecraft:swamp_hut
+
+#minecraft:village
+- minecraft:village_plains
+- minecraft:village_desert
+- minecraft:village_savanna
+- minecraft:village_snowy
+- minecraft:village_taiga
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin
+- #minecraft:shipwreck

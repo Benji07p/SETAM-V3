@@ -1,0 +1,64 @@
+{
+	id: "013023AB50749662"
+	group: "38ACC2BD54144CB9"
+	order_index: 0
+	filename: "magic"
+	title: "Magic"
+	icon: "mythicbotany:central_rune_holder"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 3.5d
+			y: -0.5d
+			description: [
+				"Des alliages tu forgeras"
+				"Des minerais tu mineras"
+				"Le tungstène tu synthétiseras"
+				"Une Stone tu jèteras"
+				"Et la magie se déclareras"
+				"{image:timeextraminer:textures/imagebedrock.png width:100 height:100 align:1}"
+			]
+			dependencies: ["2CC6B957893C140D"]
+			id: "7D0C9108138FBA75"
+			tasks: [{
+				id: "5323F3C908F4A7C6"
+				type: "item"
+				item: "minecraft:bedrock"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			id: "2CC6B957893C140D"
+			tasks: [{
+				id: "04AACE12881F6DD4"
+				type: "item"
+				item: "mythicbotany:central_rune_holder"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -2.0d
+			id: "5D8F19F79FD2ECED"
+			tasks: [
+				{
+					id: "0F7375EF9EE05D2B"
+					type: "item"
+					item: "mm:manatorf_controller"
+				}
+				{
+					id: "1BFBAA45D56B345A"
+					type: "item"
+					item: "mm:volcanenergy_port"
+				}
+				{
+					id: "29F01B820F4C9F35"
+					type: "item"
+					item: "mm:manatorfoutput_port"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Polonium 210",
+  "colors": [
+    "c40000",
+    "740000"
+  ],
+  "ingredient": {
+    "item": "nuclearscience:polonium210"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

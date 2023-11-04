@@ -1,0 +1,67 @@
+{
+    "name": "Oxygen Extractor",
+    "appearance":{
+           "block": "timeextraminer:air_test"
+},
+"components": [
+    {
+      "id": "input",
+      "mode": "input",
+      "type": "custommachinery:item"
+    },
+    {
+        "id": "input1",
+        "mode": "input",
+        "type": "custommachinery:item"
+    },
+    {
+        "id": "output",
+        "mode": "output",
+        "type": "custommachinery:item"
+    }
+  ],
+  "gui": [
+    {
+      "texture": "custommachinery:textures/gui/base_background.png",
+      "x": 0,
+      "y": 0,
+      "type": "custommachinery:texture",
+      "height": 156,
+      "width": 196
+    },
+    {
+      "x": 17,
+      "y": 70,
+      "type": "custommachinery:player_inventory"
+    },
+    {
+      "id": "input",
+      "x": 57,
+      "y": 20,
+      "type": "custommachinery:slot"
+    },
+    {
+        "id": "input1",
+        "x": 57,
+        "y": 40,
+        "type": "custommachinery:slot"
+    },
+    {
+        "id": "output",
+        "x": 120,
+        "y": 30,
+        "type": "custommachinery:slot"
+    },
+    {
+      "x": 86,
+      "y": 30,
+      "type": "custommachinery:progress"
+    },
+    {
+        "text": "Oxygen Extractor",
+        "x": 7,
+        "y": 5,
+        "type": "custommachinery:text"
+    }
+  ]
+}

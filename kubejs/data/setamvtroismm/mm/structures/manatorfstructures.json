@@ -1,0 +1,13 @@
+{
+    "controllerId":"mm:manatorf",
+    "name":{
+        "text" :"RF To Mana"
+    },
+    "layout":[
+        ["B","C","A"]
+    ],
+    "key":{
+        "A":{"type":"mm:port","port":"mm:energy","input":true},
+        "B":{"type":"mm:port","port":"mm:item","input":false}
+    }
+}

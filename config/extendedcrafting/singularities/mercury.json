@@ -1,0 +1,12 @@
+{
+  "name": "Mercury",
+  "colors": [
+    "7b7a78",
+    "434342"
+  ],
+  "ingredient": {
+    "item": "chemlib:mercury"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

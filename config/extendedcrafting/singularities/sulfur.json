@@ -1,0 +1,12 @@
+{
+  "name": "Sulfur",
+  "colors": [
+    "6f7904",
+    "474d03"
+  ],
+  "ingredient": {
+    "item": "chemlib:sulfur"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

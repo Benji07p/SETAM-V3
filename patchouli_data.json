@@ -1,0 +1,21 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "mythicbotany:mythic_botany/pylons",
+        "botania:devices/mana_alchemy"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "alchemistry:alchemistry_book": {
+      "viewedEntries": [
+        "alchemistry:reactor/fission_multiblock"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

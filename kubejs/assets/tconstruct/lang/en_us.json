@@ -1,0 +1,12 @@
+{
+  "block.tconstruct.molten_signalum_fluid": "Molten Bismuth",
+  "fluid.tconstruct.molten_signalum": "Molten Bismuth",
+  "fluid.tconstruct.flowing_molten_signalum": "Flowing Molten Bismuth",
+  "item.tconstruct.molten_signalum_bucket": "Molten Bismuth Bucket",
+
+  "block.tconstruct.molten_refined_obsidian_fluid": "Molten Newton's Metal",
+  "fluid.tconstruct.molten_refined_obsidian": "Molten Newton's Metal",
+  "fluid.tconstruct.flowing_molten_refined_obsidian": "Flowing Molten Newton's Metal",
+  "item.tconstruct.molten_refined_obsidian_bucket": "Molten Newton's Metal Bucket"
+}
+

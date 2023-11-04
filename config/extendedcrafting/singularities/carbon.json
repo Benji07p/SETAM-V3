@@ -1,0 +1,12 @@
+{
+  "name": "Carbon",
+  "colors": [
+    "2c2d2f",
+    "151516"
+  ],
+  "ingredient": {
+    "item": "chemlib:carbon"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

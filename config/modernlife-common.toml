@@ -1,0 +1,102 @@
+
+[common]
+
+	[common.crafting]
+		#Enables crafting for Chainsaw
+		enableChainsaw = true
+		#Enables crafting for Flashlight
+		enableFlashlight = true
+		#Enables crafting for Bicycle
+		enableBicycle = true
+		#Enables crafting for Speedometer
+		enableSpeedometer = true
+		#Enables crafting for Camera
+		enableCamera = true
+		#Enables crafting for Canvas
+		enableCanvas = true
+		#Enables crafting for Easel
+		enableEasel = true
+		#Enables crafting for Guitar
+		enableGuitar = true
+		#Enables crafting for Guitar Amplifier
+		enableGuitarAmplifier = true
+		#Enables crafting for Chess Board
+		enableChessBoard = true
+		#Enables crafting for Paved Road/Paved Road Ramp
+		enablePavedRoad = true
+		#Enables crafting for Road Marker
+		enableRoadMarker = true
+		#Enables crafting for Refrigerator
+		enableRefrigerator = true
+		#Enables crafting for Trash Can
+		enableTrashCan = true
+		#Enables crafting for Seed Spreader
+		enableSeedSpreader = true
+		#Enables crafting for Deluxe Bed
+		enableDeluxeBed = true
+		#Enables crafting for Extractor
+		enableExtractor = true
+		#Enables crafting for Metal Grate
+		enableGrate = true
+		#Enables crafting for Microwave
+		enableMicrowave = true
+		#Enables crafting for Stove
+		enableStove = true
+		#Enables crafting for Turntable
+		enableTurntable = true
+		#Enables crafting for Toilet
+		enableToilet = true
+		#Enables crafting for Radiator
+		enableRadiator = true
+		#Enables crafting for Power Transmitter
+		enablePowerTransmitter = true
+		#Enables crafting for Power Receiver
+		enablePowerReceiver = true
+		#Enables crafting for Mirror
+		enableMirror = true
+		#Enables crafting for CCTV Screen
+		enableCctvScreen = true
+		#Enables crafting for CCTV Camera
+		enableCctvCamera = true
+		#Enables crafting for Alarm Clock
+		enableAlarmClock = true
+		#Enables crafting for Wall Shelf
+		enableWallShelf = true
+		#Enables crafting for Handgun
+		enableHandgun = false
+		#Enables crafting for Motorboat
+		enableMotorboat = true
+		#Enables crafting for Winch
+		enableWinch = true
+		#Enables crafting for Bookshelf
+		enableBookshelf = true
+		#Enables crafting for Photocopier
+		enablePhotocopier = true
+
+	[common.camera]
+		#Width (in pixels) of pictures taken by the camera
+		cameraResolutionW = 1280
+		#Height (in pixels) of pictures taken by the camera
+		cameraResolutionH = 720
+
+	[common.guitar]
+		#Guitar volume multiplier
+		guitarVolumeBoost = 1.0
+
+	[common.flashlight]
+		#Flashlight light level
+		#Range: 0 ~ 15
+		flashlightLightLevel = 13
+		#How long the flashlight lasts on a full charge (minutes)
+		flashlightFullChargeDuration = 25
+
+	[common.bookshelf]
+		#Bookshelf whitelist
+		bookshelfWhitelist = "antiqueatlas:antique_atlas,draconic_evolution:info_tablet,evilcraft:origins_of_darkness,enigmaticlegacy:the_acknowledgment,theoneprobe:probenote,integrateddynamics:on_the_dynamics_of_integration"
+		#Bookshelf blacklist
+		bookshelfBlacklist = ""
+		#Bookshelf search text
+		bookshelfSearchText = "book,manual,encyclopedia,dictionary,guide,tome,compendium,codex,lexica,lexicon,journal"
+		#Bookshelf avoid text
+		bookshelfAvoidText = "books"
+

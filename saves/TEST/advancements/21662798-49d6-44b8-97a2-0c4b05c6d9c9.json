@@ -1,0 +1,57 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:electrodynamics/guidebook": {
+    "criteria": {
+      "spawn": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "tardim:tardim/root": {
+    "criteria": {
+      "discovers_rotor": "2023-08-02 19:00:50 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-08-02 19:00:55 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

@@ -1,0 +1,12 @@
+{
+  "type": "mm:port_block",
+  "id": "volcanenergy",
+  "name": {
+    "text": "Energy"
+  },
+  "port": "mm:energy",
+  "input": true,
+  "config": {
+    "capacity": 10000000
+  }
+}

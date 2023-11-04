@@ -1,0 +1,26 @@
+{
+  "duration": 1,
+  "structureId": "setamvtroismm:manatorfstructures",
+  "name": {
+    "text": "Generating Mana from RF"
+  },
+  "inputs": [
+    {
+      "type": "mm:simple",
+      "ingredient": {
+        "type": "mm:energy",
+        "amount": 80000
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "mm:simple",
+      "ingredient": {
+        "type": "mm:item",
+        "item": "botania:black_lotus",
+        "count": 1
+      }
+    }
+  ]
+}

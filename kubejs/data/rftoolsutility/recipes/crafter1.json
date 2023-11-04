@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "CFC",
+    " T "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "F": {
+      "item": "computercraft:disk_drive"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:crafter1"
+  }
+}

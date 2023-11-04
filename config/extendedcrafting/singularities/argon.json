@@ -1,0 +1,12 @@
+{
+  "name": "Argon",
+  "colors": [
+    "5b59c4",
+    "3b397a"
+  ],
+  "ingredient": {
+    "item": "chemlib:argon"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

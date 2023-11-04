@@ -1,0 +1,12 @@
+{
+  "name": "Hydrogen",
+  "colors": [
+    "0000c4",
+    "000074"
+  ],
+  "ingredient": {
+    "item": "chemlib:hydrogen"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 10000
+}

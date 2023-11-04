@@ -1,0 +1,13 @@
+{
+    "type": "mm:port_block",
+    "id": "manatorfoutput",
+    "name": {
+      "text": "RF To Mana Item"
+    },
+    "port": "mm:item",
+    "input": false,
+    "config": {
+        "slotRows": 3,
+        "slotCols": 3
+      }
+  }

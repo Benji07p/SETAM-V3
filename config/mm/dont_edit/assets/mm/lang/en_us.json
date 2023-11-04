@@ -1,0 +1,11 @@
+{
+  "block.mm.manatorf_controller": "RF To Mana Controlleur",
+  "block.mm.manatorfoutput_port": "RF To Mana Item Output Port",
+  "block.mm.volcancreator_controller": "Volcan Creator Controlleur",
+  "block.mm.volcanenergy_port": "Energy Input Port",
+  "block.mm.volcanfluid_port": "Lava Extract Output Port",
+  "container.masterfulmachinery.mm:manatorf_controller_controller.name": "RF To Mana Controlleur",
+  "container.masterfulmachinery.mm:volcancreator_controller_controller.name": "Volcan Creator Controlleur",
+  "item.mm.blueprint": "Blueprint",
+  "item.mm.structure_wand": "Structure Wand"
+}

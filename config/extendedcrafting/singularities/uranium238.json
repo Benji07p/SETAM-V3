@@ -1,0 +1,12 @@
+{
+  "name": "Uranium 238",
+  "colors": [
+    "7df8ac",
+    "8e1a"
+  ],
+  "ingredient": {
+    "item": "nuclearscience:uranium238"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

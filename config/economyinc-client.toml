@@ -1,0 +1,5 @@
+
+["Block Seller"]
+	#Allow you to disable the item preview in block seller when you hover it.
+	canPreviewItemInBlock = true
+

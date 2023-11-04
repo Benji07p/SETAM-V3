@@ -1,0 +1,205 @@
+{
+    "name": "Atomic Assembler",
+    "appearance":{
+           "block": "timeextraminer:atomic_test"
+},
+    "components": [
+{
+    "type": "custommachinery:energy",
+    "capacity": 100000,
+    "mode": "input"
+},
+{
+    "type": "custommachinery:fluid",
+    "capacity": 10000,
+    "id": "fluidinput",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input1",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input2",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input3",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input4",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input5",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input6",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:item",
+    "id": "input7",
+    "mode": "input"
+},
+{
+    "type": "custommachinery:fluid",
+    "capacity": 10000,
+    "id": "fluidouput",
+    "mode": "output"
+},
+{
+      "mode": "output",
+      "id": "output1",
+      "type": "custommachinery:item"
+    },
+{
+      "mode": "output",
+      "id": "output2",
+      "type": "custommachinery:item"
+    },
+{
+      "mode": "output",
+      "id": "output3",
+      "type": "custommachinery:item"
+    },
+{
+      "mode": "output",
+      "id": "output4",
+      "type": "custommachinery:item"
+    }
+],
+    "gui": [
+        {
+            "type": "custommachinery:texture",
+            "x": 0,
+            "y": 0,
+            "height": 216,
+            "width": 196,
+            "texture": "custommachinery:textures/gui/base_background.png"
+        },
+        {
+            "type": "custommachinery:texture",
+            "x": 38,
+            "y": 5,
+            "height": 120,
+            "width": 120,
+            "texture": "kubejs:textures/gui/gui_atomic_assembler.png"
+        },
+        {
+            "type": "custommachinery:player_inventory",
+            "x": 17,
+            "y": 130
+        },
+        {
+            "type": "custommachinery:energy",
+            "x": 20,
+            "y": 10
+        },
+        {
+            "type": "custommachinery:fluid",
+            "x": 20,
+            "y": 70,
+            "id": "fluidinput"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 66,
+            "y": 43,
+            "height": 16,
+            "width": 16,
+            "id": "input1"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 91,
+            "y": 29,
+            "height": 16,
+            "width": 16,
+            "id": "input2"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 115,
+            "y": 43,
+            "height": 16,
+            "width": 16,
+            "id": "input3"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 115,
+            "y": 72,
+            "height": 16,
+            "width": 16,
+            "id": "input4"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 90,
+            "y": 85,
+            "height": 16,
+            "width": 16,
+            "id": "input5"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 66,
+            "y": 72,
+            "height": 16,
+            "width": 16,
+            "id": "input6"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 90,
+            "y": 57,
+            "height": 16,
+            "width": 16,
+            "id": "input7"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 161,
+            "y": 50,
+            "id": "output1"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 161,
+            "y": 70,
+            "id": "output2"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 161,
+            "y": 90,
+            "id": "output3"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 161,
+            "y": 110,
+            "id": "output4"
+        },
+        {
+            "type": "custommachinery:fluid",
+            "x": 161,
+            "y": 5,
+            "id": "fluidoutput"
+        },
+        {
+            "type": "custommachinery:progress",
+            "x": 136,
+            "y": 110
+        }
+    ]
+}

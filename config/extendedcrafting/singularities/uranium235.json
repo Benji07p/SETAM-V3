@@ -1,0 +1,12 @@
+{
+  "name": "Uranium 235",
+  "colors": [
+    "42af0c",
+    "29660b"
+  ],
+  "ingredient": {
+    "item": "nuclearscience:uranium235"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

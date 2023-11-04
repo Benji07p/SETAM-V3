@@ -1,0 +1,12 @@
+{
+  "name": "Nitrogen",
+  "colors": [
+    "325ea4",
+    "1e355a"
+  ],
+  "ingredient": {
+    "item": "chemlib:nitrogen"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

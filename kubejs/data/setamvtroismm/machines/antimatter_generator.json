@@ -1,0 +1,57 @@
+{
+    "name": "Antimatter Generator",
+    "appearance":{
+           "block": "timeextraminer:antirtest"
+},
+"components": [
+    {
+        "type": "custommachinery:energy",
+        "capacity": 10000000000000,
+        "config": {
+          "default": "output"
+      }
+    },
+    {
+      "id": "input",
+      "mode": "input",
+      "type": "custommachinery:item"
+    }
+  ],
+"gui": [
+    {
+      "texture": "custommachinery:textures/gui/base_background.png",
+      "x": 0,
+      "y": 0,
+      "type": "custommachinery:texture",
+      "height": 156,
+      "width": 196
+    },
+    {
+      "x": 17,
+      "y": 70,
+      "type": "custommachinery:player_inventory"
+    },
+    {
+      "id": "input",
+      "x": 67,
+      "y": 30,
+      "type": "custommachinery:slot"
+    },
+    {
+      "x": 96,
+      "y": 30,
+      "type": "custommachinery:fuel"
+    },
+    {
+      "text": "Antimatter Generator",
+      "x": 7,
+      "y": 5,
+      "type": "custommachinery:text"
+    },
+    {
+        "type": "custommachinery:energy",
+        "x": 160,
+        "y": 10
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "mm:port_block",
+  "id": "volcanfluid",
+  "name": {
+    "text": "Lava Extract"
+  },
+  "port": "mm:fluid",
+  "input": false,
+  "config": {
+    "capacity": 100000
+  }
+}

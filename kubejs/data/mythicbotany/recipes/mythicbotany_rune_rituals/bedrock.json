@@ -1,0 +1,342 @@
+{
+    "type": "mythicbotany:rune_ritual",
+    "group": "rune_rituals",
+    "center": {
+      "item": "mythicbotany:fimbultyr_tablet"
+    },
+    "runes": [
+      {
+        "rune": {
+          "item": "beyond_earth:calorite_ingot"
+        },
+        "x": 0,
+        "z": 7,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "chemlib:tungsten_ingot"
+        },
+        "x": 0,
+        "z": 6,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "beyond_earth:desh_ingot"
+        },
+        "x": 0,
+        "z": 5,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "byg:pendorite_ingot"
+        },
+        "x": -4,
+        "z": 4,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "mythicbotany:alfsteel_ingot"
+        },
+        "x": 0,
+        "z": 4,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "beyond_earth:ostrum_ingot"
+        },
+        "x": 4,
+        "z": 4,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotmolybdenum"
+        },
+        "x": -3,
+        "z": 3,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingottitaniumcarbide"
+        },
+        "x": 0,
+        "z": 3,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingothslasteel"
+        },
+        "x": 3,
+        "z": 3,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingottitanium"
+        },
+        "x": -2,
+        "z": 2,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotvanadium"
+        },
+        "x": 0,
+        "z": 2,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotlithium"
+        },
+        "x": 2,
+        "z": 2,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotvanadiumsteel"
+        },
+        "x": -1,
+        "z": 1,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotstainlesssteel"
+        },
+        "x": 1,
+        "z": 1,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotchromium"
+        },
+        "x": -7,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotsuperconductive"
+        },
+        "x": -6,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "botania:gaia_ingot"
+        },
+        "x": -5,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "botania:manasteel_ingot"
+        },
+        "x": -4,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "botania:terrasteel_ingot"
+        },
+        "x": -3,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "botania:elementium_ingot"
+        },
+        "x": -2,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:rose_gold_ingot"
+        },
+        "x": 2,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:manyullyn_ingot"
+        },
+        "x": 3,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:slimesteel_ingot"
+        },
+        "x": 4,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:cobalt_ingot"
+        },
+        "x": 5,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "minecraft:gold_ingot"
+        },
+        "x": 6,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "minecraft:copper_ingot"
+        },
+        "x": 7,
+        "z": 0,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "create:brass_ingot"
+        },
+        "x": -1,
+        "z": -1,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "minecraft:iron_ingot"
+        },
+        "x": 1,
+        "z": -1,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:queens_slime_ingot"
+        },
+        "x": -2,
+        "z": -2,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:pig_iron_ingot"
+        },
+        "x": 0,
+        "z": -2,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:amethyst_bronze_ingot"
+        },
+        "x": 2,
+        "z": -2,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "tconstruct:hepatizon_ingot"
+        },
+        "x": -3,
+        "z": -3,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotsilver"
+        },
+        "x": 0,
+        "z": -3,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotbronze"
+        },
+        "x": 3,
+        "z": -3,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotlead"
+        },
+        "x": -4,
+        "z": -4,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "x": 0,
+        "z": -4,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotsteel"
+        },
+        "x": 4,
+        "z": -4,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "beyond_earth:steel_ingot"
+        },
+        "x": 0,
+        "z": -5,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "create:zinc_ingot"
+        },
+        "x": 0,
+        "z": -6,
+        "consume": false
+      },
+      {
+        "rune": {
+            "item": "electrodynamics:ingotaluminum"
+        },
+        "x": 0,
+        "z": -7,
+        "consume": false
+      }
+    ],
+    "mana": 0,
+    "ticks": 200,
+    "inputs": [
+      {
+        "item": "minecraft:stone"
+      }
+    ],
+    "outputs": [
+        {
+            "item": "minecraft:bedrock",
+            "count": 1
+          }
+    ]
+  }

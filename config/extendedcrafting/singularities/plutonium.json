@@ -1,0 +1,12 @@
+{
+  "name": "Plutonium 239",
+  "colors": [
+    "af7426",
+    "714c1a"
+  ],
+  "ingredient": {
+    "item": "nuclearscience:plutonium239"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}

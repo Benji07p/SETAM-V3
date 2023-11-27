@@ -735,6 +735,8 @@
 #5BFED4 minecraft:warped_stem
 #9D2725 minecraft:warped_wart_block
 #AAF4B7 create:water_wheel
+#94011B minecraft:waxed_cut_copper
+#C37D34 minecraft:waxed_cut_copper_stairs
 #990EB8 minecraft:waxed_weathered_cut_copper_slab
 #605608 minecraft:waxed_weathered_cut_copper_stairs
 #D89738 minecraft:weathered_copper

@@ -53,6 +53,7 @@
 #85547E electrodynamics:batterybox
 #490837 minecraft:beacon
 #840F59 minecraft:bedrock
+#2183E8 minecraft:bee_nest
 #7F50F6 minecraft:bell
 #7C938F create:belt
 #A5EC11 botania:bifrost
@@ -541,6 +542,7 @@
 #437566 minecraft:polished_granite
 #1F3D4B byg:polished_travertine
 #36CECE byg:polished_travertine_slab
+#4ABBDE byg:polished_travertine_stairs
 #631946 byg:pollen_block
 #AFAC0D minecraft:poppy
 #B2D469 biomesoplenty:porous_flesh

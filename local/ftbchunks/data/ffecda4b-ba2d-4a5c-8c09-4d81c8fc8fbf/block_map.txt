@@ -1,5 +1,6 @@
 #C05E24 minecraft:acacia_door
 #DDFE01 minecraft:acacia_fence
+#7DDAEF quark:acacia_ladder
 #942E52 minecraft:acacia_leaves
 #A78454 minecraft:acacia_log
 #CA1807 minecraft:acacia_planks
@@ -75,6 +76,7 @@
 #9CFEB8 minecraft:black_concrete
 #D15166 minecraft:black_concrete_powder
 #7F5002 quark:black_corundum_cluster
+#BD1F1E quark:black_framed_glass
 #A11FFB extendedcrafting:black_iron_block
 #8C6FD4 byg:black_sand
 #2925D4 minecraft:black_stained_glass
@@ -101,6 +103,8 @@
 #657B45 minecraft:bone_block
 #15C8D4 minecraft:bookshelf
 #8AE729 minecraft:brain_coral_block
+#6754E0 create:brass_belt_funnel
+#02FE08 create:brass_funnel
 #E6D6BA create:brass_tunnel
 #0F466A minecraft:brewing_stand
 #1BDBFB minecraft:brick_stairs
@@ -127,6 +131,7 @@
 #4505A4 timeextraminer:caveblock
 #D20CE8 mythicbotany:central_rune_holder
 #F512B4 minecraft:chain
+#D78647 electrodynamics:chargermv
 #DE3B54 nuclearscience:chemicalextractor
 #7C0317 electrodynamics:chemicalmixer
 #1DB2AE byg:cherry_log
@@ -163,6 +168,7 @@
 #F888C9 minecraft:comparator
 #E2D601 minecraft:composter
 #DD15EB beyond_earth:compressor
+#EC89B5 storagedrawers:controller
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #ACD080 minecraft:cracked_deepslate_tiles
@@ -202,6 +208,7 @@
 #2D271D minecraft:dark_oak_trapdoor
 #A674EF minecraft:dark_oak_wood
 #76FBCA minecraft:dark_prismarine
+#2690B8 botania:dark_quartz
 #7EAB5E minecraft:daylight_detector
 #2D68D6 minecraft:dead_bush
 #1C3BF5 biomesoplenty:dead_grass
@@ -296,11 +303,13 @@
 #726BFD quark:framed_glass_pane
 #C9D4EA create:framed_glass_trapdoor
 #7227FC byg:frost_magma
+#E6F14B nuclearscience:fuelreprocessor
 #440694 byg:fungal_imparius_block
 #2DC94B minecraft:furnace
 #1542C9 botania:gaia_pylon
 #B798C1 botania:gaia_spreader
 #552210 car:gas_station_top
+#A814E7 nuclearscience:gascentrifuge
 #D60460 create:gearbox
 #1E33BF minecraft:gilded_blackstone
 #AB1E32 beyond_earth:glacio_coal_ore
@@ -353,6 +362,7 @@
 #102198 beyond_earth:iron_mark_block
 #D7EADE minecraft:iron_ore
 #1429E9 quark:iron_plate
+#A704A4 quark:iron_plate_slab
 #8E1D90 beyond_earth:iron_plating_block
 #B611E5 minecraft:iron_trapdoor
 #79904E pipez:item_pipe
@@ -404,6 +414,7 @@
 #0B908B byg:mahogany_leaves
 #5BB49F biomesoplenty:mahogany_log
 #5C1DD5 byg:mahogany_log
+#254F1E botania:mana_diamond_block
 #C9EB95 mythicbotany:mana_infuser
 #DBA448 botania:mana_pool
 #413D8C botania:mana_spreader
@@ -523,10 +534,12 @@
 #528822 minecraft:pink_stained_glass_pane
 #36285C minecraft:pink_tulip
 #3088BD electrodynamics:pipesteel
+#6DAD6C minecraft:piston
 #453DC2 create:piston_extension_pole
 #BB7F65 minecraft:podzol
 #22D3D1 byg:podzol_dacite
 #522933 minecraft:pointed_dripstone
+#6A5197 minecraft:polished_andesite
 #E8ADE8 minecraft:polished_andesite_slab
 #44E938 minecraft:polished_andesite_stairs
 #5CDCB7 minecraft:polished_basalt
@@ -561,6 +574,7 @@
 #02F1DC minecraft:quartz_block
 #281669 minecraft:quartz_bricks
 #8E9941 minecraft:quartz_pillar
+#FB9751 minecraft:quartz_slab
 #431C61 minecraft:quartz_stairs
 #79F3B4 byg:quartzite_sand
 #B903F3 nuclearscience:radioactiveprocessor
@@ -583,11 +597,13 @@
 #465F37 minecraft:red_tulip
 #D83486 minecraft:red_wall_banner
 #83B596 minecraft:red_wool
+#D267AF extendedcrafting:redstone_ingot_block
 #62B28A minecraft:redstone_ore
 #24BE64 minecraft:redstone_torch
 #5D17E5 minecraft:redstone_wall_torch
 #721B63 minecraft:redstone_wire
 #487B7B minecraft:repeater
+#CA5CEC electrodynamics:resourceblocksilver
 #6BD712 byg:ripe_joshua_leaves
 #07F8D3 byg:ripe_orchard_leaves
 #F9A178 beyond_earth:rocket_launch_pad
@@ -715,6 +731,7 @@
 #87BAF4 minecraft:tuff
 #750605 computercraft:turtle_normal
 #DA4418 minecraft:twisting_vines
+#9D5016 pipez:universal_pipe
 #9998E2 beyond_earth:venus_coal_ore
 #A297DB beyond_earth:venus_diamond_ore
 #72DF2B beyond_earth:venus_gold_ore

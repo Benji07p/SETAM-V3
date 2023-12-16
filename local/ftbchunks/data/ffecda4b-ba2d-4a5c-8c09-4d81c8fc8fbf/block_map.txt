@@ -86,6 +86,7 @@
 #2BE296 minecraft:blackstone_wall
 #7F8A04 minecraft:blast_furnace
 #099720 economyinc:block_vault
+#F4EE6B nuclearscience:blocklead
 #C5BBD4 biomesoplenty:blood
 #E4886B tconstruct:blood_congealed_slime
 #0BDEA9 tconstruct:blood_ichor_slime_grass

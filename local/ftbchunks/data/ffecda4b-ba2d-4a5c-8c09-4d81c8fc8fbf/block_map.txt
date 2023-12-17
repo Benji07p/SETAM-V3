@@ -553,6 +553,7 @@
 #1745C7 minecraft:polished_blackstone_stairs
 #7AC9AA create:polished_cut_diorite
 #722007 create:polished_cut_diorite_stairs
+#EA3611 minecraft:polished_deepslate
 #437566 minecraft:polished_granite
 #1F3D4B byg:polished_travertine
 #36CECE byg:polished_travertine_slab

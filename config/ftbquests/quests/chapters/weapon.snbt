@@ -1,0 +1,148 @@
+{
+	id: "6D51B8487610E129"
+	group: "38ACC2BD54144CB9"
+	order_index: 2
+	filename: "weapon"
+	title: "Weapon"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "gear"
+			size: 2.0d
+			id: "22361ABCB0DAF7CA"
+			tasks: [{
+				id: "45BF23632AA84349"
+				type: "item"
+				item: "cgm:workbench"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -2.5d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "0BB68A2A84EDC6D7"
+			tasks: [{
+				id: "1F62774386C32449"
+				type: "item"
+				item: {
+					id: "cgm:pistol"
+					Count: 1b
+					tag: {
+						AmmoCount: 16
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.5d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "06ECE2D3E27EB339"
+			tasks: [{
+				id: "6FD49624EDF20A02"
+				type: "item"
+				item: {
+					id: "cgm:grenade_launcher"
+					Count: 1b
+					tag: {
+						AmmoCount: 1
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.5d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "4F04BD408FD1D64E"
+			tasks: [{
+				id: "67B78EFFEAE4B5B5"
+				type: "item"
+				item: {
+					id: "cgm:bazooka"
+					Count: 1b
+					tag: {
+						AmmoCount: 1
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "2A44689B752C4BDE"
+			tasks: [{
+				id: "4146E552B940C5AC"
+				type: "item"
+				item: {
+					id: "cgm:mini_gun"
+					Count: 1b
+					tag: {
+						AmmoCount: 100
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 0.0d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "2124EB9994AE2BF7"
+			tasks: [{
+				id: "6F79F245939168EB"
+				type: "item"
+				item: {
+					id: "cgm:assault_rifle"
+					Count: 1b
+					tag: {
+						AmmoCount: 40
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 2.5d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "4A79E7D94025BF9A"
+			tasks: [{
+				id: "14FBE635B4CEA1A1"
+				type: "item"
+				item: {
+					id: "cgm:machine_pistol"
+					Count: 1b
+					tag: {
+						AmmoCount: 80
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 2.5d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "3BB064020457648D"
+			tasks: [{
+				id: "20EBEFBF603B5EFD"
+				type: "item"
+				item: "ballistix:nuclear"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.5d
+			dependencies: ["22361ABCB0DAF7CA"]
+			id: "7C2F73BDF4EAFBDB"
+			tasks: [{
+				id: "1DC623B4CDFAD13C"
+				type: "item"
+				item: "ballistix:largeantimatter"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

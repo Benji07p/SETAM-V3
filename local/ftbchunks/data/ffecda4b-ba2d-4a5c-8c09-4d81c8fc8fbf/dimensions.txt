@@ -11,3 +11,4 @@ mythicbotany:alfheim
 timeextraminer:war_dimension
 beyond_earth:venus_orbit
 beyond_earth:mercury_orbit
+rftoolsdim:quantum

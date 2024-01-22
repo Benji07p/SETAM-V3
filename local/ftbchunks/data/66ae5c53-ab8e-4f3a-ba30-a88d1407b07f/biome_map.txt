@@ -3,6 +3,7 @@
 #3D6 minecraft:cold_ocean
 #06B byg:coniferous_forest
 #109 minecraft:deep_cold_ocean
+#053 beyond_earth:glacio
 #6D9 beyond_earth:glacio_ice_spikes
 #498 minecraft:lush_caves
 #73A minecraft:old_growth_pine_taiga

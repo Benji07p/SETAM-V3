@@ -1,6 +1,7 @@
 #FA75A8 minecraft:andesite
 #956B44 byg:aspen_leaves
 #0D47EE minecraft:azalea_leaves
+#F2350A decocraft:back_to_the_future
 #18D108 minecraft:basalt
 #C9CBB9 minecraft:blackstone
 #207534 minecraft:brown_mushroom
@@ -14,11 +15,14 @@
 #B2A2E1 minecraft:dandelion
 #2D68D6 minecraft:dead_bush
 #5E9420 minecraft:deepslate
+#F5CF1A decocraft:defibrilator
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
 #3B0AD1 minecraft:dripstone_block
 #4179DC byg:fir_leaves
 #E66556 minecraft:flowering_azalea_leaves
+#F89DF9 beyond_earth:glacio_stone
+#012C9A decocraft:globe_antique
 #060B35 minecraft:granite
 #3F84B7 minecraft:grass_block
 #88BAFA minecraft:gravel
@@ -45,6 +49,7 @@
 #266A57 electrodynamics:oretin
 #B75237 minecraft:packed_ice
 #47E559 byg:palm_leaves
+#F5AFCA decocraft:pc_tower_black
 #62CFF8 byg:peat
 #12E55B byg:pine_leaves
 #BB7F65 minecraft:podzol
@@ -60,13 +65,16 @@
 #33130F create:scoria
 #3768ED beyond_earth:sky_stone
 #872D76 minecraft:snow
+#12E6C4 minecraft:snow_block
 #74E2CA byg:soapstone
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
+#EF569F decocraft:spinning_wheel
 #13F5AC minecraft:spruce_leaves
 #6A8B3A minecraft:spruce_log
 #49DF61 minecraft:spruce_planks
 #D9135A minecraft:spruce_stairs
+#7A08AA decocraft:starwars
 #DC3458 minecraft:stone
 #F8955F minecraft:stone_bricks
 #5CF3F1 minecraft:sugar_cane

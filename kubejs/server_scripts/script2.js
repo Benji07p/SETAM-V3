@@ -273,9 +273,9 @@ onEvent('recipes', event => {
 		'BEB',
 		'SSS'
 	], {
-	S: 'minecraft:stick',
+	  S: 'minecraft:stick',
     B: 'minecraft:bedrock',
-	E: 'storagedrawers:emerald_storage_upgrade'
+	  E: 'storagedrawers:emerald_storage_upgrade'
 	})
 
     //Rendre le quantum block incraftable
@@ -292,7 +292,7 @@ onEvent('recipes', event => {
               "item": "extendedcrafting:black_iron_ingot",
               "count": 1
             },
-            "mana": 20000000,
+            "mana": 4000000,
             "ingredients": [
               {
                 "item": "extendedcrafting:enhanced_ender_ingot"
@@ -886,7 +886,7 @@ onEvent('recipes', event => {
     }
   )
 
-  //Black Iron Frame avec Compact Crafting
+  //Advanced Crafting Table avec Compact Crafting
     event.remove({ id: 'extendedcrafting:advanced_table' })
     event.custom({
         "type": "compactcrafting:miniaturization",
@@ -1162,7 +1162,8 @@ onEvent('recipes', event => {
         }
       }
     )
-
+    
+    //Gaia Farmer
     event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:gaia_farmer"}'), [
       'GEG',
       'EBE',
@@ -1174,6 +1175,7 @@ onEvent('recipes', event => {
     F: 'minecraft:iron_block'
     })
 
+    //Plasma Generator
     event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:plasma_gen"}'), [
       'CCC',
       'CPC',
@@ -1298,7 +1300,7 @@ onEvent('recipes', event => {
       ]
     )
 
-    //Universal Core
+    //Universe Core
     event.custom(
       {
         "type": "extendedcrafting:shaped_table",
@@ -1366,7 +1368,7 @@ onEvent('recipes', event => {
       }
     )
 
-    //Universal Reconstructor
+    //Universe Reconstructor
     event.custom(
       {
         "type": "extendedcrafting:compressor",
@@ -1414,7 +1416,7 @@ onEvent('recipes', event => {
     M: 'rftoolsbase:machine_frame'
     })
 
-    //Universe Reconstructor
+    //Reconstructor Universe
     event.custom(
       {
         "type": "lychee:block_interacting",

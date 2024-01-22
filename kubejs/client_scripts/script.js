@@ -13,4 +13,5 @@ onEvent('jei.information', event=> {
 
 onEvent('item.tooltip', tooltip => {
 	tooltip.add('timeextraminer:universal_reconstructor', ['May reconstructing the universe', 'Maybe not'])
+	tooltip.add('extendedcrafting:ultimate_singularity', ['Not consumed in alchemical ingot duplication'])
 })

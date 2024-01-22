@@ -62,15 +62,6 @@ onEvent('recipes', event => {
 	C: 'computercraft:computer_normal'
 	})
 
-	event.shaped('timeextraminer:puce_vocal', [
-		'JHJ',
-		'HCH',
-		'JHJ'
-	], {
-	C: 'electrodynamics:circuitbasic',
-	J: 'minecraft:note_block',
-	H: 'computercraft:speaker'
-	})
     event.shaped('minecraft:villager_spawn_egg', [
 		'TE ',
 		'   ',
@@ -189,10 +180,10 @@ onEvent('recipes', event => {
 	S: '#quark:stone_tool_materials'
 	})
 	event.shaped(Item.of('tconstruct:pick_head', '{Material:"tconstruct:rock"}'), [
-		'SS ',
-		' S '
+		'EE ',
+		' E '
 	], {
-	S: 'beyond_earth:permafrost'
+	E: 'beyond_earth:permafrost'
 	})
 	event.shaped(Item.of('tconstruct:pick_head', '{Material:"tconstruct:wood"}'), [
 		'BB',
@@ -460,178 +451,6 @@ onEvent('recipes', event => {
 		  }
 	)
 
-//Item Exchanger
-
-	//Silver
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotsilver"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:silver_ingot"
-			}
-		  }
-	)
-
-	//Lead
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotlead"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:lead_ingot"
-			}
-		  }
-	)
-
-	//Lithium
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotlithium"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:lithium_ingot"
-			}
-		  }
-	)
-	
-	//Titanium
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingottitanium"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:titanium_ingot"
-			}
-		  }
-	)
-
-	//Aluminium
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotaluminum"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:aluminum_ingot"
-			}
-		  }
-	)
-
-	//Vanadium
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotvanadium"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:vanadium_ingot"
-			}
-		  }
-	)
-
-	//Chromium
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotchromium"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:chromium_ingot"
-			}
-		  }
-	)
-
-	//Molybdenum
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingotmolybdenum"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:molybdenum_ingot"
-			}
-		  }
-	)
-
-	//Tin
-	event.custom(
-		{
-			"type": "alchemistry:compactor",
-			"group": "alchemistry:compactor",
-			"input": {
-			  "ingredient": {
-				"item": "electrodynamics:ingottin"
-			  },
-			},
-			"result": {
-			  "item": "chemlib:tin_ingot"
-			}
-		  }
-	)
-
-	//Blaze Blood
-	// event.custom(
-		// {
-			// "type": "electrodynamics:chemical_mixer_recipe",
-			// "iteminputs":{
-				// "count" : 1,
-				// "0": {
-					// "item": "tconstruct:blaze_head",
-					// "count": 1
-				// }
-			// },
-			// "fluidinputs":{
-				// "count" : 1,
-				// "0": {
-					// "fluid":"minecraft:water",
-					// "amount": 10
-				// }
-			// },
-			// "output": {
-				// "fluid": "tconstruct:blazing_blood",
-				// "amount": 1000
-			// }
-		// }
-		
-	// )
-
 	//Sequenced Assembly
 	event.custom(
 		{
@@ -895,7 +714,7 @@ onEvent('recipes', event => {
 		}
 	)
 	
-	//Mixeur
+	//Mixing Silicon
 	event.custom(
 		{
 			"type": "create:mixing",
@@ -972,9 +791,9 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
-	event.remove({output: 'chemlib:oganesson', type: 'alchemistry:fusion'})
 	
 	//Oganesson
+	event.remove({output: 'chemlib:oganesson', type: 'alchemistry:fusion'})
 	event.custom(
 		{
 			"type": "alchemistry:fusion",
@@ -1076,17 +895,6 @@ onEvent('recipes', event => {
 			"loops": 2
 		  }
 	)
-
-	//Atomic Assembler
-	event.shaped('nuclearscience:atomicassembler', [
-		'EEE',
-		'CAC',
-		'CCC'
-	], {
-	A: Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:atomic_assembler"}'),
-	C: 'chemlib:hafnium_ingot',
-	E: 'electrodynamics:circuitelite'
-	})
 
 	// Craft Anti-Hydrogen
 	event.custom(
@@ -1248,7 +1056,7 @@ onEvent('recipes', event => {
 			'MNM',
 			'LML'
 		], {
-		L: 'electrodynamics:ingotlead',
+		L: 'chemlib:hafnium_ingot',
 		N: Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'),
 		M: 'minecraft:clock'
 		})

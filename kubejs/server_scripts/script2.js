@@ -1,5 +1,142 @@
 onEvent('recipes', event => {
 
+  //Lead Raw
+  event.custom(
+    {
+      "type": "alchemistry:compactor",
+      "group": "alchemistry:compactor",
+      "input": {
+        "ingredient": {
+            "item": "chemlib:lead_ingot"
+        },
+        "count": 3
+      },
+      "result": {
+        "item": "electrodynamics:raworelead"
+      }
+  }
+  )
+  
+  //Pendorite
+  event.custom(
+      {
+      "type": "botania:mana_infusion",
+      "input": {
+        "item": "electrodynamics:raworelead"
+      },
+      "output": {
+        "item": "byg:raw_pendorite"
+      },
+      "mana": 400
+  }
+  )
+  
+  //Wandering Trader Egg
+  event.custom(
+    {
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "AAABBBAAA",
+      "AABBBBBAA",
+      "ABBBBBBBA",
+      "BBBBBBBBB",
+      "BBBBCBBBB",
+      "BBBBBBBBB",
+      "BBBBBBBBB",
+      "ABBBBBBBA",
+      "AABBBBBAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:egg"
+      },
+      "B": {
+        "item": "minecraft:emerald_block"
+      },
+      "C": {
+        "item": "timeextraminer:times_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:wandering_trader_spawn_egg"
+    }
+  })
+  
+  //Patch Lead
+  event.custom(
+  {
+      "type": "create:milling",
+      "ingredients": [
+        {
+          "item": "chemlib:lead_ingot"
+        },
+        {
+          "item": "chemlib:lead_ingot"
+        },
+        {
+          "item": "chemlib:lead_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "electrodynamics:raworelead",
+          "count": 1
+        }
+      ],
+      "processingTime": 50
+  }
+)
+  
+  //Honey Comb
+  event.custom(
+  {
+      "type": "create:milling",
+      "ingredients": [
+        {
+          "item": "chemlib:sucrose"
+        },
+        {
+          "item": "chemlib:sucrose"
+        },
+        {
+          "item": "chemlib:sucrose"
+        },
+        {
+          "item": "chemlib:triglyceride"
+        }
+      ],
+      "results": [
+      {
+        "item": "minecraft:honeycomb",
+        "count": 1
+      }
+      ],
+      "processingTime": 50
+    }
+  )
+
+  //Graphite
+  event.custom(
+		{
+			"type": "create:milling",
+			"ingredients": [
+			  {
+				"item": "chemlib:graphite"
+			  },
+              {
+				"item": "chemlib:graphite"
+			  }
+			],
+			"results": [
+			  {
+				"item": "minecraft:coal",
+				"count": 1
+			  }
+			],
+			"processingTime": 50
+		  }
+	)
+
     //Black Iron Frame avec Compact Crafting
     event.remove({ id: 'extendedcrafting:frame' })
     event.custom({
@@ -1055,35 +1192,13 @@ onEvent('recipes', event => {
         "powerCost": 500000,
         "inputCount": 1,
         "ingredient": {
-          "type": "forge:nbt",
-          "item": "botania:odin_ring",
-          "nbt": "{soulbindUUID:\"21662798-49d6-44b8-97a2-0c4b05c6d9c9\"}"
+          "item": "computercraft:computer_normal"
         },
         "catalyst": {
           "item": "extendedcrafting:the_ultimate_catalyst"
         },
         "result": {
           "item": "timeextraminer:benjingots"
-        }
-      }
-    )
-
-    //Ethanium
-    event.custom(
-      {
-        "type": "extendedcrafting:compressor",
-        "powerCost": 500000,
-        "inputCount": 1,
-        "ingredient": {
-          "type": "forge:nbt",
-          "item": "botania:odin_ring",
-          "nbt": "{soulbindUUID:\"a79b3301-017c-4564-9959-041cc2043865\"}"
-        },
-        "catalyst": {
-          "item": "extendedcrafting:the_ultimate_catalyst"
-        },
-        "result": {
-          "item": "timeextraminer:ethaniumingots"
         }
       }
     )
@@ -1095,15 +1210,31 @@ onEvent('recipes', event => {
         "powerCost": 500000,
         "inputCount": 1,
         "ingredient": {
-          "type": "forge:nbt",
-          "item": "botania:odin_ring",
-          "nbt": "{soulbindUUID:\"2b3038a7-b503-3ad7-a988-a913b8a85bf5\"}"
+          "item": "quark:trowel"
         },
         "catalyst": {
           "item": "extendedcrafting:the_ultimate_catalyst"
         },
         "result": {
           "item": "timeextraminer:doukingots"
+        }
+      }
+    )
+
+    //Alphmium Ingot
+    event.custom(
+      {
+        "type": "extendedcrafting:compressor",
+        "powerCost": 500000,
+        "inputCount": 1,
+        "ingredient": {
+          "item": "beyond_earth:flag_red"
+        },
+        "catalyst": {
+          "item": "extendedcrafting:the_ultimate_catalyst"
+        },
+        "result": {
+          "item": "timeextraminer:alphmium_ingot"
         }
       }
     )
@@ -1184,6 +1315,17 @@ onEvent('recipes', event => {
     C: 'minecraft:cobblestone',
     P: 'electrodynamics:railgunplasma',
     R: 'minecraft:redstone'
+    })
+
+    //Pendorite with Emerald
+    event.shaped(Item.of('byg:pendorite_ingot'), [
+      'CCC',
+      'CPP',
+      'EE '
+    ], {
+    C: 'byg:pendorite_scraps',
+    E: 'minecraft:emerald',
+    P: 'minecraft:diamond'
     })
 
     //Dimension Quantique
@@ -1300,6 +1442,13 @@ onEvent('recipes', event => {
       ]
     )
 
+    //Pendorite Compat
+    event.shapeless(Item.of('byg:pendorite_ingot', 9),
+      [ 
+        'byg:pendorite_block'
+      ]
+    )
+
     //Universe Core
     event.custom(
       {
@@ -1341,7 +1490,7 @@ onEvent('recipes', event => {
             "item": "timeextraminer:furingots"
           },
           "I": {
-            "item": "timeextraminer:ethaniumingots"
+            "item": "timeextraminer:alphmium_ingot"
           },
           "J": {
             "item": "storagedrawers:creative_vending_upgrade"

@@ -914,16 +914,16 @@ onEvent('recipes', event => {
           "output": {
             "item": "timeextraminer:raw_time_cristal"
           },
-          "minRolls": 10,
-          "maxRolls": 20
+          "minRolls": 100,
+          "maxRolls": 200
         },
         {
           "chance": 1.00,
           "output": {
             "item": "timeextraminer:temporal_seeds"
           },
-          "minRolls": 10,
-          "maxRolls": 20
+          "minRolls": 5,
+          "maxRolls": 10
         }
       ]
     }

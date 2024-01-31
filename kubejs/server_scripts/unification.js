@@ -8,6 +8,8 @@ onEvent('recipes', event => {
 	event.remove({ id: 'beyond_earth:steel_ingot_from_nugget' })
 	event.remove({ id: 'beyond_earth:steel_nugget_from_ingot' })
 	event.remove({ id: 'beyond_earth:steel_ingot_blasting' })
+	event.remove({ id: 'beyond_earth_giselle_addon:blasting/steel_ingot_from_compresseds' })
+	event.remove({ id: 'beyond_earth_giselle_addon:smelting/steel_ingot_from_compresseds' })
 	event.remove({ id: 'car:iron_stick'})
 	event.remove({ id: 'alchemistry:copper_ingot_from_blasting_copper_dust'})
 	event.remove({ id: 'alchemistry:copper_ingot_from_smelting_copper_dust'})

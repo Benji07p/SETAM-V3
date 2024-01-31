@@ -206,7 +206,7 @@ onEvent('recipes', event => {
         ],
         "key": {
           "A": {
-            "item": "chemlib:lithium_ingot"
+            "item": "electrodynamics:ingotlithium"
           },
           "B": {
             "item": "chemlib:beryllium_ingot"
@@ -230,13 +230,13 @@ onEvent('recipes', event => {
             "item": "chemlib:scandium_ingot"
           },
           "I": {
-            "item": "chemlib:titanium_ingot"
+            "item": "electrodynamics:ingottitanium"
           },
           "J": {
-            "item": "chemlib:vanadium_ingot"
+            "item": "electrodynamics:ingotvanadium"
           },
           "K": {
-            "item": "chemlib:chromium_ingot"
+            "item": "electrodynamics:ingotchromium"
           },
           "L": {
             "item": "chemlib:manganese_ingot"
@@ -254,7 +254,7 @@ onEvent('recipes', event => {
             "item": "minecraft:copper_ingot"
           },
           "Q": {
-            "item": "chemlib:zinc_ingot"
+            "item": "create:zinc_ingot"
           },
           "R": {
             "item": "chemlib:gallium_ingot"
@@ -275,7 +275,7 @@ onEvent('recipes', event => {
             "item": "chemlib:niobium_ingot"
           },
           "X": {
-            "item": "chemlib:molybdenum_ingot"
+            "item": "electrodynamics:ingotmolybdenum"
           },
           "Y": {
             "item": "chemlib:ruthenium_ingot"

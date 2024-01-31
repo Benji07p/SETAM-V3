@@ -218,7 +218,7 @@ onEvent('recipes', event => {
             "item": "chemlib:magnesium_ingot"
           },
           "E": {
-            "item": "chemlib:aluminum_ingot"
+            "item": "electrodynamics:ingotaluminum"
           },
           "F": {
             "item": "chemlib:potassium_ingot"
@@ -287,7 +287,7 @@ onEvent('recipes', event => {
             "item": "chemlib:palladium_ingot"
           },
           "b": {
-            "item": "chemlib:silver_ingot"
+            "item": "electrodynamics:ingotsilver"
           },
           "c": {
             "item": "chemlib:cadmium_ingot"
@@ -296,7 +296,7 @@ onEvent('recipes', event => {
             "item": "chemlib:indium_ingot"
           },
           "e": {
-            "item": "chemlib:tin_ingot"
+            "item": "electrodynamics:ingottin"
           },
           "f": {
             "item": "chemlib:cesium_ingot"
@@ -548,7 +548,7 @@ onEvent('recipes', event => {
                 "item": "electrodynamics:ingottitanium"
               },
               "V": {
-                "item": "beyond_earth:steel_ingot"
+                "item": "chemlib:magnesium_ingot"
               },
               "W": {
                 "item": "beyond_earth:desh_ingot"

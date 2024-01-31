@@ -222,7 +222,7 @@ onEvent('recipes', event => {
             "item": "minecraft:iron_ingot"
           },
           "N": {
-            "item": "chemlib:cobalt_ingot"
+            "item": "tconstruct:cobalt_ingot"
           },
           "O": {
             "item": "chemlib:nickel_ingot"

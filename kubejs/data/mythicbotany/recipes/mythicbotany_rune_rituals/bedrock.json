@@ -303,7 +303,7 @@
       },
       {
         "rune": {
-            "item": "beyond_earth:steel_ingot"
+            "item": "timeextraminer:bedrock_ingot"
         },
         "x": 0,
         "z": -5,
@@ -336,7 +336,7 @@
     "outputs": [
         {
             "item": "minecraft:bedrock",
-            "count": 1
+            "count": 2
           }
     ]
   }

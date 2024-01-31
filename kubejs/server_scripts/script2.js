@@ -1,21 +1,4 @@
 onEvent('recipes', event => {
-
-  //Lead Raw
-  event.custom(
-    {
-      "type": "alchemistry:compactor",
-      "group": "alchemistry:compactor",
-      "input": {
-        "ingredient": {
-            "item": "chemlib:lead_ingot"
-        },
-        "count": 3
-      },
-      "result": {
-        "item": "electrodynamics:raworelead"
-      }
-  }
-  )
   
   //Pendorite
   event.custom(
@@ -68,13 +51,7 @@ onEvent('recipes', event => {
       "type": "create:milling",
       "ingredients": [
         {
-          "item": "chemlib:lead_ingot"
-        },
-        {
-          "item": "chemlib:lead_ingot"
-        },
-        {
-          "item": "chemlib:lead_ingot"
+          "item": "electrodynamics:ingotlead"
         }
       ],
       "results": [
@@ -371,7 +348,7 @@ onEvent('recipes', event => {
             "item": "chemlib:thallium_ingot"
           },
           "3": {
-            "item": "chemlib:lead_ingot"
+            "item": "electrodynamics:ingotlead"
           },
           "4": {
             "item": "chemlib:bismuth_ingot"

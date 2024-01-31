@@ -85,6 +85,7 @@ onEvent('item.tags', event => {
 	event.get('forge:dusts/copper').remove('chemlib:copper_dust')
 	event.get('forge:wires/copper').remove('createaddition:copper_wire')
 	event.get('forge:plates/copper').remove('chemlib:copper_plate')
+	event.get('forge:nuggets').remove('create:copper_nugget')
 
 	//Tin
 	event.get('forge:nuggets/tin').remove('chemlib:tin_nugget')

@@ -1,112 +1,224 @@
-[19:27:32.894][INFO]: Receiving recipe: custommachinery:kjs_bxc9g7546ukya80n0jn2p5wmc from server.
-[19:27:32.899][INFO]: Sucessfully received recipe: custommachinery:kjs_bxc9g7546ukya80n0jn2p5wmc from server.
-[19:27:32.923][INFO]: Receiving recipe: custommachinery:kjs_7trp8vswgt10qb0nq52f7aejw from server.
-[19:27:32.924][INFO]: Sucessfully received recipe: custommachinery:kjs_7trp8vswgt10qb0nq52f7aejw from server.
-[19:27:32.933][INFO]: Receiving recipe: custommachinery:kjs_6g3fkd05m8n7ibwje16fh2dnt from server.
-[19:27:32.933][INFO]: Sucessfully received recipe: custommachinery:kjs_6g3fkd05m8n7ibwje16fh2dnt from server.
-[19:27:32.938][INFO]: Receiving recipe: custommachinery:kjs_adeht1turn3xb2951k9jnx85p from server.
-[19:27:32.938][INFO]: Sucessfully received recipe: custommachinery:kjs_adeht1turn3xb2951k9jnx85p from server.
-[19:27:32.989][INFO]: Receiving recipe: custommachinery:kjs_bhifnjeeazxsrc8e10fbv6nnx from server.
-[19:27:32.991][INFO]: Sucessfully received recipe: custommachinery:kjs_bhifnjeeazxsrc8e10fbv6nnx from server.
-[19:27:32.995][INFO]: Receiving recipe: custommachinery:kjs_81lkyw3nkxwiq1843x6tcn4df from server.
-[19:27:32.996][INFO]: Sucessfully received recipe: custommachinery:kjs_81lkyw3nkxwiq1843x6tcn4df from server.
-[19:27:33.005][INFO]: Receiving recipe: custommachinery:kjs_ehi8nfomgeism0wywyw18uasg from server.
-[19:27:33.005][INFO]: Sucessfully received recipe: custommachinery:kjs_ehi8nfomgeism0wywyw18uasg from server.
-[19:27:33.006][INFO]: Receiving recipe: custommachinery:kjs_7vb06sndw8kmk2x0h6cl3xfke from server.
-[19:27:33.006][INFO]: Sucessfully received recipe: custommachinery:kjs_7vb06sndw8kmk2x0h6cl3xfke from server.
-[19:27:33.014][INFO]: Receiving recipe: custommachinery:kjs_b35xs70y5b224yws2vqaofyfp from server.
-[19:27:33.015][ERROR]: Error while deserializing Requirement: "custommachinery:redstone"
+[17:22:02.824][INFO]: Receiving recipe: custommachinery:kjs_c8nytvirqdytsquh6wvt2b26c from server.
+[17:22:02.830][INFO]: Sucessfully received recipe: custommachinery:kjs_c8nytvirqdytsquh6wvt2b26c from server.
+[17:22:02.847][INFO]: Receiving recipe: custommachinery:kjs_81lkyw3nkxwiq1843x6tcn4df from server.
+[17:22:02.848][INFO]: Sucessfully received recipe: custommachinery:kjs_81lkyw3nkxwiq1843x6tcn4df from server.
+[17:22:02.851][INFO]: Receiving recipe: custommachinery:kjs_7vb06sndw8kmk2x0h6cl3xfke from server.
+[17:22:02.852][INFO]: Sucessfully received recipe: custommachinery:kjs_7vb06sndw8kmk2x0h6cl3xfke from server.
+[17:22:02.859][INFO]: Receiving recipe: custommachinery:kjs_2s8po1e4jimpevuch51g4uwli from server.
+[17:22:02.859][INFO]: Sucessfully received recipe: custommachinery:kjs_2s8po1e4jimpevuch51g4uwli from server.
+[17:22:02.864][INFO]: Receiving recipe: custommachinery:kjs_7mrfzae8m4n32fa73igaokaut from server.
+[17:22:02.864][INFO]: Sucessfully received recipe: custommachinery:kjs_7mrfzae8m4n32fa73igaokaut from server.
+[17:22:02.867][INFO]: Receiving recipe: custommachinery:kjs_cgcdzakb04myzrgrx3yff7112 from server.
+[17:22:02.868][INFO]: Sucessfully received recipe: custommachinery:kjs_cgcdzakb04myzrgrx3yff7112 from server.
+[17:22:02.876][INFO]: Receiving recipe: custommachinery:kjs_4l8wfm9o8vbv48jkgfkn29yem from server.
+[17:22:02.876][INFO]: Sucessfully received recipe: custommachinery:kjs_4l8wfm9o8vbv48jkgfkn29yem from server.
+[17:22:02.880][INFO]: Receiving recipe: custommachinery:kjs_bxc9g7546ukya80n0jn2p5wmc from server.
+[17:22:02.880][INFO]: Sucessfully received recipe: custommachinery:kjs_bxc9g7546ukya80n0jn2p5wmc from server.
+[17:22:02.889][INFO]: Receiving recipe: custommachinery:kjs_bhifnjeeazxsrc8e10fbv6nnx from server.
+[17:22:02.892][INFO]: Sucessfully received recipe: custommachinery:kjs_bhifnjeeazxsrc8e10fbv6nnx from server.
+[17:22:02.905][INFO]: Receiving recipe: custommachinery:kjs_5v353ngdrsgiu43xloosw1edg from server.
+[17:22:02.905][INFO]: Sucessfully received recipe: custommachinery:kjs_5v353ngdrsgiu43xloosw1edg from server.
+[17:22:02.905][INFO]: Receiving recipe: custommachinery:kjs_4g00bz6klec5ix7cs1teuy4oc from server.
+[17:22:02.906][INFO]: Sucessfully received recipe: custommachinery:kjs_4g00bz6klec5ix7cs1teuy4oc from server.
+[17:22:02.906][INFO]: Receiving recipe: custommachinery:kjs_4r53ryx2zb32thhp9x39qd7tp from server.
+[17:22:02.907][INFO]: Sucessfully received recipe: custommachinery:kjs_4r53ryx2zb32thhp9x39qd7tp from server.
+[17:22:02.909][INFO]: Receiving recipe: custommachinery:kjs_19n7nl3ij5x1es17xyn5gby26 from server.
+[17:22:02.909][INFO]: Sucessfully received recipe: custommachinery:kjs_19n7nl3ij5x1es17xyn5gby26 from server.
+[17:22:02.913][INFO]: Receiving recipe: custommachinery:kjs_er3ns4b6io2fiyvdro572raep from server.
+[17:22:02.914][INFO]: Sucessfully received recipe: custommachinery:kjs_er3ns4b6io2fiyvdro572raep from server.
+[17:22:02.922][INFO]: Receiving recipe: custommachinery:kjs_5hv7zu93r064gvi0iz0xq416w from server.
+[17:22:02.923][INFO]: Sucessfully received recipe: custommachinery:kjs_5hv7zu93r064gvi0iz0xq416w from server.
+[17:22:02.925][INFO]: Receiving recipe: custommachinery:kjs_1t95je93vlr9ocpd9zmb62zcz from server.
+[17:22:02.925][INFO]: Sucessfully received recipe: custommachinery:kjs_1t95je93vlr9ocpd9zmb62zcz from server.
+[17:22:02.932][INFO]: Receiving recipe: custommachinery:kjs_8ooklezvnr7rnh20n6nrof3c7 from server.
+[17:22:02.933][INFO]: Sucessfully received recipe: custommachinery:kjs_8ooklezvnr7rnh20n6nrof3c7 from server.
+[17:22:02.937][INFO]: Receiving recipe: custommachinery:kjs_9catfe9cprwib29v7rxkymj0p from server.
+[17:22:02.937][INFO]: Sucessfully received recipe: custommachinery:kjs_9catfe9cprwib29v7rxkymj0p from server.
+[17:22:02.943][INFO]: Receiving recipe: custommachinery:kjs_adeht1turn3xb2951k9jnx85p from server.
+[17:22:02.943][INFO]: Sucessfully received recipe: custommachinery:kjs_adeht1turn3xb2951k9jnx85p from server.
+[17:22:02.944][INFO]: Receiving recipe: custommachinery:kjs_4bul66qtu3qsd77ypuorjl6co from server.
+[17:22:02.944][INFO]: Sucessfully received recipe: custommachinery:kjs_4bul66qtu3qsd77ypuorjl6co from server.
+[17:22:02.945][INFO]: Receiving recipe: custommachinery:kjs_dpykpehu5gb5ys2pyfjhzx7zb from server.
+[17:22:02.945][INFO]: Sucessfully received recipe: custommachinery:kjs_dpykpehu5gb5ys2pyfjhzx7zb from server.
+[17:22:02.952][INFO]: Receiving recipe: custommachinery:kjs_6rc9ci4ip3ku95j5wyfh9bff5 from server.
+[17:22:02.952][INFO]: Sucessfully received recipe: custommachinery:kjs_6rc9ci4ip3ku95j5wyfh9bff5 from server.
+[17:22:02.979][INFO]: Receiving recipe: custommachinery:kjs_a07d4cq1rukoy90k41pr7quxl from server.
+[17:22:02.980][INFO]: Sucessfully received recipe: custommachinery:kjs_a07d4cq1rukoy90k41pr7quxl from server.
+[17:22:02.980][INFO]: Receiving recipe: custommachinery:kjs_39s4nj6pposxc4rgttq6iq9n8 from server.
+[17:22:02.980][INFO]: Sucessfully received recipe: custommachinery:kjs_39s4nj6pposxc4rgttq6iq9n8 from server.
+[17:22:02.983][INFO]: Receiving recipe: custommachinery:kjs_ehi8nfomgeism0wywyw18uasg from server.
+[17:22:02.983][INFO]: Sucessfully received recipe: custommachinery:kjs_ehi8nfomgeism0wywyw18uasg from server.
+[17:22:02.985][INFO]: Receiving recipe: custommachinery:kjs_1xqraahf4wircgqucyedrvrou from server.
+[17:22:02.986][INFO]: Sucessfully received recipe: custommachinery:kjs_1xqraahf4wircgqucyedrvrou from server.
+[17:22:02.988][INFO]: Receiving recipe: custommachinery:kjs_cdlxsfskldfhbulzilbzk39y3 from server.
+[17:22:02.989][INFO]: Sucessfully received recipe: custommachinery:kjs_cdlxsfskldfhbulzilbzk39y3 from server.
+[17:22:02.996][INFO]: Receiving recipe: custommachinery:kjs_6u7as6iqf1ovceqxxb9x5z6je from server.
+[17:22:02.996][INFO]: Sucessfully received recipe: custommachinery:kjs_6u7as6iqf1ovceqxxb9x5z6je from server.
+[17:22:03.009][INFO]: Receiving recipe: custommachinery:kjs_8tc3p472h61oci1ynr4g5q1nz from server.
+[17:22:03.010][INFO]: Sucessfully received recipe: custommachinery:kjs_8tc3p472h61oci1ynr4g5q1nz from server.
+[17:22:03.012][INFO]: Receiving recipe: custommachinery:kjs_ddft3mo1yve6rk7hhf1n89dal from server.
+[17:22:03.012][INFO]: Sucessfully received recipe: custommachinery:kjs_ddft3mo1yve6rk7hhf1n89dal from server.
+[17:22:03.012][INFO]: Receiving recipe: custommachinery:kjs_14zg32tqbnw59g9el2qp45402 from server.
+[17:22:03.013][INFO]: Sucessfully received recipe: custommachinery:kjs_14zg32tqbnw59g9el2qp45402 from server.
+[17:22:03.016][INFO]: Receiving recipe: custommachinery:kjs_59kbh2c0zq0q3u92traxf3c10 from server.
+[17:22:03.016][INFO]: Sucessfully received recipe: custommachinery:kjs_59kbh2c0zq0q3u92traxf3c10 from server.
+[17:22:03.016][INFO]: Receiving recipe: custommachinery:kjs_8xpg8q2gijj8gg8qi0zj5ajk1 from server.
+[17:22:03.016][INFO]: Sucessfully received recipe: custommachinery:kjs_8xpg8q2gijj8gg8qi0zj5ajk1 from server.
+[17:22:03.029][INFO]: Receiving recipe: custommachinery:kjs_9qey4mf58ulqqufhg10spjedm from server.
+[17:22:03.029][INFO]: Sucessfully received recipe: custommachinery:kjs_9qey4mf58ulqqufhg10spjedm from server.
+[17:22:03.033][INFO]: Receiving recipe: custommachinery:kjs_f2c7e8o6v6cpkzf0qlul2vdoq from server.
+[17:22:03.033][INFO]: Sucessfully received recipe: custommachinery:kjs_f2c7e8o6v6cpkzf0qlul2vdoq from server.
+[17:22:03.035][INFO]: Receiving recipe: custommachinery:kjs_6qsxfvu1j7iofft7nr1mumeqq from server.
+[17:22:03.035][INFO]: Sucessfully received recipe: custommachinery:kjs_6qsxfvu1j7iofft7nr1mumeqq from server.
+[17:22:03.039][INFO]: Receiving recipe: custommachinery:kjs_5mnwgtozzq1sx8f8r6lgq4nv5 from server.
+[17:22:03.039][INFO]: Sucessfully received recipe: custommachinery:kjs_5mnwgtozzq1sx8f8r6lgq4nv5 from server.
+[17:22:03.045][INFO]: Receiving recipe: custommachinery:kjs_9pv132m5yw2zqgnpwdzs69p3h from server.
+[17:22:03.046][INFO]: Sucessfully received recipe: custommachinery:kjs_9pv132m5yw2zqgnpwdzs69p3h from server.
+[17:22:03.050][INFO]: Receiving recipe: custommachinery:kjs_9ofmsupv64tvmhl0x4wllgnqt from server.
+[17:22:03.050][INFO]: Sucessfully received recipe: custommachinery:kjs_9ofmsupv64tvmhl0x4wllgnqt from server.
+[17:22:03.052][INFO]: Receiving recipe: custommachinery:kjs_cjhotzqn8rzn2p6czd12jc0ou from server.
+[17:22:03.052][INFO]: Sucessfully received recipe: custommachinery:kjs_cjhotzqn8rzn2p6czd12jc0ou from server.
+[17:22:03.052][INFO]: Receiving recipe: custommachinery:kjs_b35xs70y5b224yws2vqaofyfp from server.
+[17:22:03.053][ERROR]: Error while deserializing Requirement: "custommachinery:redstone"
 Range cannot have identical boundaries: [15,15]
-[19:27:33.017][WARN]: Error while deserializing optional property "requirements" of type: List[Codec[KeyDispatchCodec[fr.frinn.custommachinery.impl.codec.RegistrarCodec@62f097f9 java.util.function.Function$$Lambda$1182/0x0000000800553378@1027307b java.util.function.Function$$Lambda$1182/0x0000000800553378@2cf463ef][mapResult fr.frinn.custommachinery.impl.codec.CodecLogger$1@46693fec] KeyDispatchCodec[fr.frinn.custommachinery.impl.codec.RegistrarCodec@62f097f9 java.util.function.Function$$Lambda$1182/0x0000000800553378@1027307b java.util.function.Function$$Lambda$1182/0x0000000800553378@2cf463ef][mapResult fr.frinn.custommachinery.impl.codec.CodecLogger$1@46693fec][promotePartial]]]
+[17:22:03.055][WARN]: Error while deserializing optional property "requirements" of type: List[Codec[KeyDispatchCodec[fr.frinn.custommachinery.impl.codec.RegistrarCodec@73428914 java.util.function.Function$$Lambda$1182/0x0000000800553260@4dce4c84 java.util.function.Function$$Lambda$1182/0x0000000800553260@45419913][mapResult fr.frinn.custommachinery.impl.codec.CodecLogger$1@6c8c75f4] KeyDispatchCodec[fr.frinn.custommachinery.impl.codec.RegistrarCodec@73428914 java.util.function.Function$$Lambda$1182/0x0000000800553260@4dce4c84 java.util.function.Function$$Lambda$1182/0x0000000800553260@45419913][mapResult fr.frinn.custommachinery.impl.codec.CodecLogger$1@6c8c75f4][promotePartial]]]
 Error while deserializing Requirement: "custommachinery:redstone"
 Range cannot have identical boundaries: [15,15]
 Using default value: []
-[19:27:33.017][INFO]: Sucessfully received recipe: custommachinery:kjs_b35xs70y5b224yws2vqaofyfp from server.
-[19:27:33.026][INFO]: Receiving recipe: custommachinery:kjs_8wnh7wn6q1byr03zr6vbz2829 from server.
-[19:27:33.026][INFO]: Sucessfully received recipe: custommachinery:kjs_8wnh7wn6q1byr03zr6vbz2829 from server.
-[19:27:33.029][INFO]: Receiving recipe: custommachinery:kjs_2drw1c5izehl7qc30nfgt7cwb from server.
-[19:27:33.030][INFO]: Sucessfully received recipe: custommachinery:kjs_2drw1c5izehl7qc30nfgt7cwb from server.
-[19:27:33.030][INFO]: Receiving recipe: custommachinery:kjs_14zg32tqbnw59g9el2qp45402 from server.
-[19:27:33.031][INFO]: Sucessfully received recipe: custommachinery:kjs_14zg32tqbnw59g9el2qp45402 from server.
-[19:27:33.031][INFO]: Receiving recipe: custommachinery:kjs_4g00bz6klec5ix7cs1teuy4oc from server.
-[19:27:33.031][INFO]: Sucessfully received recipe: custommachinery:kjs_4g00bz6klec5ix7cs1teuy4oc from server.
-[19:27:33.033][INFO]: Receiving recipe: custommachinery:kjs_9g7yk2qacteit5i3rnklp1jvr from server.
-[19:27:33.034][INFO]: Sucessfully received recipe: custommachinery:kjs_9g7yk2qacteit5i3rnklp1jvr from server.
-[19:27:33.034][INFO]: Receiving recipe: custommachinery:kjs_9pv132m5yw2zqgnpwdzs69p3h from server.
-[19:27:33.035][INFO]: Sucessfully received recipe: custommachinery:kjs_9pv132m5yw2zqgnpwdzs69p3h from server.
-[19:27:33.040][INFO]: Receiving recipe: custommachinery:kjs_59kbh2c0zq0q3u92traxf3c10 from server.
-[19:27:33.041][INFO]: Sucessfully received recipe: custommachinery:kjs_59kbh2c0zq0q3u92traxf3c10 from server.
-[19:27:33.043][INFO]: Receiving recipe: custommachinery:kjs_9468hzr0hfv43ad7tu2ufumk0 from server.
-[19:27:33.043][INFO]: Sucessfully received recipe: custommachinery:kjs_9468hzr0hfv43ad7tu2ufumk0 from server.
-[19:27:33.046][INFO]: Receiving recipe: custommachinery:kjs_cgcdzakb04myzrgrx3yff7112 from server.
-[19:27:33.047][INFO]: Sucessfully received recipe: custommachinery:kjs_cgcdzakb04myzrgrx3yff7112 from server.
-[19:27:33.056][INFO]: Receiving recipe: custommachinery:kjs_dpykpehu5gb5ys2pyfjhzx7zb from server.
-[19:27:33.057][INFO]: Sucessfully received recipe: custommachinery:kjs_dpykpehu5gb5ys2pyfjhzx7zb from server.
-[19:27:33.060][INFO]: Receiving recipe: custommachinery:kjs_a07d4cq1rukoy90k41pr7quxl from server.
-[19:27:33.060][INFO]: Sucessfully received recipe: custommachinery:kjs_a07d4cq1rukoy90k41pr7quxl from server.
-[19:27:33.061][INFO]: Receiving recipe: custommachinery:kjs_2s8po1e4jimpevuch51g4uwli from server.
-[19:27:33.061][INFO]: Sucessfully received recipe: custommachinery:kjs_2s8po1e4jimpevuch51g4uwli from server.
-[19:27:33.065][INFO]: Receiving recipe: custommachinery:kjs_6qsxfvu1j7iofft7nr1mumeqq from server.
-[19:27:33.065][INFO]: Sucessfully received recipe: custommachinery:kjs_6qsxfvu1j7iofft7nr1mumeqq from server.
-[19:27:33.066][INFO]: Receiving recipe: custommachinery:kjs_9qey4mf58ulqqufhg10spjedm from server.
-[19:27:33.066][INFO]: Sucessfully received recipe: custommachinery:kjs_9qey4mf58ulqqufhg10spjedm from server.
-[19:27:33.072][INFO]: Receiving recipe: custommachinery:kjs_6rc9ci4ip3ku95j5wyfh9bff5 from server.
-[19:27:33.073][INFO]: Sucessfully received recipe: custommachinery:kjs_6rc9ci4ip3ku95j5wyfh9bff5 from server.
-[19:27:33.073][INFO]: Receiving recipe: custommachinery:kjs_cdp4csu6rln6cckt1jou8sp8b from server.
-[19:27:33.074][INFO]: Sucessfully received recipe: custommachinery:kjs_cdp4csu6rln6cckt1jou8sp8b from server.
-[19:27:33.077][INFO]: Receiving recipe: custommachinery:kjs_5v353ngdrsgiu43xloosw1edg from server.
-[19:27:33.077][INFO]: Sucessfully received recipe: custommachinery:kjs_5v353ngdrsgiu43xloosw1edg from server.
-[19:27:33.078][INFO]: Receiving recipe: custommachinery:kjs_7mrfzae8m4n32fa73igaokaut from server.
-[19:27:33.079][INFO]: Sucessfully received recipe: custommachinery:kjs_7mrfzae8m4n32fa73igaokaut from server.
-[19:27:33.079][INFO]: Receiving recipe: custommachinery:kjs_c1v77jim015do6cm325zy1wql from server.
-[19:27:33.080][INFO]: Sucessfully received recipe: custommachinery:kjs_c1v77jim015do6cm325zy1wql from server.
-[19:27:33.084][INFO]: Receiving recipe: custommachinery:kjs_39s4nj6pposxc4rgttq6iq9n8 from server.
-[19:27:33.085][INFO]: Sucessfully received recipe: custommachinery:kjs_39s4nj6pposxc4rgttq6iq9n8 from server.
-[19:27:33.087][INFO]: Receiving recipe: custommachinery:kjs_5hv7zu93r064gvi0iz0xq416w from server.
-[19:27:33.087][INFO]: Sucessfully received recipe: custommachinery:kjs_5hv7zu93r064gvi0iz0xq416w from server.
-[19:27:33.089][INFO]: Receiving recipe: custommachinery:kjs_4bul66qtu3qsd77ypuorjl6co from server.
-[19:27:33.089][INFO]: Sucessfully received recipe: custommachinery:kjs_4bul66qtu3qsd77ypuorjl6co from server.
-[19:27:33.091][INFO]: Receiving recipe: custommachinery:kjs_19n7nl3ij5x1es17xyn5gby26 from server.
-[19:27:33.091][INFO]: Sucessfully received recipe: custommachinery:kjs_19n7nl3ij5x1es17xyn5gby26 from server.
-[19:27:33.100][INFO]: Receiving recipe: custommachinery:kjs_4l8wfm9o8vbv48jkgfkn29yem from server.
-[19:27:33.100][INFO]: Sucessfully received recipe: custommachinery:kjs_4l8wfm9o8vbv48jkgfkn29yem from server.
-[19:27:33.102][INFO]: Receiving recipe: custommachinery:kjs_8xpg8q2gijj8gg8qi0zj5ajk1 from server.
-[19:27:33.102][INFO]: Sucessfully received recipe: custommachinery:kjs_8xpg8q2gijj8gg8qi0zj5ajk1 from server.
-[19:27:33.127][INFO]: Receiving recipe: custommachinery:kjs_6u7as6iqf1ovceqxxb9x5z6je from server.
-[19:27:33.127][INFO]: Sucessfully received recipe: custommachinery:kjs_6u7as6iqf1ovceqxxb9x5z6je from server.
-[19:27:33.131][INFO]: Receiving recipe: custommachinery:kjs_er3ns4b6io2fiyvdro572raep from server.
-[19:27:33.131][INFO]: Sucessfully received recipe: custommachinery:kjs_er3ns4b6io2fiyvdro572raep from server.
-[19:27:33.131][INFO]: Receiving recipe: custommachinery:kjs_cdlxsfskldfhbulzilbzk39y3 from server.
-[19:27:33.131][INFO]: Sucessfully received recipe: custommachinery:kjs_cdlxsfskldfhbulzilbzk39y3 from server.
-[19:27:33.132][INFO]: Receiving recipe: custommachinery:kjs_5afguj1zi0otqai2a7o4gnfw3 from server.
-[19:27:33.133][INFO]: Sucessfully received recipe: custommachinery:kjs_5afguj1zi0otqai2a7o4gnfw3 from server.
-[19:27:33.136][INFO]: Receiving recipe: custommachinery:kjs_8tc3p472h61oci1ynr4g5q1nz from server.
-[19:27:33.136][INFO]: Sucessfully received recipe: custommachinery:kjs_8tc3p472h61oci1ynr4g5q1nz from server.
-[19:27:33.137][INFO]: Receiving recipe: custommachinery:kjs_4bs70ykb1hihtkrlxk80p1byd from server.
-[19:27:33.137][INFO]: Sucessfully received recipe: custommachinery:kjs_4bs70ykb1hihtkrlxk80p1byd from server.
-[19:27:33.140][INFO]: Receiving recipe: custommachinery:kjs_5mnwgtozzq1sx8f8r6lgq4nv5 from server.
-[19:27:33.140][INFO]: Sucessfully received recipe: custommachinery:kjs_5mnwgtozzq1sx8f8r6lgq4nv5 from server.
-[19:27:33.145][INFO]: Receiving recipe: custommachinery:kjs_9ofmsupv64tvmhl0x4wllgnqt from server.
-[19:27:33.145][INFO]: Sucessfully received recipe: custommachinery:kjs_9ofmsupv64tvmhl0x4wllgnqt from server.
-[19:27:33.153][INFO]: Receiving recipe: custommachinery:kjs_cjhotzqn8rzn2p6czd12jc0ou from server.
-[19:27:33.153][INFO]: Sucessfully received recipe: custommachinery:kjs_cjhotzqn8rzn2p6czd12jc0ou from server.
-[19:27:33.165][INFO]: Receiving recipe: custommachinery:kjs_8ooklezvnr7rnh20n6nrof3c7 from server.
-[19:27:33.166][INFO]: Sucessfully received recipe: custommachinery:kjs_8ooklezvnr7rnh20n6nrof3c7 from server.
-[19:27:33.168][INFO]: Receiving recipe: custommachinery:kjs_ddft3mo1yve6rk7hhf1n89dal from server.
-[19:27:33.169][INFO]: Sucessfully received recipe: custommachinery:kjs_ddft3mo1yve6rk7hhf1n89dal from server.
-[19:27:33.170][INFO]: Receiving recipe: custommachinery:kjs_c8nytvirqdytsquh6wvt2b26c from server.
-[19:27:33.170][INFO]: Sucessfully received recipe: custommachinery:kjs_c8nytvirqdytsquh6wvt2b26c from server.
-[19:27:33.172][INFO]: Receiving recipe: custommachinery:kjs_1xqraahf4wircgqucyedrvrou from server.
-[19:27:33.173][INFO]: Sucessfully received recipe: custommachinery:kjs_1xqraahf4wircgqucyedrvrou from server.
-[19:27:33.174][INFO]: Receiving recipe: custommachinery:kjs_1t95je93vlr9ocpd9zmb62zcz from server.
-[19:27:33.174][INFO]: Sucessfully received recipe: custommachinery:kjs_1t95je93vlr9ocpd9zmb62zcz from server.
-[19:27:33.176][INFO]: Receiving recipe: custommachinery:kjs_f2c7e8o6v6cpkzf0qlul2vdoq from server.
-[19:27:33.176][INFO]: Sucessfully received recipe: custommachinery:kjs_f2c7e8o6v6cpkzf0qlul2vdoq from server.
-[19:27:33.177][INFO]: Receiving recipe: custommachinery:kjs_4r53ryx2zb32thhp9x39qd7tp from server.
-[19:27:33.177][INFO]: Sucessfully received recipe: custommachinery:kjs_4r53ryx2zb32thhp9x39qd7tp from server.
-[19:27:33.177][INFO]: Receiving recipe: custommachinery:kjs_6k7emvbj53ndbp7q3fpyfouc0 from server.
-[19:27:33.178][INFO]: Sucessfully received recipe: custommachinery:kjs_6k7emvbj53ndbp7q3fpyfouc0 from server.
-[19:27:33.179][INFO]: Receiving recipe: custommachinery:kjs_9catfe9cprwib29v7rxkymj0p from server.
-[19:27:33.179][INFO]: Sucessfully received recipe: custommachinery:kjs_9catfe9cprwib29v7rxkymj0p from server.
-[19:27:33.183][INFO]: Receiving recipe: custommachinery:kjs_d0droiepdi7rdf0ycf7jsv53g from server.
-[19:27:33.184][INFO]: Sucessfully received recipe: custommachinery:kjs_d0droiepdi7rdf0ycf7jsv53g from server.
+[17:22:03.056][INFO]: Sucessfully received recipe: custommachinery:kjs_b35xs70y5b224yws2vqaofyfp from server.
+[17:22:03.056][INFO]: Receiving recipe: custommachinery:kjs_4bs70ykb1hihtkrlxk80p1byd from server.
+[17:22:03.056][INFO]: Sucessfully received recipe: custommachinery:kjs_4bs70ykb1hihtkrlxk80p1byd from server.
+[17:22:03.057][INFO]: Receiving recipe: custommachinery:kjs_2drw1c5izehl7qc30nfgt7cwb from server.
+[17:22:03.057][INFO]: Sucessfully received recipe: custommachinery:kjs_2drw1c5izehl7qc30nfgt7cwb from server.
+[17:22:03.081][INFO]: Receiving recipe: custommachinery:kjs_8wnh7wn6q1byr03zr6vbz2829 from server.
+[17:22:03.081][INFO]: Sucessfully received recipe: custommachinery:kjs_8wnh7wn6q1byr03zr6vbz2829 from server.
+[17:22:03.082][INFO]: Receiving recipe: custommachinery:kjs_7trp8vswgt10qb0nq52f7aejw from server.
+[17:22:03.082][INFO]: Sucessfully received recipe: custommachinery:kjs_7trp8vswgt10qb0nq52f7aejw from server.
+[17:22:03.084][INFO]: Receiving recipe: custommachinery:kjs_cdp4csu6rln6cckt1jou8sp8b from server.
+[17:22:03.084][INFO]: Sucessfully received recipe: custommachinery:kjs_cdp4csu6rln6cckt1jou8sp8b from server.
+[17:22:03.093][INFO]: Receiving recipe: custommachinery:kjs_d0droiepdi7rdf0ycf7jsv53g from server.
+[17:22:03.093][INFO]: Sucessfully received recipe: custommachinery:kjs_d0droiepdi7rdf0ycf7jsv53g from server.
+[17:22:03.094][INFO]: Receiving recipe: custommachinery:kjs_9g7yk2qacteit5i3rnklp1jvr from server.
+[17:22:03.094][INFO]: Sucessfully received recipe: custommachinery:kjs_9g7yk2qacteit5i3rnklp1jvr from server.
+[17:22:03.098][INFO]: Receiving recipe: custommachinery:kjs_6g3fkd05m8n7ibwje16fh2dnt from server.
+[17:22:03.098][INFO]: Sucessfully received recipe: custommachinery:kjs_6g3fkd05m8n7ibwje16fh2dnt from server.
+[17:22:03.100][INFO]: Receiving recipe: custommachinery:kjs_5afguj1zi0otqai2a7o4gnfw3 from server.
+[17:22:03.101][INFO]: Sucessfully received recipe: custommachinery:kjs_5afguj1zi0otqai2a7o4gnfw3 from server.
+[17:22:03.102][INFO]: Receiving recipe: custommachinery:kjs_c1v77jim015do6cm325zy1wql from server.
+[17:22:03.102][INFO]: Sucessfully received recipe: custommachinery:kjs_c1v77jim015do6cm325zy1wql from server.
+[17:22:03.105][INFO]: Receiving recipe: custommachinery:kjs_9468hzr0hfv43ad7tu2ufumk0 from server.
+[17:22:03.105][INFO]: Sucessfully received recipe: custommachinery:kjs_9468hzr0hfv43ad7tu2ufumk0 from server.
+[17:22:03.106][INFO]: Receiving recipe: custommachinery:kjs_6k7emvbj53ndbp7q3fpyfouc0 from server.
+[17:22:03.106][INFO]: Sucessfully received recipe: custommachinery:kjs_6k7emvbj53ndbp7q3fpyfouc0 from server.
+[18:34:59.000][INFO]: Receiving recipe: custommachinery:kjs_7vb06sndw8kmk2x0h6cl3xfke from server.
+[18:34:59.000][INFO]: Sucessfully received recipe: custommachinery:kjs_7vb06sndw8kmk2x0h6cl3xfke from server.
+[18:34:59.007][INFO]: Receiving recipe: custommachinery:kjs_9catfe9cprwib29v7rxkymj0p from server.
+[18:34:59.007][INFO]: Sucessfully received recipe: custommachinery:kjs_9catfe9cprwib29v7rxkymj0p from server.
+[18:34:59.009][INFO]: Receiving recipe: custommachinery:kjs_6u7as6iqf1ovceqxxb9x5z6je from server.
+[18:34:59.009][INFO]: Sucessfully received recipe: custommachinery:kjs_6u7as6iqf1ovceqxxb9x5z6je from server.
+[18:34:59.010][INFO]: Receiving recipe: custommachinery:kjs_5v353ngdrsgiu43xloosw1edg from server.
+[18:34:59.010][INFO]: Sucessfully received recipe: custommachinery:kjs_5v353ngdrsgiu43xloosw1edg from server.
+[18:34:59.011][INFO]: Receiving recipe: custommachinery:kjs_9468hzr0hfv43ad7tu2ufumk0 from server.
+[18:34:59.011][INFO]: Sucessfully received recipe: custommachinery:kjs_9468hzr0hfv43ad7tu2ufumk0 from server.
+[18:34:59.015][INFO]: Receiving recipe: custommachinery:kjs_f2c7e8o6v6cpkzf0qlul2vdoq from server.
+[18:34:59.015][INFO]: Sucessfully received recipe: custommachinery:kjs_f2c7e8o6v6cpkzf0qlul2vdoq from server.
+[18:34:59.017][INFO]: Receiving recipe: custommachinery:kjs_cgcdzakb04myzrgrx3yff7112 from server.
+[18:34:59.017][INFO]: Sucessfully received recipe: custommachinery:kjs_cgcdzakb04myzrgrx3yff7112 from server.
+[18:34:59.019][INFO]: Receiving recipe: custommachinery:kjs_2drw1c5izehl7qc30nfgt7cwb from server.
+[18:34:59.019][INFO]: Sucessfully received recipe: custommachinery:kjs_2drw1c5izehl7qc30nfgt7cwb from server.
+[18:34:59.022][INFO]: Receiving recipe: custommachinery:kjs_81lkyw3nkxwiq1843x6tcn4df from server.
+[18:34:59.022][INFO]: Sucessfully received recipe: custommachinery:kjs_81lkyw3nkxwiq1843x6tcn4df from server.
+[18:34:59.023][INFO]: Receiving recipe: custommachinery:kjs_9ofmsupv64tvmhl0x4wllgnqt from server.
+[18:34:59.023][INFO]: Sucessfully received recipe: custommachinery:kjs_9ofmsupv64tvmhl0x4wllgnqt from server.
+[18:34:59.027][INFO]: Receiving recipe: custommachinery:kjs_1xqraahf4wircgqucyedrvrou from server.
+[18:34:59.027][INFO]: Sucessfully received recipe: custommachinery:kjs_1xqraahf4wircgqucyedrvrou from server.
+[18:34:59.027][INFO]: Receiving recipe: custommachinery:kjs_c8nytvirqdytsquh6wvt2b26c from server.
+[18:34:59.028][INFO]: Sucessfully received recipe: custommachinery:kjs_c8nytvirqdytsquh6wvt2b26c from server.
+[18:34:59.029][INFO]: Receiving recipe: custommachinery:kjs_6k7emvbj53ndbp7q3fpyfouc0 from server.
+[18:34:59.029][INFO]: Sucessfully received recipe: custommachinery:kjs_6k7emvbj53ndbp7q3fpyfouc0 from server.
+[18:34:59.030][INFO]: Receiving recipe: custommachinery:kjs_bhifnjeeazxsrc8e10fbv6nnx from server.
+[18:34:59.030][INFO]: Sucessfully received recipe: custommachinery:kjs_bhifnjeeazxsrc8e10fbv6nnx from server.
+[18:34:59.030][INFO]: Receiving recipe: custommachinery:kjs_8tc3p472h61oci1ynr4g5q1nz from server.
+[18:34:59.030][INFO]: Sucessfully received recipe: custommachinery:kjs_8tc3p472h61oci1ynr4g5q1nz from server.
+[18:34:59.031][INFO]: Receiving recipe: custommachinery:kjs_8ooklezvnr7rnh20n6nrof3c7 from server.
+[18:34:59.031][INFO]: Sucessfully received recipe: custommachinery:kjs_8ooklezvnr7rnh20n6nrof3c7 from server.
+[18:34:59.031][INFO]: Receiving recipe: custommachinery:kjs_7mrfzae8m4n32fa73igaokaut from server.
+[18:34:59.032][INFO]: Sucessfully received recipe: custommachinery:kjs_7mrfzae8m4n32fa73igaokaut from server.
+[18:34:59.037][INFO]: Receiving recipe: custommachinery:kjs_9qey4mf58ulqqufhg10spjedm from server.
+[18:34:59.037][INFO]: Sucessfully received recipe: custommachinery:kjs_9qey4mf58ulqqufhg10spjedm from server.
+[18:34:59.038][INFO]: Receiving recipe: custommachinery:kjs_bxc9g7546ukya80n0jn2p5wmc from server.
+[18:34:59.038][INFO]: Sucessfully received recipe: custommachinery:kjs_bxc9g7546ukya80n0jn2p5wmc from server.
+[18:34:59.044][INFO]: Receiving recipe: custommachinery:kjs_4l8wfm9o8vbv48jkgfkn29yem from server.
+[18:34:59.044][INFO]: Sucessfully received recipe: custommachinery:kjs_4l8wfm9o8vbv48jkgfkn29yem from server.
+[18:34:59.046][INFO]: Receiving recipe: custommachinery:kjs_er3ns4b6io2fiyvdro572raep from server.
+[18:34:59.046][INFO]: Sucessfully received recipe: custommachinery:kjs_er3ns4b6io2fiyvdro572raep from server.
+[18:34:59.047][INFO]: Receiving recipe: custommachinery:kjs_4bul66qtu3qsd77ypuorjl6co from server.
+[18:34:59.047][INFO]: Sucessfully received recipe: custommachinery:kjs_4bul66qtu3qsd77ypuorjl6co from server.
+[18:34:59.048][INFO]: Receiving recipe: custommachinery:kjs_c1v77jim015do6cm325zy1wql from server.
+[18:34:59.048][INFO]: Sucessfully received recipe: custommachinery:kjs_c1v77jim015do6cm325zy1wql from server.
+[18:34:59.049][INFO]: Receiving recipe: custommachinery:kjs_adeht1turn3xb2951k9jnx85p from server.
+[18:34:59.049][INFO]: Sucessfully received recipe: custommachinery:kjs_adeht1turn3xb2951k9jnx85p from server.
+[18:34:59.057][INFO]: Receiving recipe: custommachinery:kjs_7trp8vswgt10qb0nq52f7aejw from server.
+[18:34:59.058][INFO]: Sucessfully received recipe: custommachinery:kjs_7trp8vswgt10qb0nq52f7aejw from server.
+[18:34:59.065][INFO]: Receiving recipe: custommachinery:kjs_1t95je93vlr9ocpd9zmb62zcz from server.
+[18:34:59.065][INFO]: Sucessfully received recipe: custommachinery:kjs_1t95je93vlr9ocpd9zmb62zcz from server.
+[18:34:59.075][INFO]: Receiving recipe: custommachinery:kjs_6qsxfvu1j7iofft7nr1mumeqq from server.
+[18:34:59.075][INFO]: Sucessfully received recipe: custommachinery:kjs_6qsxfvu1j7iofft7nr1mumeqq from server.
+[18:34:59.077][INFO]: Receiving recipe: custommachinery:kjs_4bs70ykb1hihtkrlxk80p1byd from server.
+[18:34:59.078][INFO]: Sucessfully received recipe: custommachinery:kjs_4bs70ykb1hihtkrlxk80p1byd from server.
+[18:34:59.078][INFO]: Receiving recipe: custommachinery:kjs_ehi8nfomgeism0wywyw18uasg from server.
+[18:34:59.078][INFO]: Sucessfully received recipe: custommachinery:kjs_ehi8nfomgeism0wywyw18uasg from server.
+[18:34:59.084][INFO]: Receiving recipe: custommachinery:kjs_9pv132m5yw2zqgnpwdzs69p3h from server.
+[18:34:59.085][INFO]: Sucessfully received recipe: custommachinery:kjs_9pv132m5yw2zqgnpwdzs69p3h from server.
+[18:34:59.085][INFO]: Receiving recipe: custommachinery:kjs_2s8po1e4jimpevuch51g4uwli from server.
+[18:34:59.085][INFO]: Sucessfully received recipe: custommachinery:kjs_2s8po1e4jimpevuch51g4uwli from server.
+[18:34:59.095][INFO]: Receiving recipe: custommachinery:kjs_6rc9ci4ip3ku95j5wyfh9bff5 from server.
+[18:34:59.095][INFO]: Sucessfully received recipe: custommachinery:kjs_6rc9ci4ip3ku95j5wyfh9bff5 from server.
+[18:34:59.097][INFO]: Receiving recipe: custommachinery:kjs_5afguj1zi0otqai2a7o4gnfw3 from server.
+[18:34:59.097][INFO]: Sucessfully received recipe: custommachinery:kjs_5afguj1zi0otqai2a7o4gnfw3 from server.
+[18:34:59.098][INFO]: Receiving recipe: custommachinery:kjs_cdlxsfskldfhbulzilbzk39y3 from server.
+[18:34:59.098][INFO]: Sucessfully received recipe: custommachinery:kjs_cdlxsfskldfhbulzilbzk39y3 from server.
+[18:34:59.099][INFO]: Receiving recipe: custommachinery:kjs_8xpg8q2gijj8gg8qi0zj5ajk1 from server.
+[18:34:59.099][INFO]: Sucessfully received recipe: custommachinery:kjs_8xpg8q2gijj8gg8qi0zj5ajk1 from server.
+[18:34:59.099][INFO]: Receiving recipe: custommachinery:kjs_cdp4csu6rln6cckt1jou8sp8b from server.
+[18:34:59.100][INFO]: Sucessfully received recipe: custommachinery:kjs_cdp4csu6rln6cckt1jou8sp8b from server.
+[18:34:59.105][INFO]: Receiving recipe: custommachinery:kjs_ddft3mo1yve6rk7hhf1n89dal from server.
+[18:34:59.105][INFO]: Sucessfully received recipe: custommachinery:kjs_ddft3mo1yve6rk7hhf1n89dal from server.
+[18:34:59.108][INFO]: Receiving recipe: custommachinery:kjs_5hv7zu93r064gvi0iz0xq416w from server.
+[18:34:59.108][INFO]: Sucessfully received recipe: custommachinery:kjs_5hv7zu93r064gvi0iz0xq416w from server.
+[18:34:59.109][INFO]: Receiving recipe: custommachinery:kjs_14zg32tqbnw59g9el2qp45402 from server.
+[18:34:59.109][INFO]: Sucessfully received recipe: custommachinery:kjs_14zg32tqbnw59g9el2qp45402 from server.
+[18:34:59.111][INFO]: Receiving recipe: custommachinery:kjs_b35xs70y5b224yws2vqaofyfp from server.
+[18:34:59.111][ERROR]: Error while deserializing Requirement: "custommachinery:redstone"
+Range cannot have identical boundaries: [15,15]
+[18:34:59.111][WARN]: Error while deserializing optional property "requirements" of type: List[Codec[KeyDispatchCodec[fr.frinn.custommachinery.impl.codec.RegistrarCodec@73428914 java.util.function.Function$$Lambda$1182/0x0000000800553260@4dce4c84 java.util.function.Function$$Lambda$1182/0x0000000800553260@45419913][mapResult fr.frinn.custommachinery.impl.codec.CodecLogger$1@6c8c75f4] KeyDispatchCodec[fr.frinn.custommachinery.impl.codec.RegistrarCodec@73428914 java.util.function.Function$$Lambda$1182/0x0000000800553260@4dce4c84 java.util.function.Function$$Lambda$1182/0x0000000800553260@45419913][mapResult fr.frinn.custommachinery.impl.codec.CodecLogger$1@6c8c75f4][promotePartial]]]
+Error while deserializing Requirement: "custommachinery:redstone"
+Range cannot have identical boundaries: [15,15]
+Using default value: []
+[18:34:59.111][INFO]: Sucessfully received recipe: custommachinery:kjs_b35xs70y5b224yws2vqaofyfp from server.
+[18:34:59.112][INFO]: Receiving recipe: custommachinery:kjs_59kbh2c0zq0q3u92traxf3c10 from server.
+[18:34:59.112][INFO]: Sucessfully received recipe: custommachinery:kjs_59kbh2c0zq0q3u92traxf3c10 from server.
+[18:34:59.112][INFO]: Receiving recipe: custommachinery:kjs_a07d4cq1rukoy90k41pr7quxl from server.
+[18:34:59.113][INFO]: Sucessfully received recipe: custommachinery:kjs_a07d4cq1rukoy90k41pr7quxl from server.
+[18:34:59.124][INFO]: Receiving recipe: custommachinery:kjs_8wnh7wn6q1byr03zr6vbz2829 from server.
+[18:34:59.124][INFO]: Sucessfully received recipe: custommachinery:kjs_8wnh7wn6q1byr03zr6vbz2829 from server.
+[18:34:59.126][INFO]: Receiving recipe: custommachinery:kjs_19n7nl3ij5x1es17xyn5gby26 from server.
+[18:34:59.126][INFO]: Sucessfully received recipe: custommachinery:kjs_19n7nl3ij5x1es17xyn5gby26 from server.
+[18:34:59.126][INFO]: Receiving recipe: custommachinery:kjs_dpykpehu5gb5ys2pyfjhzx7zb from server.
+[18:34:59.126][INFO]: Sucessfully received recipe: custommachinery:kjs_dpykpehu5gb5ys2pyfjhzx7zb from server.
+[18:34:59.128][INFO]: Receiving recipe: custommachinery:kjs_39s4nj6pposxc4rgttq6iq9n8 from server.
+[18:34:59.129][INFO]: Sucessfully received recipe: custommachinery:kjs_39s4nj6pposxc4rgttq6iq9n8 from server.
+[18:34:59.129][INFO]: Receiving recipe: custommachinery:kjs_d0droiepdi7rdf0ycf7jsv53g from server.
+[18:34:59.129][INFO]: Sucessfully received recipe: custommachinery:kjs_d0droiepdi7rdf0ycf7jsv53g from server.
+[18:34:59.130][INFO]: Receiving recipe: custommachinery:kjs_6g3fkd05m8n7ibwje16fh2dnt from server.
+[18:34:59.130][INFO]: Sucessfully received recipe: custommachinery:kjs_6g3fkd05m8n7ibwje16fh2dnt from server.
+[18:34:59.131][INFO]: Receiving recipe: custommachinery:kjs_4g00bz6klec5ix7cs1teuy4oc from server.
+[18:34:59.131][INFO]: Sucessfully received recipe: custommachinery:kjs_4g00bz6klec5ix7cs1teuy4oc from server.
+[18:34:59.131][INFO]: Receiving recipe: custommachinery:kjs_cjhotzqn8rzn2p6czd12jc0ou from server.
+[18:34:59.131][INFO]: Sucessfully received recipe: custommachinery:kjs_cjhotzqn8rzn2p6czd12jc0ou from server.
+[18:34:59.133][INFO]: Receiving recipe: custommachinery:kjs_4r53ryx2zb32thhp9x39qd7tp from server.
+[18:34:59.133][INFO]: Sucessfully received recipe: custommachinery:kjs_4r53ryx2zb32thhp9x39qd7tp from server.
+[18:34:59.134][INFO]: Receiving recipe: custommachinery:kjs_9g7yk2qacteit5i3rnklp1jvr from server.
+[18:34:59.134][INFO]: Sucessfully received recipe: custommachinery:kjs_9g7yk2qacteit5i3rnklp1jvr from server.
+[18:34:59.138][INFO]: Receiving recipe: custommachinery:kjs_5mnwgtozzq1sx8f8r6lgq4nv5 from server.
+[18:34:59.138][INFO]: Sucessfully received recipe: custommachinery:kjs_5mnwgtozzq1sx8f8r6lgq4nv5 from server.

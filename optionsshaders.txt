@@ -1,4 +1,4 @@
-#Thu Jul 13 16:04:15 CEST 2023
+#Tue Jan 23 17:46:29 CET 2024
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default

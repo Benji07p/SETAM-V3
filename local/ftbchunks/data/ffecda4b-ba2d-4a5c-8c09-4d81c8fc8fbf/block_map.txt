@@ -84,6 +84,7 @@
 #2925D4 minecraft:black_stained_glass
 #6472F9 minecraft:black_stained_glass_pane
 #CD2A18 minecraft:black_terracotta
+#B152E8 minecraft:black_wool
 #C9CBB9 minecraft:blackstone
 #2A3906 minecraft:blackstone_slab
 #5024D6 minecraft:blackstone_stairs
@@ -133,6 +134,7 @@
 #FC842A minecraft:campfire
 #C46C3E car:car_workshop
 #24240C car:car_workshop_outter
+#C00905 create:cart_assembler
 #1BD05D minecraft:carved_pumpkin
 #55CF00 biomesoplenty:cattail
 #6A23D5 minecraft:cauldron
@@ -180,6 +182,7 @@
 #DB4981 computercraft:computer_advanced
 #AA7746 computercraft:computer_normal
 #EC89B5 storagedrawers:controller
+#7A00D9 create:controller_rail
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #ACD080 minecraft:cracked_deepslate_tiles
@@ -478,6 +481,7 @@
 #4F44DD create:mechanical_saw
 #9B5AD6 tconstruct:medium_ichor_slime_crystal_bud
 #C2A4CD biomesoplenty:medium_rose_quartz_bud
+#FC0886 tconstruct:medium_sky_slime_crystal_bud
 #74B457 byg:medium_subzero_crystal_bud
 #80CAA6 minecraft:melon
 #A8A3BD beyond_earth:mercury_iron_ore
@@ -726,6 +730,8 @@
 #615192 tconstruct:sky_congealed_slime
 #789BE9 tconstruct:sky_earth_slime_grass
 #DA66C0 tconstruct:sky_sky_slime_grass
+#9B036C tconstruct:sky_slime_crystal_block
+#15C059 tconstruct:sky_slime_crystal_cluster
 #DB2DF2 tconstruct:sky_slime_fluid
 #DB76CE tconstruct:sky_slime_leaves
 #96931C tconstruct:sky_slime_vine
@@ -735,6 +741,7 @@
 #2B3505 tconstruct:skyroot_log
 #714A68 tconstruct:small_ichor_slime_crystal_bud
 #C2465F biomesoplenty:small_rose_quartz_bud
+#4CB498 tconstruct:small_sky_slime_crystal_bud
 #C53CE9 byg:small_subzero_crystal_bud
 #31A081 minecraft:smithing_table
 #C2A0D6 minecraft:smoker
@@ -862,6 +869,7 @@
 #201B6E biomesoplenty:webbing
 #C7A814 byg:weeping_milkcap_mushroom_block
 #88A5C6 minecraft:wet_sponge
+#FB9BF5 minecraft:white_banner
 #B7775E minecraft:white_bed
 #B24D94 minecraft:white_carpet
 #6E5A46 biomesoplenty:white_cherry_leaves
@@ -872,6 +880,7 @@
 #B75CCB create:white_sail
 #973DEA byg:white_sand
 #2BB0DB byg:white_sandstone
+#B76ADF create:white_seat
 #B5D07E minecraft:white_stained_glass
 #49E28F minecraft:white_stained_glass_pane
 #CE8FAE minecraft:white_terracotta
@@ -893,6 +902,7 @@
 #A25D02 byg:withering_oak_leaves
 #2A7CBE byg:withering_oak_log
 #A5A77C byg:wood_blewit_mushroom_block
+#521E56 cgm:workbench
 #0A2034 biomesoplenty:yellow_autumn_leaves
 #3FEE06 byg:yellow_birch_leaves
 #D9C16D quark:yellow_blossom_leaves

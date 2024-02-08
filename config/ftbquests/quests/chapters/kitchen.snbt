@@ -1,9 +1,9 @@
 {
 	id: "7CF57A117EC40D58"
 	group: "38ACC2BD54144CB9"
-	order_index: 1
-	filename: "la_kouisine"
-	title: "La Kouisine"
+	order_index: 0
+	filename: "kitchen"
+	title: "Kitchen"
 	icon: "minecraft:smoker"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false

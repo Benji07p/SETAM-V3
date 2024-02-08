@@ -2,8 +2,8 @@
 	id: "60FEB1B82E0BF817"
 	group: "68ED07BD49A7098E"
 	order_index: 0
-	filename: "retour_sur_terre"
-	title: "Retour sur Terre"
+	filename: "return_to_earth"
+	title: "Return to Earth"
 	icon: "minecraft:grass_block"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false

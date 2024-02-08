@@ -2,8 +2,8 @@
 	id: "1EA51E4570989EB1"
 	group: "68ED07BD49A7098E"
 	order_index: 1
-	filename: "craft_de_la_bedrock"
-	title: "Craft de la bedrock"
+	filename: "bedrock_crafting"
+	title: "Bedrock Crafting"
 	icon: "minecraft:bedrock"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -83,17 +83,6 @@
 					count: 7L
 				}
 			]
-		}
-		{
-			x: -4.5d
-			y: 2.5d
-			dependencies: ["79F5BEBF0ACFAEB5"]
-			id: "1CEADB2BB79F97FB"
-			tasks: [{
-				id: "2B552963ADC3C317"
-				type: "item"
-				item: "nuclearscience:atomicassembler"
-			}]
 		}
 		{
 			x: -8.5d
@@ -296,10 +285,7 @@
 		{
 			x: 2.5d
 			y: -5.5d
-			dependencies: [
-				"4C51D45963F3C20D"
-				"1CEADB2BB79F97FB"
-			]
+			dependencies: ["4C51D45963F3C20D"]
 			id: "71406E69168674FF"
 			tasks: [{
 				id: "27BF2597942BE706"

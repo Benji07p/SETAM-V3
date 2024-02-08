@@ -1,9 +1,16 @@
 {
 	id: "6D51B8487610E129"
 	group: "38ACC2BD54144CB9"
-	order_index: 2
+	order_index: 1
 	filename: "weapon"
 	title: "Weapon"
+	icon: {
+		id: "cgm:grenade_launcher"
+		Count: 1b
+		tag: {
+			AmmoCount: 1
+		}
+	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [

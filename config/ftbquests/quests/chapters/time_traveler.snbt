@@ -1,0 +1,107 @@
+{
+	id: "1A0B7629D5CAB640"
+	group: "68ED07BD49A7098E"
+	order_index: 3
+	filename: "time_traveler"
+	title: "Time Traveler"
+	icon: "timeextraminer:times_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.0d
+			y: 3.0d
+			shape: "gear"
+			size: 3.0d
+			id: "33997829AD11FE53"
+			tasks: [{
+				id: "07ACD077260CACE0"
+				type: "item"
+				item: "tardim:tardim"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 3.0d
+			dependencies: ["33260BE27D53FDEE"]
+			id: "46007F06A5E95FD4"
+			tasks: [{
+				id: "18C4CE0E96E94ED6"
+				type: "item"
+				item: "timeextraminer:raw_time_cristal"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 3.0d
+			dependencies: ["46007F06A5E95FD4"]
+			id: "79B52427199A4211"
+			tasks: [{
+				id: "02283A06660B90A5"
+				type: "item"
+				item: "timeextraminer:time_cristal"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 3.0d
+			shape: "gear"
+			dependencies: ["33997829AD11FE53"]
+			size: 2.0d
+			id: "33260BE27D53FDEE"
+			tasks: [{
+				id: "34D4F3F28F3C61D8"
+				type: "advancement"
+				advancement: "timeextraminer:war_ad"
+				criterion: ""
+			}]
+		}
+		{
+			x: 5.5d
+			y: 3.0d
+			dependencies: ["79B52427199A4211"]
+			id: "1E1D7A1CD87151CE"
+			tasks: [{
+				id: "2DDAADDAD35BD531"
+				type: "item"
+				item: "timeextraminer:time_cubes"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 3.0d
+			dependencies: ["1E1D7A1CD87151CE"]
+			id: "73DE694EF1A441CA"
+			tasks: [{
+				id: "55602A453CD46711"
+				type: "item"
+				item: "timeextraminer:hyper_cubes"
+			}]
+		}
+		{
+			x: 8.5d
+			y: 3.0d
+			dependencies: ["73DE694EF1A441CA"]
+			id: "573D7FCF5F9E4760"
+			tasks: [{
+				id: "4E014E3F83931686"
+				type: "item"
+				item: "timeextraminer:times_block"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 3.0d
+			shape: "gear"
+			dependencies: ["573D7FCF5F9E4760"]
+			size: 3.0d
+			id: "24616CD7CF345945"
+			tasks: [{
+				id: "33C999DB35EDB11E"
+				type: "item"
+				item: "minecraft:bedrock"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

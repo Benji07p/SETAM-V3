@@ -1,7 +1,7 @@
 {
 	id: "66C6716EF2B118B4"
 	group: "68ED07BD49A7098E"
-	order_index: 2
+	order_index: 4
 	filename: "phase_3"
 	title: "Phase 3"
 	icon: "extendedcrafting:ultimate_singularity"
@@ -652,7 +652,7 @@
 				{
 					id: "1FC6994144A4E150"
 					type: "item"
-					item: "timeextraminer:ethaniumingots"
+					item: "timeextraminer:alphmium_ingot"
 				}
 				{
 					id: "73ADF2F66F5988C5"
@@ -669,12 +669,18 @@
 		{
 			x: 10.0d
 			y: -22.5d
+			description: ["Use the Atomic Duplicator to duplicate"]
 			dependencies: ["5287C161C699780F"]
 			id: "1A4A850352BC1054"
 			tasks: [{
 				id: "28B553E6780BE574"
 				type: "item"
 				item: "storagedrawers:creative_vending_upgrade"
+			}]
+			rewards: [{
+				id: "65846783FD10F49E"
+				type: "item"
+				item: "nuclearscience:atomicassembler"
 			}]
 		}
 		{

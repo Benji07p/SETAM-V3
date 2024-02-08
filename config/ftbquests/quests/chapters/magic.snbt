@@ -1,7 +1,7 @@
 {
 	id: "013023AB50749662"
-	group: "38ACC2BD54144CB9"
-	order_index: 0
+	group: "68ED07BD49A7098E"
+	order_index: 2
 	filename: "magic"
 	title: "Magic"
 	icon: "mythicbotany:central_rune_holder"
@@ -9,8 +9,9 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 3.5d
+			x: 8.5d
 			y: -0.5d
+			shape: "diamond"
 			description: [
 				"Des alliages tu forgeras"
 				"Des minerais tu mineras"
@@ -20,6 +21,7 @@
 				"{image:timeextraminer:textures/imagebedrock.png width:100 height:100 align:1}"
 			]
 			dependencies: ["2CC6B957893C140D"]
+			size: 2.0d
 			id: "7D0C9108138FBA75"
 			tasks: [{
 				id: "5323F3C908F4A7C6"
@@ -28,8 +30,9 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 6.5d
 			y: -0.5d
+			dependencies: ["1A3F2BE708EB2009"]
 			id: "2CC6B957893C140D"
 			tasks: [{
 				id: "04AACE12881F6DD4"
@@ -38,8 +41,11 @@
 			}]
 		}
 		{
-			x: 2.5d
-			y: -2.0d
+			x: -3.0d
+			y: -0.5d
+			shape: "gear"
+			dependencies: ["29B905BFC5F56F5C"]
+			size: 2.0d
 			id: "5D8F19F79FD2ECED"
 			tasks: [
 				{
@@ -58,6 +64,148 @@
 					item: "mm:manatorfoutput_port"
 				}
 			]
+		}
+		{
+			x: -10.0d
+			y: -0.5d
+			shape: "diamond"
+			size: 1.5d
+			id: "489DA499F9880A8D"
+			tasks: [{
+				id: "1A170B992C05BEBE"
+				type: "item"
+				item: "botania:pure_daisy"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -0.5d
+			dependencies: ["489DA499F9880A8D"]
+			id: "451CE5B2773AD91A"
+			tasks: [
+				{
+					id: "05B30237FDE161C0"
+					type: "item"
+					item: "botania:livingwood_log"
+				}
+				{
+					id: "3E2605725E8DAD32"
+					type: "item"
+					item: "botania:livingrock"
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: -0.5d
+			dependencies: ["067F01C831B2A154"]
+			id: "29B905BFC5F56F5C"
+			tasks: [{
+				id: "7DE11E17331D125D"
+				type: "item"
+				item: "botania:manasteel_ingot"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.5d
+			dependencies: ["5D8F19F79FD2ECED"]
+			id: "5029311D4892254D"
+			tasks: [{
+				id: "7E04C3DF5951FB2F"
+				type: "item"
+				item: "botania:mana_pearl"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			dependencies: ["5D8F19F79FD2ECED"]
+			id: "7F8FAE816349440D"
+			tasks: [{
+				id: "6B1795E75EB8EB80"
+				type: "item"
+				item: "botania:mana_diamond"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: [
+				"7F8FAE816349440D"
+				"29B905BFC5F56F5C"
+				"5029311D4892254D"
+			]
+			size: 1.25d
+			id: "0AA7E713ACDE9870"
+			tasks: [{
+				id: "030904D98EA90559"
+				type: "kill"
+				icon: "botania:gaia_head"
+				entity: "botania:doppleganger"
+				value: 1L
+			}]
+		}
+		{
+			x: 5.0d
+			y: -0.5d
+			dependencies: [
+				"0AA7E713ACDE9870"
+				"3AB2BE4F40741E65"
+			]
+			id: "1A3F2BE708EB2009"
+			tasks: [{
+				id: "735B1A52BAB1EAF2"
+				type: "item"
+				item: "mythicbotany:fimbultyr_tablet"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -0.5d
+			dependencies: [
+				"3098F0672258C76D"
+				"7FD91AE01D97E880"
+			]
+			id: "3AB2BE4F40741E65"
+			tasks: [{
+				id: "2341189DCBD317CA"
+				type: "item"
+				item: "mythicbotany:gjallar_horn_full"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -1.5d
+			id: "3098F0672258C76D"
+			tasks: [{
+				id: "317C2DAB2BB2B662"
+				type: "item"
+				item: "mythicbotany:yggdrasil_branch"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			id: "7FD91AE01D97E880"
+			tasks: [{
+				id: "3B14BF0B58B7F181"
+				type: "item"
+				item: "mythicbotany:gjallar_horn_empty"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -0.5d
+			dependencies: ["451CE5B2773AD91A"]
+			id: "067F01C831B2A154"
+			tasks: [{
+				id: "2C1C377C079B760D"
+				type: "item"
+				item: "botania:mana_pool"
+			}]
 		}
 	]
 	quest_links: [ ]

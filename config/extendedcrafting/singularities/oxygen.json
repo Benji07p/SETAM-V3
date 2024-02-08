@@ -7,6 +7,6 @@
   "ingredient": {
     "item": "chemlib:oxygen"
   },
-  "materialCount": 100000,
+  "materialCount": 10000,
   "inUltimateSingularity": true
 }

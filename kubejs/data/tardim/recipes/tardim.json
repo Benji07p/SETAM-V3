@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "#R#",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lapis_block"
+    },
+    "B": {
+      "item": "timeextraminer:bedrock_ingot"
+    },
+    "D": {
+      "item": "tardim:tardim_interior_doors"
+    },
+    "R": {
+      "item": "tardim:rotor"
+    }
+  },
+  "result": {
+    "item": "tardim:tardim",
+    "count": 1
+  }
+}

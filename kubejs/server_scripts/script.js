@@ -1040,37 +1040,37 @@ onEvent('recipes', event => {
 			  }
 		)
 
-		//Nuclear Chest
-		event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'), [
-			'LLL',
-			'LCL',
-			'LLL'
-		], {
+	//Nuclear Chest
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'), [
+		'LLL',
+		'LCL',
+		'LLL'
+	], {
 		L: 'electrodynamics:ingotlead',
 		C: 'ironchest:copper_chest'
-		})
+	})
 
-		//Advanced Nuclear Chest
-		event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}'), [
-			'LML',
-			'MNM',
-			'LML'
-		], {
+	//Advanced Nuclear Chest
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}'), [
+		'LML',
+		'MNM',
+		'LML'
+	], {
 		L: 'chemlib:hafnium_ingot',
 		N: Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'),
 		M: 'minecraft:clock'
-		})
+	})
 
-		//Reverse Nuclear Chest
-		event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:reversed_nuclear_chest"}'), [
-			'TMT',
-			'MAM',
-			'TMT'
-		], {
+	//Reverse Nuclear Chest
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:reversed_nuclear_chest"}'), [
+		'TMT',
+		'MAM',
+		'TMT'
+	], {
 		T: 'timeextraminer:time_cubes',
 		A: Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}'),
 		M: 'minecraft:clock'
-		})
+	})
 })
 
 

@@ -194,7 +194,7 @@
             "type": "custommachinery:fluid",
             "x": 161,
             "y": 5,
-            "id": "fluidoutput"
+            "id": "fluidouput"
         },
         {
             "type": "custommachinery:progress",

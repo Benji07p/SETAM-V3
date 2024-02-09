@@ -113,16 +113,16 @@ onEvent('recipes', event => {
     }
 
 	//Craft 1 Ruthénium
-	atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:0}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:gallium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', "{Damage:1}")
-    atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:1}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:gallium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', "{Damage:2}")
-    atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:2}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:gallium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', "{Damage:3}")
-    atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:3}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:gallium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', "{Damage:4}")
+	atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:0}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:rhenium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', "{Damage:1}")
+    atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:1}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:rhenium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', "{Damage:2}")
+    atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:2}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:rhenium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', "{Damage:3}")
+    atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:3}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:rhenium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', "{Damage:4}")
 
 	//Craft 2 Ruthénium
-	atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:0}", "chemlib:gallium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:1}")
-    atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:1}", "chemlib:gallium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:2}")
-    atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:2}", "chemlib:gallium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:3}")
-    atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:3}", "chemlib:gallium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_6lxkj98pb7jwylp2upk73ri9p"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:4}")
+	atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:0}", "chemlib:rhenium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:1}")
+    atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:1}", "chemlib:rhenium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:2}")
+    atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:2}", "chemlib:rhenium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:3}")
+    atomicAssembler("electrodynamics:ingotmolybdenum", 5, "electrodynamics:ingotsilver", 5, "{Damage:3}", "chemlib:rhenium_ingot", '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', 5, "chemlib:ruthenium", 1, "", "{Damage:4}")
 	
 	//Craft 1 Osmium
 	atomicAssembler("timeextraminer:positrons", 2, "chemlib:tungsten_ingot", 5, "{Damage:0}", "minecraft:gold_ingot", "", 5, "chemlib:cesium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5shwb1gs8v32fdf4zmtxprpgw"}}', "{Damage:1}")
@@ -196,19 +196,19 @@ onEvent('recipes', event => {
 				  "item": "chemlib:ruthenium_ingot"
 				},
 				"transitionalItem": {
-				  "item": "chemlib:gallium_ingot"
+				  "item": "chemlib:rhenium_ingot"
 				},
 				"sequence": [
 				  {
 					"type": "create:pressing",
 					"ingredients": [
 					  {
-						"item": "chemlib:gallium_ingot"
+						"item": "chemlib:rhenium_ingot"
 					  }
 					],
 					"results": [
 					  {
-						"item": "chemlib:gallium_ingot"
+						"item": "chemlib:rhenium_ingot"
 					  }
 					]
 				  }

@@ -21875,3 +21875,6 @@ java.lang.NullPointerException: Registry Object not present: null
 [18:19:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (lost_dimension): All chunks are saved
 [18:19:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
 [18:19:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:08:41] [Render thread/INFO]: Stopping!
+[19:08:41] [Render thread/INFO]: Released client Flux Networks cache
+[19:08:41] [Render thread/INFO]: Shutting down map thread

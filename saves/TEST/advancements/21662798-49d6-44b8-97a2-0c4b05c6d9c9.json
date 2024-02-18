@@ -1,57 +1,90 @@
 {
-  "tconstruct:tools/materials_and_you": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "crafted_book": "2023-08-02 19:00:55 +0200"
-    },
-    "done": true
-  },
-  "byg:biomepedia_gift": {
-    "criteria": {
-      "tick": "2023-08-02 19:00:55 +0200"
-    },
-    "done": true
-  },
-  "tconstruct:internal/starting_book": {
-    "criteria": {
-      "tick": "2023-08-02 19:00:55 +0200"
+      "lush_savanna": "2024-02-18 16:51:18 +0100"
     },
     "done": true
   },
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
-      "spawn": "2023-08-02 19:00:55 +0200"
+      "spawn": "2024-02-18 16:46:51 +0100"
     },
     "done": true
   },
-  "byg:root": {
+  "beyond_earth:rocket_advancement": {
     "criteria": {
-      "tick": "2023-08-02 19:00:55 +0200"
+      "rocket_advancement": "2024-02-18 16:49:06 +0100"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2023-08-02 19:00:55 +0200"
+      "0": "2024-02-18 16:46:51 +0100"
     },
     "done": true
   },
   "tardim:tardim/root": {
     "criteria": {
-      "discovers_rotor": "2023-08-02 19:00:50 +0200"
+      "discovers_rotor": "2024-02-18 16:46:45 +0100"
     },
     "done": true
   },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-02-18 16:46:51 +0100"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2024-02-18 16:46:51 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-02-18 16:46:51 +0100"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-02-18 16:46:51 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2024-02-18 16:51:01 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lush_savanna": "2024-02-18 16:51:18 +0100"
+    },
+    "done": false
+  },
   "morevillagers:root": {
     "criteria": {
-      "always": "2023-08-02 19:00:55 +0200"
+      "always": "2024-02-18 16:46:51 +0100"
     },
     "done": true
   },
   "parcool:grant_parcool_guide": {
     "criteria": {
-      "tick": "2023-08-02 19:00:55 +0200"
+      "tick": "2024-02-18 16:46:51 +0100"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2024-02-18 16:50:56 +0100",
+      "minecraft:stony_shore": "2024-02-18 16:50:36 +0100",
+      "minecraft:desert": "2024-02-18 16:50:31 +0100",
+      "minecraft:warm_ocean": "2024-02-18 16:50:18 +0100"
+    },
+    "done": false
   },
   "DataVersion": 2975
 }

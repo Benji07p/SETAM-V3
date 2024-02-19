@@ -1559,5 +1559,33 @@ onEvent('recipes', event => {
         ]
       }
     )
-  }
-)
+
+  //Black Iron Hammer
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAAAAAA",
+			  "AAAAAAAAA",
+			  "AAAAAAAAA",
+			  "   BBB   ",
+			  "   BBB   ",
+			  "   BBB   ",
+			  "   BBB   ",
+			  "   BBB   ",
+			  "   BBB   "
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:black_iron_slate"
+			  },
+			  "B": {
+				"item": "minecraft:stick"
+			  }
+			},
+			"result": {
+			  "item": "timeextraminer:black_iron_hammer"
+			}
+		}
+	)
+})

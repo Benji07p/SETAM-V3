@@ -1032,7 +1032,7 @@ onEvent('recipes', event => {
 				],
 				"results": [
 				  {
-					"item": "chemlib:hafnium_ingot",
+					"item": "timeextraminer:newtons_ingot",
 					"count": 10
 				  },
 				],
@@ -1056,7 +1056,7 @@ onEvent('recipes', event => {
 		'MNM',
 		'LML'
 	], {
-		L: 'chemlib:hafnium_ingot',
+		L: 'timeextraminer:newtons_ingot',
 		N: Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'),
 		M: 'minecraft:clock'
 	})

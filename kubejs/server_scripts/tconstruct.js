@@ -1,11 +1,11 @@
 onEvent('recipes', event => {
     
-    function fondu(tag, sortie, amount, temperature, time){
+    function fondu(item, sortie, amount, temperature, time){
     
     event.custom({
     "type": "tconstruct:melting",
     "ingredient": {
-      "tag": tag
+      "item": item
     },
     "result": {
       "fluid": sortie,
@@ -29,7 +29,7 @@ function refroidi(tagcast, fluid, amount2, result, time2){
               "amount": amount2
             },
             "result": {
-              "tag": result
+              "item": result
             },
             "cooling_time": time2
           }
@@ -37,31 +37,31 @@ function refroidi(tagcast, fluid, amount2, result, time2){
 }
 
 //Fonte du bismuth
-fondu("forge:plates/bismuth", "tconstruct:molten_signalum", 90, 271, 39)
-fondu("forge:ingots/bismuth", "tconstruct:molten_signalum", 90, 271, 39)
-fondu("forge:nuggets/bismuth", "tconstruct:molten_signalum", 10, 271, 13)
-fondu("forge:dusts/bismuth", "tconstruct:molten_signalum", 90, 271, 29)
+fondu("chemlib:bismuth_plate", "tconstruct:molten_signalum", 90, 271, 39)
+fondu("chemlib:bismuth_ingot", "tconstruct:molten_signalum", 90, 271, 39)
+fondu("chemlib:bismuth_nugget", "tconstruct:molten_signalum", 10, 271, 13)
+fondu("chemlib:bismuth_dust", "tconstruct:molten_signalum", 90, 271, 29)
 
 //Fonte du Newton's Ingots
-fondu("forge:ingots/hafnium", "tconstruct:molten_refined_obsidian", 90, 98, 39)
-fondu("forge:plates/hafnium", "tconstruct:molten_refined_obsidian", 90, 98, 39)
-fondu("forge:nuggets/hafnium", "tconstruct:molten_refined_obsidian", 10, 98, 13)
-fondu("forge:dusts/hafnium", "tconstruct:molten_refined_obsidian", 90, 98, 29)
+fondu("timeextraminer:newtons_ingot", "tconstruct:molten_refined_obsidian", 90, 98, 39)
+fondu("timeextraminer:newtons_plate", "tconstruct:molten_refined_obsidian", 90, 98, 39)
+fondu("timeextraminer:newtons_nugget", "tconstruct:molten_refined_obsidian", 10, 98, 13)
+fondu("timeextraminer:newtons_dust", "tconstruct:molten_refined_obsidian", 90, 98, 29)
 
 //Refroidissement du bismuth
-refroidi("tconstruct:casts/multi_use/ingot", "tconstruct:molten_signalum", 90, "forge:ingots/bismuth", 39)
-refroidi("tconstruct:casts/single_use/ingot", "tconstruct:molten_signalum", 90, "forge:ingots/bismuth", 39)
-refroidi("tconstruct:casts/multi_use/plate", "tconstruct:molten_signalum", 90, "forge:plates/bismuth", 39)
-refroidi("tconstruct:casts/single_use/plate", "tconstruct:molten_signalum", 90, "forge:plates/bismuth", 39)
-refroidi("tconstruct:casts/multi_use/nugget", "tconstruct:molten_signalum", 10, "forge:nuggets/bismuth", 13)
-refroidi("tconstruct:casts/single_use/nugget", "tconstruct:molten_signalum", 10, "forge:nuggets/bismuth", 13)
+refroidi("tconstruct:casts/multi_use/ingot", "tconstruct:molten_signalum", 90, "chemlib:bismuth_ingot", 39)
+refroidi("tconstruct:casts/single_use/ingot", "tconstruct:molten_signalum", 90, "chemlib:bismuth_ingot", 39)
+refroidi("tconstruct:casts/multi_use/plate", "tconstruct:molten_signalum", 90, "chemlib:bismuth_plate", 39)
+refroidi("tconstruct:casts/single_use/plate", "tconstruct:molten_signalum", 90, "chemlib:bismuth_plate", 39)
+refroidi("tconstruct:casts/multi_use/nugget", "tconstruct:molten_signalum", 10, "chemlib:bismuth_nugget", 13)
+refroidi("tconstruct:casts/single_use/nugget", "tconstruct:molten_signalum", 10, "chemlib:bismuth_nugget", 13)
 
 //Refroidissement du Newton's Ingots
-refroidi("tconstruct:casts/multi_use/ingot", "tconstruct:molten_refined_obsidian", 90, "forge:ingots/hafnium", 39)
-refroidi("tconstruct:casts/single_use/ingot", "tconstruct:molten_refined_obsidian", 90, "forge:ingots/hafnium", 39)
-refroidi("tconstruct:casts/multi_use/plate", "tconstruct:molten_refined_obsidian", 90, "forge:plates/hafnium", 39)
-refroidi("tconstruct:casts/single_use/plate", "tconstruct:molten_refined_obsidian", 90, "forge:plates/hafnium", 39)
-refroidi("tconstruct:casts/multi_use/nugget", "tconstruct:molten_refined_obsidian", 10, "forge:nuggets/hafnium", 13)
-refroidi("tconstruct:casts/single_use/nugget", "tconstruct:molten_refined_obsidian", 10, "forge:nuggets/hafnium", 13)
+refroidi("tconstruct:casts/multi_use/ingot", "tconstruct:molten_refined_obsidian", 90, "timeextraminer:newtons_ingot", 39)
+refroidi("tconstruct:casts/single_use/ingot", "tconstruct:molten_refined_obsidian", 90, "timeextraminer:newtons_ingot", 39)
+refroidi("tconstruct:casts/multi_use/plate", "tconstruct:molten_refined_obsidian", 90, "timeextraminer:newtons_plate", 39)
+refroidi("tconstruct:casts/single_use/plate", "tconstruct:molten_refined_obsidian", 90, "timeextraminer:newtons_plate", 39)
+refroidi("tconstruct:casts/multi_use/nugget", "tconstruct:molten_refined_obsidian", 10, "timeextraminer:newtons_nugget", 13)
+refroidi("tconstruct:casts/single_use/nugget", "tconstruct:molten_refined_obsidian", 10, "timeextraminer:newtons_nugget", 13)
 
 })

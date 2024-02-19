@@ -176,9 +176,9 @@ onEvent('recipes', event => {
           "STUVWXYZa",
           "bcdefghij",
           "klmnopqrs",
-          "tuvwxyz01",
-          "23456789+",
-          "-        ",
+          "tu*vwxyz0",
+          "123456789",
+          "+-       ",
           "         "
         ],
         "key": {
@@ -322,6 +322,9 @@ onEvent('recipes', event => {
           },
           "u": {
             "item": "chemlib:lutetium_ingot"
+          },
+          "*": {
+            "item": "chemlib:hafnium_ingot"
           },
           "v": {
             "item": "chemlib:tantalum_ingot"
@@ -567,7 +570,7 @@ onEvent('recipes', event => {
                 "item": "botania:elementium_ingot"
               },
               "j": {
-                "item": "chemlib:hafnium_ingot"
+                "item": "timeextraminer:newtons_ingot"
               },
               "k": {
                 "item": "byg:pendorite_ingot"

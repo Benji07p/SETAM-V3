@@ -1429,6 +1429,14 @@ onEvent('recipes', event => {
       ]
     )
 
+    //Broken Black Iron
+    event.shapeless(Item.of('timeextraminer:broken_black_iron', 1),
+      [ 
+        'extendedcrafting:black_iron_ingot',
+        Item.of('timeextraminer:black_iron_hammer').ignoreNBT()
+      ]
+    ).damageIngredient(Item.of('timeextraminer:black_iron_hammer').ignoreNBT())
+
     //Universe Core
     event.custom(
       {

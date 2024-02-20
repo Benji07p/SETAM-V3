@@ -72,6 +72,7 @@ refroidi("tconstruct:casts/multi_use/ingot", "timeextraminer:molten_black_iron",
 refroidi("tconstruct:casts/single_use/ingot", "timeextraminer:molten_black_iron", 90, "extendedcrafting:black_iron_ingot", 80)
 })
 
+//Molten Black Iron
 onEvent('fluid.tags', event => {
   event.add('timeextraminer:molten_black_iron', 'timeextraminer:molten_black_iron')
 })

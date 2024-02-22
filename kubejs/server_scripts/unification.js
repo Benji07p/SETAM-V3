@@ -171,3 +171,69 @@ onEvent('item.tags', event => {
 	//Thorium
 	event.get('forge:dusts/thorium').remove('chemlib:thorium_dust')
 })
+
+onEvent('fluid.tags', event => {
+	// Ethanol
+	event.get('forge:ethanol').remove(['electrodynamics:fluidethanol', 'createaddition:flowing_bioethanol', 'createaddition:bioethanol'])
+	event.get('forge:ethanol').add(['chemlib:ethanol_fluid', 'chemlib:ethanol_flowing'])
+
+	// Oxygen
+	event.get('forge:oxygen').remove('electrodynamics:fluidoxygen')
+	event.get('forge:oxygen').add(['chemlib:oxygen_fluid', 'chemlib:oxygen_flowing'])
+
+	// Hydrogen
+	event.get('forge:hydrogen').remove('electrodynamics:fluidhydrogen')
+	event.get('forge:hydrogen').add(['chemlib:hydrogen_fluid', 'chemlib:hydrogen_flowing'])
+
+	// Sulfuric Acid
+	event.get('forge:sulfuric_acid').remove('electrodynamics:fluidsulfuricacid')
+	event.get('forge:sulfuric_acid').add(['chemlib:sulfuric_acid_fluid', 'chemlib:sulfuric_acid_flowing'])
+
+	// Ammonia
+	event.get('forge:ammonia').remove('nuclearscience:fluidammonia')
+	event.get('forge:ammonia').add(['chemlib:ammonia_fluid', 'chemlib:ammonia_flowing'])
+
+	// Copper Sulfate
+	event.get('forge:copper_sulfate').remove('electrodynamics:fluidsulfatecopper')
+	event.get('forge:copper_sulfate').add(['timeextraminer:copper_sulfate', 'timeextraminer:flowing_copper_sulfate'])
+
+	// Gold Sulfate
+	event.get('forge:gold_sulfate').remove('electrodynamics:fluidsulfategold')
+	event.get('forge:gold_sulfate').add(['timeextraminer:gold_sulfate', 'timeextraminer:flowing_gold_sulfate'])
+
+	// Silver Sulfate
+	event.get('forge:silver_sulfate').remove('electrodynamics:fluidsulfatesilver')
+	event.get('forge:silver_sulfate').add(['timeextraminer:silver_sulfate', 'timeextraminer:flowing_silver_sulfate'])
+
+	// Tin Sulfate
+	event.get('forge:tin_sulfate').remove('electrodynamics:fluidsulfatetin')
+	event.get('forge:tin_sulfate').add(['timeextraminer:tin_sulfate', 'timeextraminer:flowing_tin_sulfate'])
+
+	// Vanadium Sulfate
+	event.get('forge:vanadium_sulfate').remove('electrodynamics:fluidsulfatevanadium')
+	event.get('forge:vanadium_sulfate').add(['timeextraminer:vanadium_sulfate', 'timeextraminer:flowing_vanadium_sulfate'])
+
+	// Lithium Sulfate
+	event.get('forge:lithium_sulfate').remove('electrodynamics:fluidsulfatelithium')
+	event.get('forge:lithium_sulfate').add(['timeextraminer:lithium_sulfate', 'timeextraminer:flowing_lithium_sulfate'])
+
+	// Molybdenum Sulfate
+	event.get('forge:molybdenum_sulfate').remove('electrodynamics:fluidsulfatemolybdenum')
+	event.get('forge:molybdenum_sulfate').add(['timeextraminer:molybdenum_sulfate', 'timeextraminer:flowing_molybdenum_sulfate'])
+
+	// Carbyne Sulfate
+	event.get('forge:netherite_sulfate').remove('electrodynamics:fluidsulfatenetherite')
+	event.get('forge:netherite_sulfate').add(['timeextraminer:carbyne_sulfate', 'timeextraminer:flowing_carbyne_sulfate'])
+
+	// Lead Sulfate
+	event.get('forge:lead_sulfate').remove('electrodynamics:fluidsulfatelead')
+	event.get('forge:lead_sulfate').add(['timeextraminer:lead_sulfate', 'timeextraminer:flowing_lead_sulfate'])
+
+	// Iron Sulfate
+	event.get('forge:iron_sulfate').remove('electrodynamics:fluidsulfateiron')
+	event.get('forge:iron_sulfate').add(['timeextraminer:iron_sulfate', 'timeextraminer:flowing_iron_sulfate'])
+
+	// Hydraulic Fluid
+	event.get('forge:hydraulic_fluid').remove('electrodynamics:fluidhydraulic')
+	event.get('forge:hydraulic_fluid').add(['timeextraminer:hydraulic_fluid', 'timeextraminer:flowing_hydraulic_fluid'])
+})

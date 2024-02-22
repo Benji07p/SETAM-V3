@@ -1,0 +1,40 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "recipe": {
+        "type": "alchemistry:dissolver",
+        "group": "alchemistry:dissolver",
+        "input": {
+          "ingredient": {
+            "item": "timeextraminer:nether_gas"
+          },
+          "count": 1
+        },
+        "output": {
+          "rolls": 1,
+          "weighted": false,
+          "groups": [
+            {
+              "probability": 100.0,
+              "results": [
+                {
+                  "item": "minecraft:glass_bottle",
+                  "count": 1
+                },
+                {
+                  "item": "chemlib:carbon_dioxide",
+                  "count": 4
+                },
+                {
+                  "item": "chemlib:nitrogen_dioxide",
+                  "count": 12
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

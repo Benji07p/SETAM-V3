@@ -39,7 +39,7 @@ onEvent('recipes', event => {
 
     oxygenLoader("minecraft:overworld" ,"timeextraminer:air_gas")
     oxygenLoader("minecraft:the_nether" ,"timeextraminer:nether_gas")
-    oxygenLoader("minecraft:the_end" ,"timeextraminer:void_gas")
+    oxygenLoader("minecraft:the_end" ,"botania:ender_air_bottle")
     oxygenLoader("beyond_earth:moon" ,"timeextraminer:helium_3")
     oxygenLoader("beyond_earth:mars" ,"nuclearscience:celldeuterium")
 

@@ -81,10 +81,10 @@
 	fluidCapacity = 16000
 	#Default: 50 FE
 	#Range: > 0
-	energyPerTick = 50
+	energyPerTick = 500
 	#Default: 50 ticks
 	#Range: > 1
-	ticksPerOperation = 50
+	ticksPerOperation = 1
 	#Default: 100000 (100k FE)
 	#Range: > 0
 	energyCapacity = 100000

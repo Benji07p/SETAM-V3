@@ -1,0 +1,18 @@
+
+[general]
+	#It will multiply the weight of the nugget with this number to create a funds to add to the credit card.
+	#Range: 1 ~ 9999
+	multiplierGoldNuggetWeight = 2
+	#Allow the mod to replace the furnace recipe for the gold ore and give instead the EconomyInc's nugget.
+	goldNuggetRecipe = true
+	#Allow player that have the wireless technology to access their account without an ATM nearby.
+	canAccessCardWithoutWT = true
+	#Define the block use to create the edges of the plot.
+	plotBorderBlock = "minecraft:smooth_stone_slab"
+	#Change the time it takes for the gold changed to process.
+	#Range: 0 ~ 5000
+	goldChangerDuration = 356
+	#Cooldown applied for the seller, prevent fast buy.
+	#Range: 20 ~ 500
+	cooldownSeller = 20
+

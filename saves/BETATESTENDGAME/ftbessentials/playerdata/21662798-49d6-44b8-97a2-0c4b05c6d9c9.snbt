@@ -1,0 +1,17 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "beyond_earth:glacio", x: -14, y: 108, z: -1, time: 1709411539110L }
+	recording: 0
+	teleport_history: [
+		{ dim: "beyond_earth:glacio", x: 1, y: 69, z: 1, time: 1709388789626L }
+		{ dim: "minecraft:overworld", x: -11, y: 84, z: -282, time: 1709411360970L }
+	]
+	homes: {
+		base: { dim: "beyond_earth:glacio", x: -14, y: 108, z: -1, time: 1709395712086L }
+		nuke: { dim: "minecraft:overworld", x: 215, y: 78, z: -236, time: 1709410082784L }
+		baseterre: { dim: "minecraft:overworld", x: -11, y: 84, z: -282, time: 1709411341630L }
+	}
+}

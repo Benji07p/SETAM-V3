@@ -91,6 +91,7 @@
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
 #33130F create:scoria
+#5ED1DC tconstruct:seared_ingot_tank
 #8638B9 minecraft:smooth_basalt
 #872D76 minecraft:snow
 #12E6C4 minecraft:snow_block

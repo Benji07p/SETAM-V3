@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_ingot_tank": "2024-03-03 10:39:24 +0100"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lukewarm_ocean": "2024-02-18 16:50:56 +0100",

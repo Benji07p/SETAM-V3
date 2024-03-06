@@ -2,6 +2,13 @@
   "bookGuiScale": 0,
   "clickedVisualize": true,
   "bookData": {
+    "rftoolsbase:manual": {
+      "viewedEntries": [
+        "rftoolsutility:machines/crafter"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "botania:lexicon": {
       "viewedEntries": [
         "mythicbotany:mythic_botany/pylons",

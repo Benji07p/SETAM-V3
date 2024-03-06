@@ -1,64 +1,32 @@
-[10:37:40.693][INFO]: Parsing all .json files in machines folder.
-[10:37:40.731][INFO]: Parsing all .json files in upgrades folder.
-[10:37:41.231][INFO]: Finished parsing .json files in upgrades folder.
-[10:37:41.302][INFO]: Finished parsing .json files in machines folder.
-[10:37:48.754][WARN]: Error while deserializing optional property "output" of type: fr.frinn.custommachinery.impl.codec.RegistrarCodec@5a6b2877
+[18:06:13.390][INFO]: Parsing all .json files in machines folder.
+[18:06:13.395][INFO]: Parsing all .json files in upgrades folder.
+[18:06:13.913][INFO]: Finished parsing .json files in upgrades folder.
+[18:06:14.027][INFO]: Finished parsing .json files in machines folder.
+[18:06:21.721][WARN]: Error while deserializing optional property "output" of type: fr.frinn.custommachinery.impl.codec.RegistrarCodec@3a5510b5
 Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:input1
 Using default value: air
-[10:37:54.023][INFO]: Reading Custom Machinery Machines...
-[10:37:54.024][INFO]: Parsing machine json: setamvtroismm:antimatter_generator in datapack: KubeJS Resource Pack [data]
-[10:37:54.038][INFO]: Successfully parsed machine json: setamvtroismm:antimatter_generator
-[10:37:54.039][INFO]: Parsing machine json: setamvtroismm:plasma_gen in datapack: KubeJS Resource Pack [data]
-[10:37:54.039][INFO]: Successfully parsed machine json: setamvtroismm:plasma_gen
-[10:37:54.040][INFO]: Parsing machine json: setamvtroismm:nuclear_chest in datapack: KubeJS Resource Pack [data]
-[10:37:54.042][INFO]: Successfully parsed machine json: setamvtroismm:nuclear_chest
-[10:37:54.043][INFO]: Parsing machine json: setamvtroismm:atomic_assembler in datapack: KubeJS Resource Pack [data]
-[10:37:54.045][INFO]: Successfully parsed machine json: setamvtroismm:atomic_assembler
-[10:37:54.045][INFO]: Parsing machine json: setamvtroismm:reversed_nuclear_chest in datapack: KubeJS Resource Pack [data]
-[10:37:54.048][INFO]: Successfully parsed machine json: setamvtroismm:reversed_nuclear_chest
-[10:37:54.049][INFO]: Parsing machine json: setamvtroismm:gaia_farmer in datapack: KubeJS Resource Pack [data]
-[10:37:54.049][INFO]: Successfully parsed machine json: setamvtroismm:gaia_farmer
-[10:37:54.050][INFO]: Parsing machine json: setamvtroismm:auto_ender_crafting in datapack: KubeJS Resource Pack [data]
-[10:37:54.050][INFO]: Successfully parsed machine json: setamvtroismm:auto_ender_crafting
-[10:37:54.051][INFO]: Parsing machine json: setamvtroismm:oxygen_extractor in datapack: KubeJS Resource Pack [data]
-[10:37:54.051][INFO]: Successfully parsed machine json: setamvtroismm:oxygen_extractor
-[10:37:54.051][INFO]: Parsing machine json: setamvtroismm:advanced_nuclear_chest in datapack: KubeJS Resource Pack [data]
-[10:37:54.052][INFO]: Successfully parsed machine json: setamvtroismm:advanced_nuclear_chest
-[10:37:54.052][INFO]: Finished creating custom machines.
-[10:37:54.053][INFO]: Reading Custom Machinery Upgrades json
-[10:37:54.053][INFO]: No machine upgrade json found.
-[10:37:54.053][INFO]: Collecting machine upgrades with kubeJS.
-[10:37:54.053][INFO]: No machine upgrades found with kubejs
-[10:37:54.053][INFO]: Finished creating custom machine upgrades.
-[10:40:49.638][INFO]: Parsing all .json files in machines folder.
-[10:40:49.657][INFO]: Parsing all .json files in upgrades folder.
-[10:40:50.185][INFO]: Finished parsing .json files in upgrades folder.
-[10:40:50.200][INFO]: Finished parsing .json files in machines folder.
-[10:40:56.665][WARN]: Error while deserializing optional property "output" of type: fr.frinn.custommachinery.impl.codec.RegistrarCodec@5a6b2877
-Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:input1
-Using default value: air
-[10:41:01.519][INFO]: Reading Custom Machinery Machines...
-[10:41:01.519][INFO]: Parsing machine json: setamvtroismm:antimatter_generator in datapack: KubeJS Resource Pack [data]
-[10:41:01.520][INFO]: Successfully parsed machine json: setamvtroismm:antimatter_generator
-[10:41:01.520][INFO]: Parsing machine json: setamvtroismm:plasma_gen in datapack: KubeJS Resource Pack [data]
-[10:41:01.520][INFO]: Successfully parsed machine json: setamvtroismm:plasma_gen
-[10:41:01.521][INFO]: Parsing machine json: setamvtroismm:nuclear_chest in datapack: KubeJS Resource Pack [data]
-[10:41:01.521][INFO]: Successfully parsed machine json: setamvtroismm:nuclear_chest
-[10:41:01.522][INFO]: Parsing machine json: setamvtroismm:atomic_assembler in datapack: KubeJS Resource Pack [data]
-[10:41:01.522][INFO]: Successfully parsed machine json: setamvtroismm:atomic_assembler
-[10:41:01.523][INFO]: Parsing machine json: setamvtroismm:reversed_nuclear_chest in datapack: KubeJS Resource Pack [data]
-[10:41:01.523][INFO]: Successfully parsed machine json: setamvtroismm:reversed_nuclear_chest
-[10:41:01.523][INFO]: Parsing machine json: setamvtroismm:gaia_farmer in datapack: KubeJS Resource Pack [data]
-[10:41:01.524][INFO]: Successfully parsed machine json: setamvtroismm:gaia_farmer
-[10:41:01.524][INFO]: Parsing machine json: setamvtroismm:auto_ender_crafting in datapack: KubeJS Resource Pack [data]
-[10:41:01.525][INFO]: Successfully parsed machine json: setamvtroismm:auto_ender_crafting
-[10:41:01.525][INFO]: Parsing machine json: setamvtroismm:oxygen_extractor in datapack: KubeJS Resource Pack [data]
-[10:41:01.525][INFO]: Successfully parsed machine json: setamvtroismm:oxygen_extractor
-[10:41:01.526][INFO]: Parsing machine json: setamvtroismm:advanced_nuclear_chest in datapack: KubeJS Resource Pack [data]
-[10:41:01.526][INFO]: Successfully parsed machine json: setamvtroismm:advanced_nuclear_chest
-[10:41:01.526][INFO]: Finished creating custom machines.
-[10:41:01.526][INFO]: Reading Custom Machinery Upgrades json
-[10:41:01.526][INFO]: No machine upgrade json found.
-[10:41:01.526][INFO]: Collecting machine upgrades with kubeJS.
-[10:41:01.526][INFO]: No machine upgrades found with kubejs
-[10:41:01.526][INFO]: Finished creating custom machine upgrades.
+[18:06:27.628][INFO]: Reading Custom Machinery Machines...
+[18:06:27.629][INFO]: Parsing machine json: setamvtroismm:antimatter_generator in datapack: KubeJS Resource Pack [data]
+[18:06:27.642][INFO]: Successfully parsed machine json: setamvtroismm:antimatter_generator
+[18:06:27.643][INFO]: Parsing machine json: setamvtroismm:plasma_gen in datapack: KubeJS Resource Pack [data]
+[18:06:27.643][INFO]: Successfully parsed machine json: setamvtroismm:plasma_gen
+[18:06:27.644][INFO]: Parsing machine json: setamvtroismm:nuclear_chest in datapack: KubeJS Resource Pack [data]
+[18:06:27.645][INFO]: Successfully parsed machine json: setamvtroismm:nuclear_chest
+[18:06:27.646][INFO]: Parsing machine json: setamvtroismm:atomic_assembler in datapack: KubeJS Resource Pack [data]
+[18:06:27.647][INFO]: Successfully parsed machine json: setamvtroismm:atomic_assembler
+[18:06:27.647][INFO]: Parsing machine json: setamvtroismm:reversed_nuclear_chest in datapack: KubeJS Resource Pack [data]
+[18:06:27.648][INFO]: Successfully parsed machine json: setamvtroismm:reversed_nuclear_chest
+[18:06:27.649][INFO]: Parsing machine json: setamvtroismm:gaia_farmer in datapack: KubeJS Resource Pack [data]
+[18:06:27.649][INFO]: Successfully parsed machine json: setamvtroismm:gaia_farmer
+[18:06:27.650][INFO]: Parsing machine json: setamvtroismm:auto_ender_crafting in datapack: KubeJS Resource Pack [data]
+[18:06:27.650][INFO]: Successfully parsed machine json: setamvtroismm:auto_ender_crafting
+[18:06:27.651][INFO]: Parsing machine json: setamvtroismm:oxygen_extractor in datapack: KubeJS Resource Pack [data]
+[18:06:27.651][INFO]: Successfully parsed machine json: setamvtroismm:oxygen_extractor
+[18:06:27.652][INFO]: Parsing machine json: setamvtroismm:advanced_nuclear_chest in datapack: KubeJS Resource Pack [data]
+[18:06:27.653][INFO]: Successfully parsed machine json: setamvtroismm:advanced_nuclear_chest
+[18:06:27.653][INFO]: Finished creating custom machines.
+[18:06:27.653][INFO]: Reading Custom Machinery Upgrades json
+[18:06:27.653][INFO]: No machine upgrade json found.
+[18:06:27.653][INFO]: Collecting machine upgrades with kubeJS.
+[18:06:27.653][INFO]: No machine upgrades found with kubejs
+[18:06:27.653][INFO]: Finished creating custom machine upgrades.

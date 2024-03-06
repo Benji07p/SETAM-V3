@@ -157,6 +157,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2024-03-05 18:15:02 +0100"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "ingot": "2024-03-02 17:21:19 +0100"

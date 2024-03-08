@@ -3,11 +3,13 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "beyond_earth:glacio", x: -14, y: 102, z: 49, time: 1709672519876L }
+	last_seen: { dim: "beyond_earth:glacio", x: -40, y: 98, z: 44, time: 1709845096435L }
 	recording: 0
 	teleport_history: [
 		{ dim: "beyond_earth:glacio", x: 1, y: 69, z: 1, time: 1709388789626L }
 		{ dim: "minecraft:overworld", x: -11, y: 84, z: -282, time: 1709411360970L }
+		{ dim: "beyond_earth:glacio", x: -29, y: 102, z: 48, time: 1709825133446L }
+		{ dim: "minecraft:overworld", x: -10, y: 84, z: -280, time: 1709825303055L }
 	]
 	homes: {
 		base: { dim: "beyond_earth:glacio", x: -14, y: 108, z: -1, time: 1709395712086L }

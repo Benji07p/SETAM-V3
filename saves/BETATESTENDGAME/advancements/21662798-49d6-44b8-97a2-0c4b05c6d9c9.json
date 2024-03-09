@@ -1,4 +1,10 @@
 {
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-09 12:32:20 +0100"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2024-03-02 15:59:14 +0100",
@@ -81,6 +87,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-03-02 16:05:14 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:triplesmelting": {
+    "criteria": {
+      "HasFurnace": "2024-03-09 14:47:07 +0100"
     },
     "done": true
   },

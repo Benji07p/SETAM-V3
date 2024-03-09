@@ -1,432 +1,432 @@
-[14:30:34] [INFO ] Loaded script server_scripts:advancedchest.js in 0.002 s
-[14:30:34] [INFO ] Loaded script server_scripts:antimatter.js in 0.001 s
-[14:30:34] [INFO ] Loaded script server_scripts:atomic.js in 0.004 s
-[14:30:34] [INFO ] Loaded script server_scripts:ender.js in 0.001 s
-[14:30:34] [INFO ] Loaded script server_scripts:gaia.js in 0.0 s
-[14:30:34] [INFO ] Loaded script server_scripts:nuclearchest.js in 0.001 s
-[14:30:34] [INFO ] Loaded script server_scripts:oxygen_extractor.js in 0.001 s
-[14:30:34] [INFO ] Loaded script server_scripts:plasma.js in 0.0 s
-[14:30:34] [INFO ] Loaded script server_scripts:reversednuclearchest.js in 0.0 s
-[14:30:34] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[14:30:34] [INFO ] Loaded script server_scripts:script.js in 0.007 s
-[14:30:34] [INFO ] Loaded script server_scripts:script2.js in 0.009 s
-[14:30:34] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
-[14:30:34] [INFO ] Loaded script server_scripts:tconstruct.js in 0.001 s
-[14:30:34] [INFO ] Loaded script server_scripts:unification.js in 0.005 s
-[14:30:34] [INFO ] Loaded 14/14 KubeJS server scripts in 0.041 s
-[14:30:34] [INFO ] Scripts loaded
-[14:30:34] [INFO ] Scanning recipes...
-[14:30:44] [INFO ] [fluids] Found 163 tags, added 33 objects, removed 18 objects
-[14:30:46] [INFO ] [items] Found 2208 tags, added 14 objects, removed 57 objects
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[14:30:56] [WARN ] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'alchemistry:compactor/nickel_dust[alchemistry:compactor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_nickel'
-[14:30:56] [WARN ] Failed to parse recipe alchemistry:compactor/nickel_dust[alchemistry:compactor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_nickel'
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'createaddition:compat/tconstruct/pig_iron[create:mixing]': {"item":"minecraft:bottle","count":1} is not a valid result!
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'alchemistry:compactor/aluminum_dust[alchemistry:compactor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_aluminum'
-[14:30:56] [WARN ] Failed to parse recipe alchemistry:compactor/aluminum_dust[alchemistry:compactor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_aluminum'
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'economyinc:pallet_craft[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'economyinc:block_bills'
-[14:30:56] [WARN ] Failed to parse recipe economyinc:pallet_craft[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'economyinc:block_bills'
-[14:30:56] [WARN ] Failed to parse recipe 'botanypots:pamhc2crops/crop/bokchoy[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:bokchoyseeditem'
-[14:30:56] [WARN ] Failed to parse recipe botanypots:pamhc2crops/crop/bokchoy[botanypots:crop]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:bokchoyseeditem'
-[14:30:56] [WARN ] Failed to parse recipe 'pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
-[14:30:56] [WARN ] Failed to parse recipe pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[14:30:56] [INFO ] Found 18770 recipes and 0 failed recipes in 606.2 ms
-[14:30:56] [INFO ] server_scripts:advancedchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=63118, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:advancedchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=70, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:advancedchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=173, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:advancedchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=17, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:advancedchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=776348, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:antimatter.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:antimatter_generator, time=1, requirements=[custommachinery:item, custommachinery:energy], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:antimatter.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:antimatter_generator, time=1, requirements=[custommachinery:item, custommachinery:energy], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:6: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:atomic.js:159: + create:sequenced_assembly: ['minecraft:bedrock'] -> [Item.of('minecraft:bedrock').withChance(1.0)]
-[14:30:56] [INFO ] server_scripts:atomic.js:192: + create:sequenced_assembly: ['chemlib:ruthenium_ingot'] -> [Item.of('chemlib:ruthenium_ingot').withChance(1.0)]
-[14:30:56] [INFO ] server_scripts:atomic.js:225: + create:sequenced_assembly: ['chemlib:osmium_ingot'] -> [Item.of('chemlib:osmium_ingot').withChance(1.0)]
-[14:30:56] [INFO ] server_scripts:ender.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:auto_ender_crafting, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:ender.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:auto_ender_crafting, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:ender.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:auto_ender_crafting, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:gaia.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:gaia_farmer, time=10, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item_transform, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:nuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=7920000, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:nuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=4800, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:nuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=12000, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:nuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=1200, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:nuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=53568000, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:nuclearchest.js:38: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:oxygen_extractor.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:oxygen_extractor.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:oxygen_extractor.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:oxygen_extractor.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:oxygen_extractor.js:5: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:plasma.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:plasma_gen, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:redstone, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:reversednuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:reversed_nuclear_chest, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:reversednuclearchest.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:reversed_nuclear_chest, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
-[14:30:56] [INFO ] server_scripts:script.js:5: + kubejs:shaped: ['electrodynamics:circuitbasic', 'tconstruct:smeltery_controller', 'computercraft:computer_normal'] -> ['mm:volcancreator_controller']
-[14:30:56] [INFO ] server_scripts:script.js:14: + kubejs:shaped: ['minecraft:hopper', 'computercraft:computer_normal'] -> ['mm:volcanfluid_port']
-[14:30:56] [INFO ] server_scripts:script.js:22: + kubejs:shaped: ['botania:mana_fluxfield', 'computercraft:computer_normal'] -> ['mm:manatorf_controller']
-[14:30:56] [INFO ] server_scripts:script.js:30: + kubejs:shaped: ['botania:mana_fluxfield', 'minecraft:hopper'] -> ['mm:manatorfoutput_port']
-[14:30:56] [INFO ] server_scripts:script.js:38: + kubejs:shaped: ['electrodynamics:ingottin', 'minecraft:glass'] -> ['timeextraminer:caveblock']
-[14:30:56] [INFO ] server_scripts:script.js:46: + kubejs:shaped: ['minecraft:obsidian', 'ballistix:antimatter', 'nuclearscience:quantumcapacitor'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:antimatter_generator"}')]
-[14:30:56] [INFO ] server_scripts:script.js:56: + kubejs:shaped: ['electrodynamics:pipesteel', 'computercraft:computer_normal'] -> ['mm:volcanenergy_port']
-[14:30:56] [INFO ] server_scripts:script.js:65: + kubejs:shaped: ['timeextraminer:times_block', 'minecraft:emerald'] -> ['minecraft:villager_spawn_egg']
-[14:30:56] [INFO ] server_scripts:script.js:73: + kubejs:shaped: ['timeextraminer:times_block', 'minecraft:rotten_flesh'] -> ['minecraft:zombie_spawn_egg']
-[14:30:56] [INFO ] server_scripts:script.js:81: + kubejs:shaped: ['#forge:ingots/strontium', '#forge:ingots/zinc', 'minecraft:blaze_powder'] -> ['4x alchemistry:reactor_casing']
-[14:30:56] [INFO ] server_scripts:script.js:90: + kubejs:shaped: ['#forge:ingots/strontium', 'minecraft:blaze_rod'] -> ['alchemistry:fission_core']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/37rubidium_and_39yttrium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/1hydrogen_and_75rhenium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/26iron_and_50tin_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/11sodium_and_65terbium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/4beryllium_and_72hafnium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/10neon_and_66dysprosium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/23vanadium_and_53iodine_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/36krypton_and_40zirconium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/15phosphorus_and_61promethium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/19potassium_and_57lanthanum_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/38strontium_and_38strontium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/21scandium_and_55cesium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/18argon_and_58cerium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/33arsenic_and_43technetium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/13aluminum_and_63europium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/35bromine_and_41niobium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/25manganese_and_51antimony_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/14silicon_and_62samarium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/6carbon_and_70ytterbium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/16sulfur_and_60neodymium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/3lithium_and_73tantalum_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/32germanium_and_44ruthenium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/29copper_and_47silver_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/28nickel_and_48cadmium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/24chromium_and_52tellurium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/9fluorine_and_67holmium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/27cobalt_and_49indium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/17chlorine_and_59praseodymium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/8oxygen_and_68erbium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/20calcium_and_56barium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/2helium_and_74tungsten_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/30zinc_and_46palladium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/5boron_and_71lutetium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/12magnesium_and_64gadolinium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/34selenium_and_42molybdenum_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/31gallium_and_45rhodium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/7nitrogen_and_69thulium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:98: - alchemistry:fusion/22titanium_and_54xenon_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
-[14:30:56] [INFO ] server_scripts:script.js:101: + kubejs:shaped: ['#forge:rods', Item.of('tconstruct:small_axe_head', '{Material:"tconstruct:rock"}')] -> [Item.of('minecraft:stone_axe', '{Damage:0}')]
-[14:30:56] [INFO ] server_scripts:script.js:109: + kubejs:shaped: ['#forge:rods', Item.of('tconstruct:pick_head', '{Material:"tconstruct:rock"}')] -> [Item.of('minecraft:stone_pickaxe', '{Damage:0}')]
-[14:30:56] [INFO ] server_scripts:script.js:117: + kubejs:shaped: ['#forge:rods', Item.of('tconstruct:pick_head', '{Material:"tconstruct:wood"}')] -> [Item.of('tconstruct:pickaxe', "{Damage:0,RepairCost:0,display:{Name:'{\"text\":\"Wooden Pickaxe\"}'},tic_broken:0b,tic_materials:[\"tconstruct:nahuatl\",\"tconstruct:wood\",\"tconstruct:rock\"],tic_modifiers:[{level:1s,name:\"tconstruct:piercing\"},{level:1s,name:\"tconstruct:lacerating\"},{level:1s,name:\"tconstruct:cultivated\"},{level:1s,name:\"tconstruct:stonebound\"}],tic_persistent_data:{abilities:1,upgrades:3},tic_stats:{\"tconstruct:attack_damage\":3.0f,\"tconstruct:attack_speed\":1.2f,\"tconstruct:durability\":350.0f,\"tconstruct:harvest_tier\":\"minecraft:diamond\",\"tconstruct:mining_speed\":4.5f}}")]
-[14:30:56] [INFO ] server_scripts:script.js:125: - minecraft:crafting_table[minecraft:crafting_shaped]: ['#minecraft:planks'] -> ['minecraft:crafting_table']
-[14:30:56] [INFO ] server_scripts:script.js:126: + kubejs:shaped: [Item.of('minecraft:stone_pickaxe', '{Damage:0}'), Item.of('minecraft:stone_axe', '{Damage:0}'), '#minecraft:planks'] -> ['minecraft:crafting_table']
-[14:30:56] [INFO ] server_scripts:script.js:135: + create:milling: ['minecraft:netherrack'] -> ['create:cinder_flour']
-[14:30:56] [INFO ] server_scripts:script.js:153: + alchemistry:combiner: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:176: + kubejs:shaped: ['#quark:stone_tool_materials'] -> [Item.of('tconstruct:small_axe_head', '{Material:"tconstruct:rock"}')]
-[14:30:56] [INFO ] server_scripts:script.js:182: + kubejs:shaped: ['beyond_earth:permafrost'] -> [Item.of('tconstruct:pick_head', '{Material:"tconstruct:rock"}')]
-[14:30:56] [INFO ] server_scripts:script.js:188: + kubejs:shaped: ['#minecraft:planks'] -> [Item.of('tconstruct:pick_head', '{Material:"tconstruct:wood"}')]
-[14:30:56] [INFO ] server_scripts:script.js:196: + kubejs:shaped: ['#quark:stone_tool_materials'] -> ['minecraft:furnace']
-[14:30:56] [INFO ] server_scripts:script.js:203: - tconstruct:common/basalt_blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_basalt', 'minecraft:furnace', 'minecraft:iron_ingot'] -> ['minecraft:blast_furnace']
-[14:30:56] [INFO ] server_scripts:script.js:203: - quark:building/crafting/furnaces/blackstone_blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_stone', 'quark:blackstone_furnace', 'minecraft:iron_ingot'] -> ['minecraft:blast_furnace']
-[14:30:56] [INFO ] server_scripts:script.js:203: - minecraft:blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_stone', 'minecraft:furnace', '#forge:ingots/iron'] -> ['minecraft:blast_furnace']
-[14:30:56] [INFO ] server_scripts:script.js:203: - quark:building/crafting/furnaces/deepslate_blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_stone', 'quark:deepslate_furnace', 'minecraft:iron_ingot'] -> ['minecraft:blast_furnace']
-[14:30:56] [INFO ] server_scripts:script.js:204: + minecraft:campfire_cooking: ['minecraft:furnace'] -> ['minecraft:blast_furnace']
-[14:30:56] [INFO ] server_scripts:script.js:205: + minecraft:campfire_cooking: ['minecraft:redstone'] -> ['create:polished_rose_quartz']
-[14:30:56] [INFO ] server_scripts:script.js:206: + minecraft:campfire_cooking: ['minecraft:packed_ice'] -> [Item.of('minecraft:wet_sponge', "{RepairCost:0,display:{Name:'{\"text\":\"CUIT LE\"}'}}")]
-[14:30:56] [INFO ] server_scripts:script.js:207: + minecraft:campfire_cooking: ['tconstruct:smeltery_controller'] -> ['computercraft:computer_normal']
-[14:30:56] [INFO ] server_scripts:script.js:208: - computercraft:computer_normal[minecraft:crafting_shaped]: ['#forge:stone', '#forge:dusts/redstone', '#forge:glass_panes'] -> ['computercraft:computer_normal']
-[14:30:56] [INFO ] server_scripts:script.js:209: - computercraft:computer_advanced_upgrade[computercraft:computer_upgrade]: [] -> ['computercraft:computer_advanced']
-[14:30:56] [INFO ] server_scripts:script.js:210: - computercraft:computer_advanced[minecraft:crafting_shaped]: ['#forge:ingots/gold', '#forge:dusts/redstone', '#forge:glass_panes'] -> ['computercraft:computer_advanced']
-[14:30:56] [INFO ] server_scripts:script.js:211: - rftoolsbase:machine_frame[minecraft:crafting_shaped]: ['minecraft:gold_nugget', 'minecraft:iron_ingot', '#forge:dyes/blue'] -> ['rftoolsbase:machine_frame']
-[14:30:56] [INFO ] server_scripts:script.js:212: - alchemistry:reactor_casing[minecraft:crafting_shaped]: ['chemlib:osmium_ingot', 'chemlib:platinum_ingot', 'minecraft:blaze_powder'] -> ['4x alchemistry:reactor_casing']
-[14:30:56] [INFO ] server_scripts:script.js:215: + create:pressing: ['timeextraminer:bedrock_dust'] -> ['timeextraminer:bedrock_ingot']
-[14:30:56] [INFO ] server_scripts:script.js:232: + create:crushing: ['minecraft:bedrock'] -> ['timeextraminer:bedrock_dust']
-[14:30:56] [INFO ] server_scripts:script.js:250: + create:pressing: ['minecraft:leather'] -> ['create:belt_connector']
-[14:30:56] [INFO ] server_scripts:script.js:267: + alchemistry:atomizer: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:283: + alchemistry:liquifier: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:301: + create:emptying: ['timeextraminer:helium_3fluid_bucket'] -> ['minecraft:bucket']
-[14:30:56] [INFO ] server_scripts:script.js:322: + create:mechanical_crafting: ['timeextraminer:time_cubes', 'electrodynamics:creativepowersource', 'botania:livingrock', 'botania:mana_pool'] -> ['botania:creative_pool']
-[14:30:56] [INFO ] server_scripts:script.js:336: + alchemistry:fission: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:353: + alchemistry:fission: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:370: + alchemistry:fission: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:387: + alchemistry:fission: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:404: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:421: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:438: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:455: + create:sequenced_assembly: ['#forge:plates/steel'] -> [Item.of('electrodynamics:circuitadvanced').withChance(1.0)]
-[14:30:56] [INFO ] server_scripts:script.js:583: + electrodynamics:wire_mill_recipe: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:610: + electrodynamics:mineral_grinder_recipe: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:637: + electrodynamics:wire_mill_recipe: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:655: + create:filling: ['tconstruct:blood_slime_ball'] -> ['minecraft:magma_cream']
-[14:30:56] [INFO ] server_scripts:script.js:676: + create:filling: ['pipez:ultimate_upgrade'] -> ['pipez:infinity_upgrade']
-[14:30:56] [INFO ] server_scripts:script.js:697: + lychee:item_inside: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:718: + create:mixing: ['chemlib:aluminum_oxide', 'chemlib:potassium_chloride', 'chemlib:silicon_dioxide', 'chemlib:magnesium_oxide'] -> ['timeextraminer:mixing_silicon']
-[14:30:56] [INFO ] server_scripts:script.js:745: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:762: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:779: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/55cesium_and_63europium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/49indium_and_69thulium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/11sodium_and_107bohrium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/33arsenic_and_85astatine_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/53iodine_and_65terbium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/58cerium_and_60neodymium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/21scandium_and_97berkelium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/41niobium_and_77iridium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/42molybdenum_and_76osmium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/39yttrium_and_79gold_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/24chromium_and_94plutonium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/40zirconium_and_78platinum_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/17chlorine_and_101mendelevium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/50tin_and_68erbium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/12magnesium_and_106seaborgium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/32germanium_and_86radon_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/15phosphorus_and_103lawrencium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/7nitrogen_and_111roentgenium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/44ruthenium_and_74tungsten_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/23vanadium_and_95americium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/4beryllium_and_114flerovium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/13aluminum_and_105dubnium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/6carbon_and_112copernicium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/8oxygen_and_110darmstadtium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/48cadmium_and_70ytterbium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/1hydrogen_and_117tennessine_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/26iron_and_92uranium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/20calcium_and_98californium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/52tellurium_and_66dysprosium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/28nickel_and_90thorium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/46palladium_and_72hafnium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/54xenon_and_64gadolinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/59praseodymium_and_59praseodymium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/38strontium_and_80mercury_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/31gallium_and_87francium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/51antimony_and_67holmium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/29copper_and_89actinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/56barium_and_62samarium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/10neon_and_108hassium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/57lanthanum_and_61promethium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/37rubidium_and_81thallium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/45rhodium_and_73tantalum_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/5boron_and_113nihonium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/47silver_and_71lutetium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/3lithium_and_115moscovium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/14silicon_and_104rutherfordium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/2helium_and_116livermorium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/22titanium_and_96curium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/19potassium_and_99einsteinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/34selenium_and_84polonium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/43technetium_and_75rhenium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/30zinc_and_88radium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/18argon_and_100fermium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/35bromine_and_83bismuth_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/27cobalt_and_91protactinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/16sulfur_and_102nobelium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/36krypton_and_82lead_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/9fluorine_and_109meitnerium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:796: - alchemistry:fusion/25manganese_and_93neptunium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
-[14:30:56] [INFO ] server_scripts:script.js:797: + alchemistry:fusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:814: - beyond_earth:nasa_workbench[minecraft:crafting_shaped]: ['#beyond_earth:compresseds/steel', 'minecraft:crafting_table', '#beyond_earth:compresseds/steel', 'minecraft:lever', '#forge:ingots/steel', 'minecraft:lever', '#beyond_earth:compresseds/steel', 'minecraft:redstone_torch', '#beyond_earth:compresseds/steel'] -> ['beyond_earth:nasa_workbench']
-[14:30:56] [INFO ] server_scripts:script.js:815: + create:sequenced_assembly: ['#forge:workbenches'] -> [Item.of('beyond_earth:nasa_workbench').withChance(1.0)]
-[14:30:56] [INFO ] server_scripts:script.js:900: + create:pressing: ['nuclearscience:cellantimattersmall'] -> ['timeextraminer:anti_hydrogen']
-[14:30:56] [INFO ] server_scripts:script.js:917: + alchemistry:fission: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:934: + nuclearscience:chemical_extractor_recipe: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:960: + kubejs:shaped: ['minecraft:cauldron', 'minecraft:glass_bottle', 'minecraft:redstone', 'minecraft:cobblestone'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:oxygen_extractor"}')]
-[14:30:56] [INFO ] server_scripts:script.js:972: + tconstruct:alloy: [] -> []
-[14:30:56] [INFO ] server_scripts:script.js:998: + create:mixing: ['electrodynamics:ingotlead', 'electrodynamics:ingotlead', 'electrodynamics:ingottin', 'electrodynamics:ingottin', 'electrodynamics:ingottin', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot'] -> ['10x timeextraminer:newtons_ingot']
-[14:30:56] [INFO ] server_scripts:script.js:1044: + kubejs:shaped: ['electrodynamics:ingotlead', 'ironchest:copper_chest'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}')]
-[14:30:56] [INFO ] server_scripts:script.js:1054: + kubejs:shaped: ['timeextraminer:newtons_ingot', Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'), 'minecraft:clock'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}')]
-[14:30:56] [INFO ] server_scripts:script.js:1065: + kubejs:shaped: ['timeextraminer:time_cubes', Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}'), 'minecraft:clock'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:reversed_nuclear_chest"}')]
-[14:30:56] [INFO ] server_scripts:script2.js:4: + botania:mana_infusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:18: + extendedcrafting:shaped_table: ['minecraft:egg', 'minecraft:emerald_block', 'timeextraminer:times_block'] -> ['minecraft:wandering_trader_spawn_egg']
-[14:30:56] [INFO ] server_scripts:script2.js:49: + create:milling: ['electrodynamics:ingotlead'] -> ['electrodynamics:raworelead']
-[14:30:56] [INFO ] server_scripts:script2.js:68: + create:milling: ['chemlib:sucrose', 'chemlib:sucrose', 'chemlib:sucrose', 'chemlib:triglyceride'] -> ['minecraft:honeycomb']
-[14:30:56] [INFO ] server_scripts:script2.js:96: + create:milling: ['chemlib:graphite', 'chemlib:graphite'] -> ['minecraft:coal']
-[14:30:56] [INFO ] server_scripts:script2.js:118: - extendedcrafting:frame[minecraft:crafting_shaped]: ['extendedcrafting:black_iron_ingot', '#forge:glass/colorless', 'extendedcrafting:black_iron_slate'] -> ['extendedcrafting:frame']
-[14:30:56] [INFO ] server_scripts:script2.js:119: + compactcrafting:miniaturization: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:170: + extendedcrafting:shaped_table: ['chemlib:platinum_ingot', 'minecraft:gold_ingot', 'chemlib:thallium_ingot', 'electrodynamics:ingotlead', 'chemlib:bismuth_ingot', 'chemlib:polonium_ingot', 'chemlib:francium_ingot', 'chemlib:radium_ingot', 'chemlib:actinium_ingot', 'chemlib:thorium_ingot', 'electrodynamics:ingotlithium', 'chemlib:beryllium_ingot', 'chemlib:sodium_ingot', 'chemlib:magnesium_ingot', 'electrodynamics:ingotaluminum', 'chemlib:potassium_ingot', 'chemlib:calcium_ingot', 'chemlib:scandium_ingot', 'electrodynamics:ingottitanium', 'electrodynamics:ingotvanadium', 'electrodynamics:ingotchromium', 'chemlib:manganese_ingot', 'minecraft:iron_ingot', 'tconstruct:cobalt_ingot', 'chemlib:nickel_ingot', 'minecraft:copper_ingot', 'create:zinc_ingot', 'chemlib:gallium_ingot', 'chemlib:rubidium_ingot', 'chemlib:strontium_ingot', 'chemlib:yttrium_ingot', 'chemlib:zirconium_ingot', 'chemlib:niobium_ingot', 'electrodynamics:ingotmolybdenum', 'chemlib:ruthenium_ingot', 'chemlib:rhodium_ingot', 'chemlib:palladium_ingot', 'electrodynamics:ingotsilver', 'chemlib:cadmium_ingot', 'chemlib:indium_ingot', 'electrodynamics:ingottin', 'chemlib:cesium_ingot', 'chemlib:barium_ingot', 'chemlib:lanthanum_ingot', 'chemlib:cerium_ingot', 'chemlib:praseodymium_ingot', 'chemlib:neodymium_ingot', 'chemlib:samarium_ingot', 'chemlib:europium_ingot', 'chemlib:gadolinium_ingot', 'chemlib:terbium_ingot', 'chemlib:dysprosium_ingot', 'chemlib:holmium_ingot', 'chemlib:erbium_ingot', 'chemlib:thulium_ingot', 'chemlib:ytterbium_ingot', 'chemlib:lutetium_ingot', 'chemlib:hafnium_ingot', 'chemlib:tantalum_ingot', 'chemlib:tungsten_ingot', 'chemlib:rhenium_ingot', 'chemlib:osmium_ingot', 'chemlib:iridium_ingot', 'chemlib:protactinium_ingot', 'chemlib:uranium_ingot'] -> ['timeextraminer:alchemical_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:388: + kubejs:shaped: ['minecraft:stick', 'minecraft:bedrock', 'storagedrawers:emerald_storage_upgrade'] -> ['storagedrawers:creative_storage_upgrade']
-[14:30:56] [INFO ] server_scripts:script2.js:399: - extendedcrafting:the_ultimate_block[minecraft:crafting_shaped]: ['extendedcrafting:the_ultimate_ingot'] -> ['extendedcrafting:the_ultimate_block']
-[14:30:56] [INFO ] server_scripts:script2.js:400: - extendedcrafting:the_ultimate_block_uncraft[minecraft:crafting_shapeless]: ['extendedcrafting:the_ultimate_block'] -> ['9x extendedcrafting:the_ultimate_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:403: - extendedcrafting:black_iron_ingot[minecraft:crafting_shapeless]: ['#forge:ingots/iron', '#forge:dyes/black'] -> ['extendedcrafting:black_iron_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:404: + mythicbotany:infusion: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:430: + extendedcrafting:shaped_ender_crafter: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:454: + extendedcrafting:shaped_table: ['minecraft:iron_ingot', 'minecraft:copper_ingot', 'minecraft:gold_ingot', 'minecraft:netherite_ingot', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:redstone_ingot', 'extendedcrafting:ender_ingot', 'create:brass_ingot', 'timeextraminer:bedrock_ingot', 'electrodynamics:ingottin', 'electrodynamics:ingotsilver', 'electrodynamics:ingotsteel', 'electrodynamics:ingotlead', 'electrodynamics:ingotsuperconductive', 'electrodynamics:ingotlithium', 'electrodynamics:ingotaluminum', 'electrodynamics:ingotchromium', 'electrodynamics:ingotstainlesssteel', 'electrodynamics:ingotvanadiumsteel', 'electrodynamics:ingothslasteel', 'electrodynamics:ingottitanium', 'chemlib:magnesium_ingot', 'beyond_earth:desh_ingot', 'beyond_earth:ostrum_ingot', 'extendedcrafting:ultimate_singularity', 'mythicbotany:alfsteel_ingot', 'tconstruct:cobalt_ingot', 'tconstruct:slimesteel_ingot', 'tconstruct:pig_iron_ingot', 'tconstruct:queens_slime_ingot', 'tconstruct:manyullyn_ingot', 'tconstruct:hepatizon_ingot', 'botania:manasteel_ingot', 'botania:terrasteel_ingot', 'botania:elementium_ingot', 'timeextraminer:newtons_ingot', 'byg:pendorite_ingot', 'timeextraminer:alchemical_ingot', 'electrodynamics:ingotvanadium', 'electrodynamics:ingottitaniumcarbide', 'tconstruct:rose_gold_ingot', 'beyond_earth:calorite_ingot', 'extendedcrafting:enhanced_ender_ingot', 'electrodynamics:ingotbronze', 'electrodynamics:ingotmolybdenum', 'tconstruct:amethyst_bronze_ingot', 'botania:gaia_ingot', 'chemlib:tungsten_ingot', 'extendedcrafting:crystaltine_ingot'] -> ['extendedcrafting:the_ultimate_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:622: - extendedcrafting:elite_table[minecraft:crafting_shaped]: ['#forge:storage_blocks/diamond', 'extendedcrafting:advanced_table', 'extendedcrafting:elite_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:elite_catalyst'] -> ['extendedcrafting:elite_table']
-[14:30:56] [INFO ] server_scripts:script2.js:623: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'extendedcrafting:luminessence', 'extendedcrafting:elite_catalyst', 'minecraft:diamond', 'extendedcrafting:advanced_table', 'minecraft:diamond_block'] -> ['extendedcrafting:elite_table']
-[14:30:56] [INFO ] server_scripts:script2.js:660: - extendedcrafting:ultimate_table[minecraft:crafting_shaped]: ['#forge:storage_blocks/emerald', 'extendedcrafting:elite_table', 'extendedcrafting:ultimate_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:ultimate_catalyst'] -> ['extendedcrafting:ultimate_table']
-[14:30:56] [INFO ] server_scripts:script2.js:661: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'extendedcrafting:luminessence', 'extendedcrafting:ultimate_component', 'minecraft:emerald', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:elite_component', 'extendedcrafting:elite_catalyst', 'extendedcrafting:advanced_table', 'minecraft:diamond_block', 'minecraft:emerald_block'] -> ['extendedcrafting:ultimate_table']
-[14:30:56] [INFO ] server_scripts:script2.js:712: - compactcrafting:field_projector[minecraft:crafting_shapeless]: ['compactcrafting:base', 'compactcrafting:projector_dish'] -> ['compactcrafting:field_projector']
-[14:30:56] [INFO ] server_scripts:script2.js:713: - compactcrafting:projector_dish[minecraft:crafting_shaped]: ['minecraft:ender_eye', '#forge:glass_panes', '#forge:ingots/iron'] -> ['4x compactcrafting:projector_dish']
-[14:30:56] [INFO ] server_scripts:script2.js:714: - compactcrafting:base[minecraft:crafting_shaped]: ['minecraft:stone_slab', 'minecraft:redstone_torch', 'minecraft:diamond', 'minecraft:heavy_weighted_pressure_plate'] -> ['4x compactcrafting:base']
-[14:30:56] [INFO ] server_scripts:script2.js:715: - compactcrafting:rescan_proxy[minecraft:crafting_shapeless]: ['compactcrafting:base', 'minecraft:crafting_table'] -> ['compactcrafting:rescan_proxy']
-[14:30:56] [INFO ] server_scripts:script2.js:716: - compactcrafting:match_proxy[minecraft:crafting_shapeless]: ['compactcrafting:base', 'minecraft:redstone'] -> ['compactcrafting:match_proxy']
-[14:30:56] [INFO ] server_scripts:script2.js:717: + extendedcrafting:shaped_table: ['minecraft:redstone_torch', 'minecraft:diamond', 'minecraft:stone_slab', 'minecraft:heavy_weighted_pressure_plate'] -> ['4x compactcrafting:base']
-[14:30:56] [INFO ] server_scripts:script2.js:745: + extendedcrafting:shaped_table: ['#forge:glass_panes', 'minecraft:iron_ingot', 'minecraft:ender_eye'] -> ['4x compactcrafting:projector_dish']
-[14:30:56] [INFO ] server_scripts:script2.js:770: + extendedcrafting:shapeless_table: ['compactcrafting:base', 'minecraft:redstone'] -> ['compactcrafting:match_proxy']
-[14:30:56] [INFO ] server_scripts:script2.js:786: + extendedcrafting:shapeless_table: ['compactcrafting:base', 'minecraft:crafting_table'] -> ['compactcrafting:rescan_proxy']
-[14:30:56] [INFO ] server_scripts:script2.js:802: + extendedcrafting:shapeless_table: ['compactcrafting:projector_dish', 'compactcrafting:base'] -> ['compactcrafting:field_projector']
-[14:30:56] [INFO ] server_scripts:script2.js:820: + extendedcrafting:shaped_table: ['electrodynamics:wirehighlyinsulatedcopper', 'extendedcrafting:redstone_ingot', 'electrodynamics:dustobsidian', 'electrodynamics:platesteel', 'electrodynamics:circuitbasic', 'electrodynamics:circuitelite', 'electrodynamics:circuitultimate', 'computercraft:computer_normal', 'electrodynamics:wiregold', 'create:framed_glass', 'computercraft:monitor_advanced'] -> ['computercraft:computer_advanced']
-[14:30:56] [INFO ] server_scripts:script2.js:876: + botanypots:crop: ['timeextraminer:temporal_seeds'] -> [Item.of('timeextraminer:raw_time_cristal').withChance(1.0), Item.of('timeextraminer:temporal_seeds').withChance(1.0)]
-[14:30:56] [INFO ] server_scripts:script2.js:913: + extendedcrafting:shaped_table: ['quark:iron_plate', 'beyond_earth:iron_plating_block', 'extendedcrafting:black_iron_slate', 'extendedcrafting:black_iron_block', 'beyond_earth:iron_plate', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:frame', 'electrodynamics:circuitultimate', 'computercraft:computer_advanced'] -> ['rftoolsbase:machine_frame']
-[14:30:56] [INFO ] server_scripts:script2.js:963: + extendedcrafting:shaped_table: ['storagedrawers:creative_storage_upgrade', 'extendedcrafting:the_ultimate_ingot', 'electrodynamics:creativefluidsource', 'electrodynamics:creativepowersource', 'extendedcrafting:ultimate_singularity', 'extendedcrafting:ender_star', 'storagedrawers:controller'] -> ['storagedrawers:creative_vending_upgrade']
-[14:30:56] [INFO ] server_scripts:script2.js:1007: - extendedcrafting:advanced_table[minecraft:crafting_shaped]: ['#forge:storage_blocks/gold', 'extendedcrafting:basic_table', 'extendedcrafting:advanced_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:advanced_catalyst'] -> ['extendedcrafting:advanced_table']
-[14:30:56] [INFO ] server_scripts:script2.js:1008: + compactcrafting:miniaturization: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1071: + minecraft:smithing: ['electrodynamics:creativepowersource', 'createaddition:electric_motor'] -> ['create:creative_motor']
-[14:30:56] [INFO ] server_scripts:script2.js:1087: + minecraft:smithing: ['create:creative_motor', 'createaddition:alternator'] -> ['createaddition:creative_energy']
-[14:30:56] [INFO ] server_scripts:script2.js:1103: + compactcrafting:miniaturization: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1146: + kubejs:shapeless: ['extendedcrafting:ultimate_singularity', 'timeextraminer:alchemical_ingot'] -> ['2x timeextraminer:alchemical_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:1149: + extendedcrafting:compressor: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1169: + extendedcrafting:compressor: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1187: + extendedcrafting:compressor: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1205: + extendedcrafting:compressor: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1223: - extendedcrafting:compressor[minecraft:crafting_shaped]: ['extendedcrafting:frame', 'extendedcrafting:elite_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:elite_catalyst'] -> ['extendedcrafting:compressor']
-[14:30:56] [INFO ] server_scripts:script2.js:1224: + extendedcrafting:shaped_table: ['extendedcrafting:crystaltine_ingot', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:crystaltine_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:luminessence', Item.of('nuclearscience:celldarkmatter', '{Damage:0}'), 'electrodynamics:circuitultimate', 'nuclearscience:fusionreactorcore', 'nuclearscience:quantumcapacitor'] -> ['16x extendedcrafting:compressor']
-[14:30:56] [INFO ] server_scripts:script2.js:1278: + kubejs:shaped: ['botania:gaia_ingot', 'botania:life_essence', 'minecraft:beacon', 'minecraft:iron_block'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:gaia_farmer"}')]
-[14:30:56] [INFO ] server_scripts:script2.js:1290: + kubejs:shaped: ['minecraft:cobblestone', 'electrodynamics:railgunplasma', 'minecraft:redstone'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:plasma_gen"}')]
-[14:30:56] [INFO ] server_scripts:script2.js:1301: + kubejs:shaped: ['byg:pendorite_scraps', 'minecraft:emerald', 'minecraft:diamond'] -> ['byg:pendorite_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:1312: + extendedcrafting:shaped_table: ['electrodynamics:fluidvoid', 'electrodynamics:upgradeitemvoid', 'nuclearscience:cellantimattersmall', Item.of('nuclearscience:celldarkmatter', '{Damage:0}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:hydrogen"}'), 'extendedcrafting:luminessence', 'extendedcrafting:ultimate_singularity'] -> [Item.of('rftoolsdim:realized_dimension_tab', "{descriptor:'[{\"t\":\"b\",\"n\":\"extendedcrafting:the_ultimate_block\"},{\"t\":\"sk\",\"n\":\"default\"},{\"t\":\"ti\",\"n\":\"normal\"},{\"t\":\"t\",\"n\":\"chaotic\"}]',dimension:\"rftoolsdim:quantumania\",name:\"quantumania\",rfCreateCost:65,rfMaintainCost:63,tickCost:135,ticksLeft:0}")]
-[14:30:56] [INFO ] server_scripts:script2.js:1365: + botania:elven_trade: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1382: + extendedcrafting:shaped_ender_crafter: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1412: + kubejs:shapeless: ['extendedcrafting:advanced_component'] -> ['timeextraminer:advanced_components']
-[14:30:56] [INFO ] server_scripts:script2.js:1419: + kubejs:shapeless: ['extendedcrafting:advanced_catalyst'] -> ['timeextraminer:advancedcatalyst']
-[14:30:56] [INFO ] server_scripts:script2.js:1426: + kubejs:shapeless: ['byg:pendorite_block'] -> ['9x byg:pendorite_ingot']
-[14:30:56] [INFO ] server_scripts:script2.js:1438: + kubejs:shapeless: ['extendedcrafting:black_iron_ingot', Item.of('timeextraminer:black_iron_hammer', '{Damage:0}').ignoreNBT()] -> ['timeextraminer:broken_black_iron']
-[14:30:56] [INFO ] server_scripts:script2.js:1441: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'electrodynamics:creativepowersource', 'extendedcrafting:the_ultimate_ingot', 'pipez:infinity_upgrade', 'electrodynamics:creativefluidsource', 'extendedcrafting:ultimate_singularity', 'storagedrawers:creative_storage_upgrade', 'timeextraminer:furingots', 'timeextraminer:alphmium_ingot', 'storagedrawers:creative_vending_upgrade', 'timeextraminer:doukingots', 'timeextraminer:benjingots', 'create:creative_motor', 'createaddition:creative_energy', 'extendedcrafting:the_ultimate_block'] -> ['timeextraminer:universal_core']
-[14:30:56] [INFO ] server_scripts:script2.js:1509: + extendedcrafting:compressor: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1527: + create:item_application: ['minecraft:stone', 'timeextraminer:alchemical_ingot'] -> ['timeextraminer:alchemical_ore']
-[14:30:56] [INFO ] server_scripts:script2.js:1547: + kubejs:shaped: ['extendedcrafting:the_ultimate_block', 'rftoolsbase:machine_frame'] -> ['timeextraminer:ultimate_machine_frame']
-[14:30:56] [INFO ] server_scripts:script2.js:1557: + lychee:block_interacting: [] -> []
-[14:30:56] [INFO ] server_scripts:script2.js:1575: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'minecraft:stick'] -> [Item.of('timeextraminer:black_iron_hammer', '{Damage:0}')]
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:5: + tconstruct:melting: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:tconstruct.js:21: + tconstruct:casting_table: [] -> []
-[14:30:56] [INFO ] server_scripts:unification.js:3: - tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'tconstruct:copper_nugget'] -> ['minecraft:copper_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:4: - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x tconstruct:copper_nugget']
-[14:30:56] [INFO ] server_scripts:unification.js:5: - create:crafting/materials/copper_nugget[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x create:copper_nugget']
-[14:30:56] [INFO ] server_scripts:unification.js:6: - beyond_earth:steel_block[minecraft:crafting_shaped]: ['beyond_earth:steel_ingot', '#forge:ingots/steel'] -> ['beyond_earth:steel_block']
-[14:30:56] [INFO ] server_scripts:unification.js:7: - beyond_earth:steel_ingot[minecraft:crafting_shaped]: ['beyond_earth:steel_block'] -> ['9x beyond_earth:steel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:8: - beyond_earth:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['beyond_earth:steel_nugget', '#forge:nuggets/steel'] -> ['beyond_earth:steel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:9: - beyond_earth:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['beyond_earth:steel_ingot'] -> ['9x beyond_earth:steel_nugget']
-[14:30:56] [INFO ] server_scripts:unification.js:10: - beyond_earth:steel_ingot_blasting[minecraft:blasting]: ['minecraft:iron_ingot'] -> ['beyond_earth:steel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:11: - beyond_earth_giselle_addon:blasting/steel_ingot_from_compresseds[minecraft:blasting]: ['#beyond_earth:compresseds/steel'] -> ['beyond_earth:steel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:12: - beyond_earth_giselle_addon:smelting/steel_ingot_from_compresseds[minecraft:smelting]: ['#beyond_earth:compresseds/steel'] -> ['beyond_earth:steel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:13: - car:iron_stick[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['car:iron_stick']
-[14:30:56] [INFO ] server_scripts:unification.js:14: - alchemistry:copper_ingot_from_blasting_copper_dust[minecraft:blasting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:15: - alchemistry:copper_ingot_from_smelting_copper_dust[minecraft:smelting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:16: - alchemistry:iron_ingot_from_smelting_iron_dust[minecraft:smelting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:17: - alchemistry:iron_ingot_from_blasting_iron_dust[minecraft:blasting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:18: - alchemistry:gold_ingot_from_smelting_gold_dust[minecraft:smelting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:19: - alchemistry:gold_ingot_from_blasting_gold_dust[minecraft:blasting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:20: - chemlib:tin_ingot_from_blasting_tin_dust[minecraft:blasting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:21: - chemlib:tin_ingot_from_smelting_tin_dust[minecraft:smelting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:22: - chemlib:lead_ingot_from_blasting_lead_dust[minecraft:blasting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:23: - chemlib:lead_ingot_from_smelting_lead_dust[minecraft:smelting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:24: - chemlib:silver_ingot_from_smelting_silver_dust[minecraft:smelting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:25: - chemlib:silver_ingot_from_blasting_silver_dust[minecraft:blasting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:26: - chemlib:aluminum_ingot_from_smelting_aluminum_dust[minecraft:smelting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:27: - chemlib:aluminum_ingot_from_blasting_aluminum_dust[minecraft:blasting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:28: - chemlib:nickel_ingot_from_smelting_nickel_dust[minecraft:smelting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:29: - chemlib:nickel_ingot_from_blasting_nickel_dust[minecraft:blasting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:30: - chemlib:molybdenum_ingot_from_smelting_molybdenum_dust[minecraft:smelting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:31: - chemlib:molybdenum_ingot_from_blasting_molybdenum_dust[minecraft:blasting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:32: - chemlib:lithium_ingot_from_smelting_lithium_dust[minecraft:smelting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:33: - chemlib:lithium_ingot_from_blasting_lithium_dust[minecraft:blasting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:34: - chemlib:vanadium_ingot_from_smelting_vanadium_dust[minecraft:smelting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:35: - chemlib:vanadium_ingot_from_blasting_vanadium_dust[minecraft:blasting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:36: - chemlib:thorium_ingot_from_smelting_thorium_dust[minecraft:smelting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:37: - chemlib:thorium_ingot_from_blasting_thorium_dust[minecraft:blasting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:38: - chemlib:tin_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:tin_ingot'] -> ['9x chemlib:tin_nugget']
-[14:30:56] [INFO ] server_scripts:unification.js:39: - chemlib:tin_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:tin_nugget'] -> ['chemlib:tin_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:40: - chemlib:tin_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:tin_metal_block'] -> ['9x chemlib:tin_ingot']
-[14:30:56] [INFO ] server_scripts:unification.js:41: - chemlib:tin_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:tin_ingot'] -> ['chemlib:tin_metal_block']
-[14:30:56] [INFO ] server_scripts:unification.js:42: - chemlib:lead_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:lead_ingot'] -> ['chemlib:lead_metal_block']
-[14:30:56] [INFO ] server_scripts:unification.js:43: - chemlib:lead_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:lead_metal_block'] -> ['9x chemlib:lead_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:44: - chemlib:lead_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:lead_ingot'] -> ['9x chemlib:lead_nugget']
-[14:30:57] [INFO ] server_scripts:unification.js:45: - chemlib:lead_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:lead_nugget'] -> ['chemlib:lead_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:46: - chemlib:silver_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:silver_ingot'] -> ['chemlib:silver_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:47: - chemlib:silver_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:silver_metal_block'] -> ['9x chemlib:silver_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:48: - chemlib:silver_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:silver_nugget'] -> ['chemlib:silver_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:49: - chemlib:silver_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:silver_ingot'] -> ['9x chemlib:silver_nugget']
-[14:30:57] [INFO ] server_scripts:unification.js:50: - chemlib:aluminum_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:aluminum_ingot'] -> ['9x chemlib:aluminum_nugget']
-[14:30:57] [INFO ] server_scripts:unification.js:51: - chemlib:aluminum_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:aluminum_nugget'] -> ['chemlib:aluminum_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:52: - chemlib:aluminum_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:aluminum_ingot'] -> ['chemlib:aluminum_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:53: - chemlib:aluminum_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:aluminum_metal_block'] -> ['9x chemlib:aluminum_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:54: - chemlib:nickel_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:nickel_ingot'] -> ['9x chemlib:nickel_nugget']
-[14:30:57] [INFO ] server_scripts:unification.js:55: - chemlib:nickel_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:nickel_nugget'] -> ['chemlib:nickel_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:56: - chemlib:nickel_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:nickel_ingot'] -> ['chemlib:nickel_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:57: - chemlib:nickel_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:nickel_metal_block'] -> ['9x chemlib:nickel_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:58: - chemlib:zinc_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:zinc_nugget'] -> ['chemlib:zinc_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:59: - chemlib:zinc_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:zinc_ingot'] -> ['9x chemlib:zinc_nugget']
-[14:30:57] [INFO ] server_scripts:unification.js:60: - chemlib:zinc_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:zinc_ingot'] -> ['chemlib:zinc_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:61: - chemlib:zinc_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:zinc_metal_block'] -> ['9x chemlib:zinc_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:62: - chemlib:cobalt_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:cobalt_ingot'] -> ['9x chemlib:cobalt_nugget']
-[14:30:57] [INFO ] server_scripts:unification.js:63: - chemlib:cobalt_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:cobalt_nugget'] -> ['chemlib:cobalt_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:64: - chemlib:cobalt_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:cobalt_ingot'] -> ['chemlib:cobalt_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:65: - chemlib:cobalt_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:cobalt_metal_block'] -> ['9x chemlib:cobalt_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:66: - chemlib:titanium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:titanium_ingot'] -> ['chemlib:titanium_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:67: - chemlib:titanium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:titanium_metal_block'] -> ['9x chemlib:titanium_ingot']
-[14:30:57] [INFO ] server_scripts:unification.js:68: - chemlib:chromium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:chromium_ingot'] -> ['chemlib:chromium_metal_block']
-[14:30:57] [INFO ] server_scripts:unification.js:69: - chemlib:chromium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:chromium_metal_block'] -> ['9x chemlib:chromium_ingot']
-[14:30:57] [INFO ] Posted recipe events in 282.7 ms
-[14:30:57] [INFO ] Modified & removed recipes in 143.0 ms
-[14:30:57] [INFO ] Added recipes in 37.90 ms
-[14:30:57] [INFO ] Added 188 recipes, removed 188 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[09:09:36] [INFO ] Loaded script server_scripts:advancedchest.js in 0.002 s
+[09:09:36] [INFO ] Loaded script server_scripts:antimatter.js in 0.001 s
+[09:09:36] [INFO ] Loaded script server_scripts:atomic.js in 0.004 s
+[09:09:36] [INFO ] Loaded script server_scripts:ender.js in 0.002 s
+[09:09:36] [INFO ] Loaded script server_scripts:gaia.js in 0.0 s
+[09:09:36] [INFO ] Loaded script server_scripts:nuclearchest.js in 0.002 s
+[09:09:36] [INFO ] Loaded script server_scripts:oxygen_extractor.js in 0.001 s
+[09:09:36] [INFO ] Loaded script server_scripts:plasma.js in 0.0 s
+[09:09:36] [INFO ] Loaded script server_scripts:reversednuclearchest.js in 0.001 s
+[09:09:36] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[09:09:36] [INFO ] Loaded script server_scripts:script.js in 0.008 s
+[09:09:36] [INFO ] Loaded script server_scripts:script2.js in 0.012 s
+[09:09:36] [INFO ] Loaded script server_scripts:settings.js in 0.0 s
+[09:09:36] [INFO ] Loaded script server_scripts:tconstruct.js in 0.002 s
+[09:09:36] [INFO ] Loaded script server_scripts:unification.js in 0.005 s
+[09:09:36] [INFO ] Loaded 14/14 KubeJS server scripts in 0.048 s
+[09:09:36] [INFO ] Scripts loaded
+[09:09:36] [INFO ] Scanning recipes...
+[09:09:47] [INFO ] [fluids] Found 163 tags, added 33 objects, removed 18 objects
+[09:09:49] [INFO ] [items] Found 2208 tags, added 14 objects, removed 57 objects
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[09:09:58] [WARN ] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'alchemistry:compactor/nickel_dust[alchemistry:compactor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_nickel'
+[09:09:58] [WARN ] Failed to parse recipe alchemistry:compactor/nickel_dust[alchemistry:compactor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_nickel'
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'createaddition:compat/tconstruct/pig_iron[create:mixing]': {"item":"minecraft:bottle","count":1} is not a valid result!
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'alchemistry:compactor/aluminum_dust[alchemistry:compactor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_aluminum'
+[09:09:58] [WARN ] Failed to parse recipe alchemistry:compactor/aluminum_dust[alchemistry:compactor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:dust_aluminum'
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'economyinc:pallet_craft[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'economyinc:block_bills'
+[09:09:58] [WARN ] Failed to parse recipe economyinc:pallet_craft[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'economyinc:block_bills'
+[09:09:58] [WARN ] Failed to parse recipe 'botanypots:pamhc2crops/crop/bokchoy[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:bokchoyseeditem'
+[09:09:58] [WARN ] Failed to parse recipe botanypots:pamhc2crops/crop/bokchoy[botanypots:crop]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:bokchoyseeditem'
+[09:09:58] [WARN ] Failed to parse recipe 'pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
+[09:09:58] [WARN ] Failed to parse recipe pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[09:09:58] [INFO ] Found 18770 recipes and 0 failed recipes in 623.6 ms
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=63118, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=70, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=173, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=17, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:advanced_nuclear_chest, time=776348, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:antimatter_generator, time=1, requirements=[custommachinery:item, custommachinery:energy], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:antimatter_generator, time=1, requirements=[custommachinery:item, custommachinery:energy], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:atomic_assembler, time=12000, requirements=[custommachinery:energy_per_tick, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + create:sequenced_assembly: ['minecraft:bedrock'] -> [Item.of('minecraft:bedrock').withChance(1.0)]
+[09:09:58] [INFO ] + create:sequenced_assembly: ['chemlib:ruthenium_ingot'] -> [Item.of('chemlib:ruthenium_ingot').withChance(1.0)]
+[09:09:58] [INFO ] + create:sequenced_assembly: ['chemlib:osmium_ingot'] -> [Item.of('chemlib:osmium_ingot').withChance(1.0)]
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:auto_ender_crafting, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:auto_ender_crafting, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:auto_ender_crafting, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:gaia_farmer, time=10, requirements=[custommachinery:energy_per_tick, custommachinery:item, custommachinery:item_transform, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=7920000, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=4800, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=12000, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=1200, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=53568000, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:nuclear_chest, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:oxygen_extractor, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:dimension, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:plasma_gen, time=1, requirements=[custommachinery:energy_per_tick, custommachinery:redstone, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:reversed_nuclear_chest, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=setamvtroismm:reversed_nuclear_chest, time=1, requirements=[custommachinery:item, custommachinery:item, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false}
+[09:09:58] [INFO ] + kubejs:shaped: ['electrodynamics:circuitbasic', 'tconstruct:smeltery_controller', 'computercraft:computer_normal'] -> ['mm:volcancreator_controller']
+[09:09:58] [INFO ] + kubejs:shaped: ['minecraft:hopper', 'computercraft:computer_normal'] -> ['mm:volcanfluid_port']
+[09:09:58] [INFO ] + kubejs:shaped: ['botania:mana_fluxfield', 'computercraft:computer_normal'] -> ['mm:manatorf_controller']
+[09:09:58] [INFO ] + kubejs:shaped: ['botania:mana_fluxfield', 'minecraft:hopper'] -> ['mm:manatorfoutput_port']
+[09:09:58] [INFO ] + kubejs:shaped: ['electrodynamics:ingottin', 'minecraft:glass'] -> ['timeextraminer:caveblock']
+[09:09:58] [INFO ] + kubejs:shaped: ['minecraft:obsidian', 'ballistix:antimatter', 'nuclearscience:quantumcapacitor'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:antimatter_generator"}')]
+[09:09:58] [INFO ] + kubejs:shaped: ['electrodynamics:pipesteel', 'computercraft:computer_normal'] -> ['mm:volcanenergy_port']
+[09:09:58] [INFO ] + kubejs:shaped: ['timeextraminer:times_block', 'minecraft:emerald'] -> ['minecraft:villager_spawn_egg']
+[09:09:58] [INFO ] + kubejs:shaped: ['timeextraminer:times_block', 'minecraft:rotten_flesh'] -> ['minecraft:zombie_spawn_egg']
+[09:09:58] [INFO ] + kubejs:shaped: ['#forge:ingots/strontium', '#forge:ingots/zinc', 'minecraft:blaze_powder'] -> ['4x alchemistry:reactor_casing']
+[09:09:58] [INFO ] + kubejs:shaped: ['#forge:ingots/strontium', 'minecraft:blaze_rod'] -> ['alchemistry:fission_core']
+[09:09:58] [INFO ] - alchemistry:fusion/37rubidium_and_39yttrium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/1hydrogen_and_75rhenium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/26iron_and_50tin_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/11sodium_and_65terbium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/4beryllium_and_72hafnium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/10neon_and_66dysprosium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/23vanadium_and_53iodine_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/36krypton_and_40zirconium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/15phosphorus_and_61promethium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/19potassium_and_57lanthanum_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/38strontium_and_38strontium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/21scandium_and_55cesium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/18argon_and_58cerium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/33arsenic_and_43technetium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/13aluminum_and_63europium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/35bromine_and_41niobium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/25manganese_and_51antimony_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/14silicon_and_62samarium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/6carbon_and_70ytterbium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/16sulfur_and_60neodymium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/3lithium_and_73tantalum_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/32germanium_and_44ruthenium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/29copper_and_47silver_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/28nickel_and_48cadmium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/24chromium_and_52tellurium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/9fluorine_and_67holmium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/27cobalt_and_49indium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/17chlorine_and_59praseodymium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/8oxygen_and_68erbium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/20calcium_and_56barium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/2helium_and_74tungsten_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/30zinc_and_46palladium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/5boron_and_71lutetium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/12magnesium_and_64gadolinium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/34selenium_and_42molybdenum_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/31gallium_and_45rhodium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/7nitrogen_and_69thulium_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] - alchemistry:fusion/22titanium_and_54xenon_to_76osmium[alchemistry:fusion]: [] -> ['chemlib:osmium']
+[09:09:58] [INFO ] + kubejs:shaped: ['#forge:rods', Item.of('tconstruct:small_axe_head', '{Material:"tconstruct:rock"}')] -> [Item.of('minecraft:stone_axe', '{Damage:0}')]
+[09:09:58] [INFO ] + kubejs:shaped: ['#forge:rods', Item.of('tconstruct:pick_head', '{Material:"tconstruct:rock"}')] -> [Item.of('minecraft:stone_pickaxe', '{Damage:0}')]
+[09:09:58] [INFO ] + kubejs:shaped: ['#forge:rods', Item.of('tconstruct:pick_head', '{Material:"tconstruct:wood"}')] -> [Item.of('tconstruct:pickaxe', "{Damage:0,RepairCost:0,display:{Name:'{\"text\":\"Wooden Pickaxe\"}'},tic_broken:0b,tic_materials:[\"tconstruct:nahuatl\",\"tconstruct:wood\",\"tconstruct:rock\"],tic_modifiers:[{level:1s,name:\"tconstruct:piercing\"},{level:1s,name:\"tconstruct:lacerating\"},{level:1s,name:\"tconstruct:cultivated\"},{level:1s,name:\"tconstruct:stonebound\"}],tic_persistent_data:{abilities:1,upgrades:3},tic_stats:{\"tconstruct:attack_damage\":3.0f,\"tconstruct:attack_speed\":1.2f,\"tconstruct:durability\":350.0f,\"tconstruct:harvest_tier\":\"minecraft:diamond\",\"tconstruct:mining_speed\":4.5f}}")]
+[09:09:58] [INFO ] - minecraft:crafting_table[minecraft:crafting_shaped]: ['#minecraft:planks'] -> ['minecraft:crafting_table']
+[09:09:58] [INFO ] + kubejs:shaped: [Item.of('minecraft:stone_pickaxe', '{Damage:0}'), Item.of('minecraft:stone_axe', '{Damage:0}'), '#minecraft:planks'] -> ['minecraft:crafting_table']
+[09:09:58] [INFO ] + create:milling: ['minecraft:netherrack'] -> ['create:cinder_flour']
+[09:09:58] [INFO ] + alchemistry:combiner: [] -> []
+[09:09:58] [INFO ] + kubejs:shaped: ['#quark:stone_tool_materials'] -> [Item.of('tconstruct:small_axe_head', '{Material:"tconstruct:rock"}')]
+[09:09:58] [INFO ] + kubejs:shaped: ['beyond_earth:permafrost'] -> [Item.of('tconstruct:pick_head', '{Material:"tconstruct:rock"}')]
+[09:09:58] [INFO ] + kubejs:shaped: ['#minecraft:planks'] -> [Item.of('tconstruct:pick_head', '{Material:"tconstruct:wood"}')]
+[09:09:58] [INFO ] + kubejs:shaped: ['#quark:stone_tool_materials'] -> ['minecraft:furnace']
+[09:09:58] [INFO ] - tconstruct:common/basalt_blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_basalt', 'minecraft:furnace', 'minecraft:iron_ingot'] -> ['minecraft:blast_furnace']
+[09:09:58] [INFO ] - quark:building/crafting/furnaces/blackstone_blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_stone', 'quark:blackstone_furnace', 'minecraft:iron_ingot'] -> ['minecraft:blast_furnace']
+[09:09:58] [INFO ] - minecraft:blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_stone', 'minecraft:furnace', '#forge:ingots/iron'] -> ['minecraft:blast_furnace']
+[09:09:58] [INFO ] - quark:building/crafting/furnaces/deepslate_blast_furnace[minecraft:crafting_shaped]: ['minecraft:smooth_stone', 'quark:deepslate_furnace', 'minecraft:iron_ingot'] -> ['minecraft:blast_furnace']
+[09:09:58] [INFO ] + minecraft:campfire_cooking: ['minecraft:furnace'] -> ['minecraft:blast_furnace']
+[09:09:58] [INFO ] + minecraft:campfire_cooking: ['minecraft:redstone'] -> ['create:polished_rose_quartz']
+[09:09:58] [INFO ] + minecraft:campfire_cooking: ['minecraft:packed_ice'] -> [Item.of('minecraft:wet_sponge', "{RepairCost:0,display:{Name:'{\"text\":\"CUIT LE\"}'}}")]
+[09:09:58] [INFO ] + minecraft:campfire_cooking: ['tconstruct:smeltery_controller'] -> ['computercraft:computer_normal']
+[09:09:58] [INFO ] - computercraft:computer_normal[minecraft:crafting_shaped]: ['#forge:stone', '#forge:dusts/redstone', '#forge:glass_panes'] -> ['computercraft:computer_normal']
+[09:09:58] [INFO ] - computercraft:computer_advanced_upgrade[computercraft:computer_upgrade]: [] -> ['computercraft:computer_advanced']
+[09:09:59] [INFO ] - computercraft:computer_advanced[minecraft:crafting_shaped]: ['#forge:ingots/gold', '#forge:dusts/redstone', '#forge:glass_panes'] -> ['computercraft:computer_advanced']
+[09:09:59] [INFO ] - rftoolsbase:machine_frame[minecraft:crafting_shaped]: ['minecraft:gold_nugget', 'minecraft:iron_ingot', '#forge:dyes/blue'] -> ['rftoolsbase:machine_frame']
+[09:09:59] [INFO ] - alchemistry:reactor_casing[minecraft:crafting_shaped]: ['chemlib:osmium_ingot', 'chemlib:platinum_ingot', 'minecraft:blaze_powder'] -> ['4x alchemistry:reactor_casing']
+[09:09:59] [INFO ] + create:pressing: ['timeextraminer:bedrock_dust'] -> ['timeextraminer:bedrock_ingot']
+[09:09:59] [INFO ] + create:crushing: ['minecraft:bedrock'] -> ['timeextraminer:bedrock_dust']
+[09:09:59] [INFO ] + create:pressing: ['minecraft:leather'] -> ['create:belt_connector']
+[09:09:59] [INFO ] + alchemistry:atomizer: [] -> []
+[09:09:59] [INFO ] + alchemistry:liquifier: [] -> []
+[09:09:59] [INFO ] + create:emptying: ['timeextraminer:helium_3fluid_bucket'] -> ['minecraft:bucket']
+[09:09:59] [INFO ] + create:mechanical_crafting: ['timeextraminer:time_cubes', 'electrodynamics:creativepowersource', 'botania:livingrock', 'botania:mana_pool'] -> ['botania:creative_pool']
+[09:09:59] [INFO ] + alchemistry:fission: [] -> []
+[09:09:59] [INFO ] + alchemistry:fission: [] -> []
+[09:09:59] [INFO ] + alchemistry:fission: [] -> []
+[09:09:59] [INFO ] + alchemistry:fission: [] -> []
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] + create:sequenced_assembly: ['#forge:plates/steel'] -> [Item.of('electrodynamics:circuitadvanced').withChance(1.0)]
+[09:09:59] [INFO ] + electrodynamics:wire_mill_recipe: [] -> []
+[09:09:59] [INFO ] + electrodynamics:mineral_grinder_recipe: [] -> []
+[09:09:59] [INFO ] + electrodynamics:wire_mill_recipe: [] -> []
+[09:09:59] [INFO ] + create:filling: ['tconstruct:blood_slime_ball'] -> ['minecraft:magma_cream']
+[09:09:59] [INFO ] + create:filling: ['pipez:ultimate_upgrade'] -> ['pipez:infinity_upgrade']
+[09:09:59] [INFO ] + lychee:item_inside: [] -> []
+[09:09:59] [INFO ] + create:mixing: ['chemlib:aluminum_oxide', 'chemlib:potassium_chloride', 'chemlib:silicon_dioxide', 'chemlib:magnesium_oxide'] -> ['timeextraminer:mixing_silicon']
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] - alchemistry:fusion/55cesium_and_63europium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/49indium_and_69thulium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/11sodium_and_107bohrium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/33arsenic_and_85astatine_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/53iodine_and_65terbium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/58cerium_and_60neodymium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/21scandium_and_97berkelium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/41niobium_and_77iridium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/42molybdenum_and_76osmium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/39yttrium_and_79gold_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/24chromium_and_94plutonium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/40zirconium_and_78platinum_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/17chlorine_and_101mendelevium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/50tin_and_68erbium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/12magnesium_and_106seaborgium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/32germanium_and_86radon_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/15phosphorus_and_103lawrencium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/7nitrogen_and_111roentgenium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/44ruthenium_and_74tungsten_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/23vanadium_and_95americium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/4beryllium_and_114flerovium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/13aluminum_and_105dubnium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/6carbon_and_112copernicium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/8oxygen_and_110darmstadtium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/48cadmium_and_70ytterbium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/1hydrogen_and_117tennessine_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/26iron_and_92uranium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/20calcium_and_98californium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/52tellurium_and_66dysprosium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/28nickel_and_90thorium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/46palladium_and_72hafnium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/54xenon_and_64gadolinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/59praseodymium_and_59praseodymium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/38strontium_and_80mercury_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/31gallium_and_87francium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/51antimony_and_67holmium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/29copper_and_89actinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/56barium_and_62samarium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/10neon_and_108hassium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/57lanthanum_and_61promethium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/37rubidium_and_81thallium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/45rhodium_and_73tantalum_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/5boron_and_113nihonium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/47silver_and_71lutetium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/3lithium_and_115moscovium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/14silicon_and_104rutherfordium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/2helium_and_116livermorium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/22titanium_and_96curium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/19potassium_and_99einsteinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/34selenium_and_84polonium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/43technetium_and_75rhenium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/30zinc_and_88radium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/18argon_and_100fermium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/35bromine_and_83bismuth_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/27cobalt_and_91protactinium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/16sulfur_and_102nobelium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/36krypton_and_82lead_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/9fluorine_and_109meitnerium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] - alchemistry:fusion/25manganese_and_93neptunium_to_118oganesson[alchemistry:fusion]: [] -> ['chemlib:oganesson']
+[09:09:59] [INFO ] + alchemistry:fusion: [] -> []
+[09:09:59] [INFO ] - beyond_earth:nasa_workbench[minecraft:crafting_shaped]: ['#beyond_earth:compresseds/steel', 'minecraft:crafting_table', '#beyond_earth:compresseds/steel', 'minecraft:lever', '#forge:ingots/steel', 'minecraft:lever', '#beyond_earth:compresseds/steel', 'minecraft:redstone_torch', '#beyond_earth:compresseds/steel'] -> ['beyond_earth:nasa_workbench']
+[09:09:59] [INFO ] + create:sequenced_assembly: ['#forge:workbenches'] -> [Item.of('beyond_earth:nasa_workbench').withChance(1.0)]
+[09:09:59] [INFO ] + create:pressing: ['nuclearscience:cellantimattersmall'] -> ['timeextraminer:anti_hydrogen']
+[09:09:59] [INFO ] + alchemistry:fission: [] -> []
+[09:09:59] [INFO ] + nuclearscience:chemical_extractor_recipe: [] -> []
+[09:09:59] [INFO ] + kubejs:shaped: ['minecraft:cauldron', 'minecraft:glass_bottle', 'minecraft:redstone', 'minecraft:cobblestone'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:oxygen_extractor"}')]
+[09:09:59] [INFO ] + tconstruct:alloy: [] -> []
+[09:09:59] [INFO ] + create:mixing: ['electrodynamics:ingotlead', 'electrodynamics:ingotlead', 'electrodynamics:ingottin', 'electrodynamics:ingottin', 'electrodynamics:ingottin', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot', 'chemlib:bismuth_ingot'] -> ['10x timeextraminer:newtons_ingot']
+[09:09:59] [INFO ] + kubejs:shaped: ['electrodynamics:ingotlead', 'ironchest:copper_chest'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}')]
+[09:09:59] [INFO ] + kubejs:shaped: ['timeextraminer:newtons_ingot', Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:nuclear_chest"}'), 'minecraft:clock'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}')]
+[09:09:59] [INFO ] + kubejs:shaped: ['timeextraminer:time_cubes', Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:advanced_nuclear_chest"}'), 'minecraft:clock'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:reversed_nuclear_chest"}')]
+[09:09:59] [INFO ] + botania:mana_infusion: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['minecraft:egg', 'minecraft:emerald_block', 'timeextraminer:times_block'] -> ['minecraft:wandering_trader_spawn_egg']
+[09:09:59] [INFO ] + create:milling: ['electrodynamics:ingotlead'] -> ['electrodynamics:raworelead']
+[09:09:59] [INFO ] + create:milling: ['chemlib:sucrose', 'chemlib:sucrose', 'chemlib:sucrose', 'chemlib:triglyceride'] -> ['minecraft:honeycomb']
+[09:09:59] [INFO ] + create:milling: ['chemlib:graphite', 'chemlib:graphite'] -> ['minecraft:coal']
+[09:09:59] [INFO ] - extendedcrafting:frame[minecraft:crafting_shaped]: ['extendedcrafting:black_iron_ingot', '#forge:glass/colorless', 'extendedcrafting:black_iron_slate'] -> ['extendedcrafting:frame']
+[09:09:59] [INFO ] + compactcrafting:miniaturization: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['chemlib:platinum_ingot', 'minecraft:gold_ingot', 'chemlib:thallium_ingot', 'electrodynamics:ingotlead', 'chemlib:bismuth_ingot', 'chemlib:polonium_ingot', 'chemlib:francium_ingot', 'chemlib:radium_ingot', 'chemlib:actinium_ingot', 'chemlib:thorium_ingot', 'electrodynamics:ingotlithium', 'chemlib:beryllium_ingot', 'chemlib:sodium_ingot', 'chemlib:magnesium_ingot', 'electrodynamics:ingotaluminum', 'chemlib:potassium_ingot', 'chemlib:calcium_ingot', 'chemlib:scandium_ingot', 'electrodynamics:ingottitanium', 'electrodynamics:ingotvanadium', 'electrodynamics:ingotchromium', 'chemlib:manganese_ingot', 'minecraft:iron_ingot', 'tconstruct:cobalt_ingot', 'chemlib:nickel_ingot', 'minecraft:copper_ingot', 'create:zinc_ingot', 'chemlib:gallium_ingot', 'chemlib:rubidium_ingot', 'chemlib:strontium_ingot', 'chemlib:yttrium_ingot', 'chemlib:zirconium_ingot', 'chemlib:niobium_ingot', 'electrodynamics:ingotmolybdenum', 'chemlib:ruthenium_ingot', 'chemlib:rhodium_ingot', 'chemlib:palladium_ingot', 'electrodynamics:ingotsilver', 'chemlib:cadmium_ingot', 'chemlib:indium_ingot', 'electrodynamics:ingottin', 'chemlib:cesium_ingot', 'chemlib:barium_ingot', 'chemlib:lanthanum_ingot', 'chemlib:cerium_ingot', 'chemlib:praseodymium_ingot', 'chemlib:neodymium_ingot', 'chemlib:samarium_ingot', 'chemlib:europium_ingot', 'chemlib:gadolinium_ingot', 'chemlib:terbium_ingot', 'chemlib:dysprosium_ingot', 'chemlib:holmium_ingot', 'chemlib:erbium_ingot', 'chemlib:thulium_ingot', 'chemlib:ytterbium_ingot', 'chemlib:lutetium_ingot', 'chemlib:hafnium_ingot', 'chemlib:tantalum_ingot', 'chemlib:tungsten_ingot', 'chemlib:rhenium_ingot', 'chemlib:osmium_ingot', 'chemlib:iridium_ingot', 'chemlib:protactinium_ingot', 'chemlib:uranium_ingot'] -> ['timeextraminer:alchemical_ingot']
+[09:09:59] [INFO ] + kubejs:shaped: ['minecraft:stick', 'minecraft:bedrock', 'storagedrawers:emerald_storage_upgrade'] -> ['storagedrawers:creative_storage_upgrade']
+[09:09:59] [INFO ] - extendedcrafting:the_ultimate_block[minecraft:crafting_shaped]: ['extendedcrafting:the_ultimate_ingot'] -> ['extendedcrafting:the_ultimate_block']
+[09:09:59] [INFO ] - extendedcrafting:the_ultimate_block_uncraft[minecraft:crafting_shapeless]: ['extendedcrafting:the_ultimate_block'] -> ['9x extendedcrafting:the_ultimate_ingot']
+[09:09:59] [INFO ] - extendedcrafting:black_iron_ingot[minecraft:crafting_shapeless]: ['#forge:ingots/iron', '#forge:dyes/black'] -> ['extendedcrafting:black_iron_ingot']
+[09:09:59] [INFO ] + mythicbotany:infusion: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:shaped_ender_crafter: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['minecraft:iron_ingot', 'minecraft:copper_ingot', 'minecraft:gold_ingot', 'minecraft:netherite_ingot', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:redstone_ingot', 'extendedcrafting:ender_ingot', 'create:brass_ingot', 'timeextraminer:bedrock_ingot', 'electrodynamics:ingottin', 'electrodynamics:ingotsilver', 'electrodynamics:ingotsteel', 'electrodynamics:ingotlead', 'electrodynamics:ingotsuperconductive', 'electrodynamics:ingotlithium', 'electrodynamics:ingotaluminum', 'electrodynamics:ingotchromium', 'electrodynamics:ingotstainlesssteel', 'electrodynamics:ingotvanadiumsteel', 'electrodynamics:ingothslasteel', 'electrodynamics:ingottitanium', 'chemlib:magnesium_ingot', 'beyond_earth:desh_ingot', 'beyond_earth:ostrum_ingot', 'extendedcrafting:ultimate_singularity', 'mythicbotany:alfsteel_ingot', 'tconstruct:cobalt_ingot', 'tconstruct:slimesteel_ingot', 'tconstruct:pig_iron_ingot', 'tconstruct:queens_slime_ingot', 'tconstruct:manyullyn_ingot', 'tconstruct:hepatizon_ingot', 'botania:manasteel_ingot', 'botania:terrasteel_ingot', 'botania:elementium_ingot', 'timeextraminer:newtons_ingot', 'byg:pendorite_ingot', 'timeextraminer:alchemical_ingot', 'electrodynamics:ingotvanadium', 'electrodynamics:ingottitaniumcarbide', 'tconstruct:rose_gold_ingot', 'beyond_earth:calorite_ingot', 'extendedcrafting:enhanced_ender_ingot', 'electrodynamics:ingotbronze', 'electrodynamics:ingotmolybdenum', 'tconstruct:amethyst_bronze_ingot', 'botania:gaia_ingot', 'chemlib:tungsten_ingot', 'extendedcrafting:crystaltine_ingot'] -> ['extendedcrafting:the_ultimate_ingot']
+[09:09:59] [INFO ] - extendedcrafting:elite_table[minecraft:crafting_shaped]: ['#forge:storage_blocks/diamond', 'extendedcrafting:advanced_table', 'extendedcrafting:elite_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:elite_catalyst'] -> ['extendedcrafting:elite_table']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'extendedcrafting:luminessence', 'extendedcrafting:elite_catalyst', 'minecraft:diamond', 'extendedcrafting:advanced_table', 'minecraft:diamond_block'] -> ['extendedcrafting:elite_table']
+[09:09:59] [INFO ] - extendedcrafting:ultimate_table[minecraft:crafting_shaped]: ['#forge:storage_blocks/emerald', 'extendedcrafting:elite_table', 'extendedcrafting:ultimate_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:ultimate_catalyst'] -> ['extendedcrafting:ultimate_table']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'extendedcrafting:luminessence', 'extendedcrafting:ultimate_component', 'minecraft:emerald', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:elite_component', 'extendedcrafting:elite_catalyst', 'extendedcrafting:advanced_table', 'minecraft:diamond_block', 'minecraft:emerald_block'] -> ['extendedcrafting:ultimate_table']
+[09:09:59] [INFO ] - compactcrafting:field_projector[minecraft:crafting_shapeless]: ['compactcrafting:base', 'compactcrafting:projector_dish'] -> ['compactcrafting:field_projector']
+[09:09:59] [INFO ] - compactcrafting:projector_dish[minecraft:crafting_shaped]: ['minecraft:ender_eye', '#forge:glass_panes', '#forge:ingots/iron'] -> ['4x compactcrafting:projector_dish']
+[09:09:59] [INFO ] - compactcrafting:base[minecraft:crafting_shaped]: ['minecraft:stone_slab', 'minecraft:redstone_torch', 'minecraft:diamond', 'minecraft:heavy_weighted_pressure_plate'] -> ['4x compactcrafting:base']
+[09:09:59] [INFO ] - compactcrafting:rescan_proxy[minecraft:crafting_shapeless]: ['compactcrafting:base', 'minecraft:crafting_table'] -> ['compactcrafting:rescan_proxy']
+[09:09:59] [INFO ] - compactcrafting:match_proxy[minecraft:crafting_shapeless]: ['compactcrafting:base', 'minecraft:redstone'] -> ['compactcrafting:match_proxy']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['minecraft:redstone_torch', 'minecraft:diamond', 'minecraft:stone_slab', 'minecraft:heavy_weighted_pressure_plate'] -> ['4x compactcrafting:base']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['#forge:glass_panes', 'minecraft:iron_ingot', 'minecraft:ender_eye'] -> ['4x compactcrafting:projector_dish']
+[09:09:59] [INFO ] + extendedcrafting:shapeless_table: ['compactcrafting:base', 'minecraft:redstone'] -> ['compactcrafting:match_proxy']
+[09:09:59] [INFO ] + extendedcrafting:shapeless_table: ['compactcrafting:base', 'minecraft:crafting_table'] -> ['compactcrafting:rescan_proxy']
+[09:09:59] [INFO ] + extendedcrafting:shapeless_table: ['compactcrafting:projector_dish', 'compactcrafting:base'] -> ['compactcrafting:field_projector']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['electrodynamics:wirehighlyinsulatedcopper', 'extendedcrafting:redstone_ingot', 'electrodynamics:dustobsidian', 'electrodynamics:platesteel', 'electrodynamics:circuitbasic', 'electrodynamics:circuitelite', 'electrodynamics:circuitultimate', 'computercraft:computer_normal', 'electrodynamics:wiregold', 'create:framed_glass', 'computercraft:monitor_advanced'] -> ['computercraft:computer_advanced']
+[09:09:59] [INFO ] + botanypots:crop: ['timeextraminer:temporal_seeds'] -> [Item.of('timeextraminer:raw_time_cristal').withChance(1.0), Item.of('timeextraminer:temporal_seeds').withChance(1.0)]
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['quark:iron_plate', 'beyond_earth:iron_plating_block', 'extendedcrafting:black_iron_slate', 'extendedcrafting:black_iron_block', 'beyond_earth:iron_plate', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:frame', 'electrodynamics:circuitultimate', 'computercraft:computer_advanced'] -> ['rftoolsbase:machine_frame']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['storagedrawers:creative_storage_upgrade', 'extendedcrafting:the_ultimate_ingot', 'electrodynamics:creativefluidsource', 'electrodynamics:creativepowersource', 'extendedcrafting:ultimate_singularity', 'extendedcrafting:ender_star', 'storagedrawers:controller'] -> ['storagedrawers:creative_vending_upgrade']
+[09:09:59] [INFO ] - extendedcrafting:advanced_table[minecraft:crafting_shaped]: ['#forge:storage_blocks/gold', 'extendedcrafting:basic_table', 'extendedcrafting:advanced_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:advanced_catalyst'] -> ['extendedcrafting:advanced_table']
+[09:09:59] [INFO ] + compactcrafting:miniaturization: [] -> []
+[09:09:59] [INFO ] + minecraft:smithing: ['electrodynamics:creativepowersource', 'createaddition:electric_motor'] -> ['create:creative_motor']
+[09:09:59] [INFO ] + minecraft:smithing: ['create:creative_motor', 'createaddition:alternator'] -> ['createaddition:creative_energy']
+[09:09:59] [INFO ] + compactcrafting:miniaturization: [] -> []
+[09:09:59] [INFO ] + kubejs:shapeless: ['extendedcrafting:ultimate_singularity', 'timeextraminer:alchemical_ingot'] -> ['2x timeextraminer:alchemical_ingot']
+[09:09:59] [INFO ] + extendedcrafting:compressor: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:compressor: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:compressor: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:compressor: [] -> []
+[09:09:59] [INFO ] - extendedcrafting:compressor[minecraft:crafting_shaped]: ['extendedcrafting:frame', 'extendedcrafting:elite_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:elite_catalyst'] -> ['extendedcrafting:compressor']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['extendedcrafting:crystaltine_ingot', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:crystaltine_component', 'extendedcrafting:black_iron_slate', 'extendedcrafting:luminessence', Item.of('nuclearscience:celldarkmatter', '{Damage:0}'), 'electrodynamics:circuitultimate', 'nuclearscience:fusionreactorcore', 'nuclearscience:quantumcapacitor'] -> ['16x extendedcrafting:compressor']
+[09:09:59] [INFO ] + kubejs:shaped: ['botania:gaia_ingot', 'botania:life_essence', 'minecraft:beacon', 'minecraft:iron_block'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:gaia_farmer"}')]
+[09:09:59] [INFO ] + kubejs:shaped: ['minecraft:cobblestone', 'electrodynamics:railgunplasma', 'minecraft:redstone'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"setamvtroismm:plasma_gen"}')]
+[09:09:59] [INFO ] + kubejs:shaped: ['byg:pendorite_scraps', 'minecraft:emerald', 'minecraft:diamond'] -> ['byg:pendorite_ingot']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['electrodynamics:fluidvoid', 'electrodynamics:upgradeitemvoid', 'nuclearscience:cellantimattersmall', Item.of('nuclearscience:celldarkmatter', '{Damage:0}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:hydrogen"}'), 'extendedcrafting:luminessence', 'extendedcrafting:ultimate_singularity'] -> [Item.of('rftoolsdim:realized_dimension_tab', "{descriptor:'[{\"t\":\"b\",\"n\":\"extendedcrafting:the_ultimate_block\"},{\"t\":\"sk\",\"n\":\"default\"},{\"t\":\"ti\",\"n\":\"normal\"},{\"t\":\"t\",\"n\":\"chaotic\"}]',dimension:\"rftoolsdim:quantumania\",name:\"quantumania\",rfCreateCost:65,rfMaintainCost:63,tickCost:135,ticksLeft:0}")]
+[09:09:59] [INFO ] + botania:elven_trade: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:shaped_ender_crafter: [] -> []
+[09:09:59] [INFO ] + kubejs:shapeless: ['extendedcrafting:advanced_component'] -> ['timeextraminer:advanced_components']
+[09:09:59] [INFO ] + kubejs:shapeless: ['extendedcrafting:advanced_catalyst'] -> ['timeextraminer:advancedcatalyst']
+[09:09:59] [INFO ] + kubejs:shapeless: ['byg:pendorite_block'] -> ['9x byg:pendorite_ingot']
+[09:09:59] [INFO ] + kubejs:shapeless: ['extendedcrafting:black_iron_ingot', Item.of('timeextraminer:black_iron_hammer', '{Damage:0}').ignoreNBT()] -> ['timeextraminer:broken_black_iron']
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'electrodynamics:creativepowersource', 'extendedcrafting:the_ultimate_ingot', 'pipez:infinity_upgrade', 'electrodynamics:creativefluidsource', 'extendedcrafting:ultimate_singularity', 'storagedrawers:creative_storage_upgrade', 'timeextraminer:furingots', 'timeextraminer:alphmium_ingot', 'storagedrawers:creative_vending_upgrade', 'timeextraminer:doukingots', 'timeextraminer:benjingots', 'create:creative_motor', 'createaddition:creative_energy', 'extendedcrafting:the_ultimate_block'] -> ['timeextraminer:universal_core']
+[09:09:59] [INFO ] + extendedcrafting:compressor: [] -> []
+[09:09:59] [INFO ] + create:item_application: ['minecraft:stone', 'timeextraminer:alchemical_ingot'] -> ['timeextraminer:alchemical_ore']
+[09:09:59] [INFO ] + kubejs:shaped: ['extendedcrafting:the_ultimate_block', 'rftoolsbase:machine_frame'] -> ['timeextraminer:ultimate_machine_frame']
+[09:09:59] [INFO ] + lychee:block_interacting: [] -> []
+[09:09:59] [INFO ] + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_slate', 'minecraft:stick'] -> [Item.of('timeextraminer:black_iron_hammer', '{Damage:0}')]
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:melting: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] + tconstruct:casting_table: [] -> []
+[09:09:59] [INFO ] - tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'tconstruct:copper_nugget'] -> ['minecraft:copper_ingot']
+[09:09:59] [INFO ] - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x tconstruct:copper_nugget']
+[09:09:59] [INFO ] - create:crafting/materials/copper_nugget[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x create:copper_nugget']
+[09:09:59] [INFO ] - beyond_earth:steel_block[minecraft:crafting_shaped]: ['beyond_earth:steel_ingot', '#forge:ingots/steel'] -> ['beyond_earth:steel_block']
+[09:09:59] [INFO ] - beyond_earth:steel_ingot[minecraft:crafting_shaped]: ['beyond_earth:steel_block'] -> ['9x beyond_earth:steel_ingot']
+[09:09:59] [INFO ] - beyond_earth:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['beyond_earth:steel_nugget', '#forge:nuggets/steel'] -> ['beyond_earth:steel_ingot']
+[09:09:59] [INFO ] - beyond_earth:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['beyond_earth:steel_ingot'] -> ['9x beyond_earth:steel_nugget']
+[09:09:59] [INFO ] - beyond_earth:steel_ingot_blasting[minecraft:blasting]: ['minecraft:iron_ingot'] -> ['beyond_earth:steel_ingot']
+[09:09:59] [INFO ] - beyond_earth_giselle_addon:blasting/steel_ingot_from_compresseds[minecraft:blasting]: ['#beyond_earth:compresseds/steel'] -> ['beyond_earth:steel_ingot']
+[09:09:59] [INFO ] - beyond_earth_giselle_addon:smelting/steel_ingot_from_compresseds[minecraft:smelting]: ['#beyond_earth:compresseds/steel'] -> ['beyond_earth:steel_ingot']
+[09:09:59] [INFO ] - car:iron_stick[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['car:iron_stick']
+[09:09:59] [INFO ] - alchemistry:copper_ingot_from_blasting_copper_dust[minecraft:blasting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
+[09:09:59] [INFO ] - alchemistry:copper_ingot_from_smelting_copper_dust[minecraft:smelting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
+[09:09:59] [INFO ] - alchemistry:iron_ingot_from_smelting_iron_dust[minecraft:smelting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
+[09:09:59] [INFO ] - alchemistry:iron_ingot_from_blasting_iron_dust[minecraft:blasting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
+[09:09:59] [INFO ] - alchemistry:gold_ingot_from_smelting_gold_dust[minecraft:smelting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
+[09:09:59] [INFO ] - alchemistry:gold_ingot_from_blasting_gold_dust[minecraft:blasting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
+[09:09:59] [INFO ] - chemlib:tin_ingot_from_blasting_tin_dust[minecraft:blasting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
+[09:09:59] [INFO ] - chemlib:tin_ingot_from_smelting_tin_dust[minecraft:smelting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
+[09:09:59] [INFO ] - chemlib:lead_ingot_from_blasting_lead_dust[minecraft:blasting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
+[09:09:59] [INFO ] - chemlib:lead_ingot_from_smelting_lead_dust[minecraft:smelting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
+[09:09:59] [INFO ] - chemlib:silver_ingot_from_smelting_silver_dust[minecraft:smelting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
+[09:09:59] [INFO ] - chemlib:silver_ingot_from_blasting_silver_dust[minecraft:blasting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
+[09:09:59] [INFO ] - chemlib:aluminum_ingot_from_smelting_aluminum_dust[minecraft:smelting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
+[09:09:59] [INFO ] - chemlib:aluminum_ingot_from_blasting_aluminum_dust[minecraft:blasting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
+[09:09:59] [INFO ] - chemlib:nickel_ingot_from_smelting_nickel_dust[minecraft:smelting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
+[09:09:59] [INFO ] - chemlib:nickel_ingot_from_blasting_nickel_dust[minecraft:blasting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
+[09:09:59] [INFO ] - chemlib:molybdenum_ingot_from_smelting_molybdenum_dust[minecraft:smelting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
+[09:09:59] [INFO ] - chemlib:molybdenum_ingot_from_blasting_molybdenum_dust[minecraft:blasting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
+[09:09:59] [INFO ] - chemlib:lithium_ingot_from_smelting_lithium_dust[minecraft:smelting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
+[09:09:59] [INFO ] - chemlib:lithium_ingot_from_blasting_lithium_dust[minecraft:blasting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
+[09:09:59] [INFO ] - chemlib:vanadium_ingot_from_smelting_vanadium_dust[minecraft:smelting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
+[09:09:59] [INFO ] - chemlib:vanadium_ingot_from_blasting_vanadium_dust[minecraft:blasting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
+[09:09:59] [INFO ] - chemlib:thorium_ingot_from_smelting_thorium_dust[minecraft:smelting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
+[09:09:59] [INFO ] - chemlib:thorium_ingot_from_blasting_thorium_dust[minecraft:blasting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
+[09:09:59] [INFO ] - chemlib:tin_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:tin_ingot'] -> ['9x chemlib:tin_nugget']
+[09:09:59] [INFO ] - chemlib:tin_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:tin_nugget'] -> ['chemlib:tin_ingot']
+[09:09:59] [INFO ] - chemlib:tin_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:tin_metal_block'] -> ['9x chemlib:tin_ingot']
+[09:09:59] [INFO ] - chemlib:tin_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:tin_ingot'] -> ['chemlib:tin_metal_block']
+[09:09:59] [INFO ] - chemlib:lead_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:lead_ingot'] -> ['chemlib:lead_metal_block']
+[09:09:59] [INFO ] - chemlib:lead_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:lead_metal_block'] -> ['9x chemlib:lead_ingot']
+[09:09:59] [INFO ] - chemlib:lead_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:lead_ingot'] -> ['9x chemlib:lead_nugget']
+[09:09:59] [INFO ] - chemlib:lead_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:lead_nugget'] -> ['chemlib:lead_ingot']
+[09:09:59] [INFO ] - chemlib:silver_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:silver_ingot'] -> ['chemlib:silver_metal_block']
+[09:09:59] [INFO ] - chemlib:silver_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:silver_metal_block'] -> ['9x chemlib:silver_ingot']
+[09:09:59] [INFO ] - chemlib:silver_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:silver_nugget'] -> ['chemlib:silver_ingot']
+[09:09:59] [INFO ] - chemlib:silver_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:silver_ingot'] -> ['9x chemlib:silver_nugget']
+[09:09:59] [INFO ] - chemlib:aluminum_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:aluminum_ingot'] -> ['9x chemlib:aluminum_nugget']
+[09:09:59] [INFO ] - chemlib:aluminum_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:aluminum_nugget'] -> ['chemlib:aluminum_ingot']
+[09:09:59] [INFO ] - chemlib:aluminum_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:aluminum_ingot'] -> ['chemlib:aluminum_metal_block']
+[09:09:59] [INFO ] - chemlib:aluminum_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:aluminum_metal_block'] -> ['9x chemlib:aluminum_ingot']
+[09:09:59] [INFO ] - chemlib:nickel_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:nickel_ingot'] -> ['9x chemlib:nickel_nugget']
+[09:09:59] [INFO ] - chemlib:nickel_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:nickel_nugget'] -> ['chemlib:nickel_ingot']
+[09:09:59] [INFO ] - chemlib:nickel_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:nickel_ingot'] -> ['chemlib:nickel_metal_block']
+[09:09:59] [INFO ] - chemlib:nickel_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:nickel_metal_block'] -> ['9x chemlib:nickel_ingot']
+[09:09:59] [INFO ] - chemlib:zinc_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:zinc_nugget'] -> ['chemlib:zinc_ingot']
+[09:09:59] [INFO ] - chemlib:zinc_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:zinc_ingot'] -> ['9x chemlib:zinc_nugget']
+[09:09:59] [INFO ] - chemlib:zinc_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:zinc_ingot'] -> ['chemlib:zinc_metal_block']
+[09:09:59] [INFO ] - chemlib:zinc_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:zinc_metal_block'] -> ['9x chemlib:zinc_ingot']
+[09:09:59] [INFO ] - chemlib:cobalt_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:cobalt_ingot'] -> ['9x chemlib:cobalt_nugget']
+[09:09:59] [INFO ] - chemlib:cobalt_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:cobalt_nugget'] -> ['chemlib:cobalt_ingot']
+[09:09:59] [INFO ] - chemlib:cobalt_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:cobalt_ingot'] -> ['chemlib:cobalt_metal_block']
+[09:09:59] [INFO ] - chemlib:cobalt_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:cobalt_metal_block'] -> ['9x chemlib:cobalt_ingot']
+[09:09:59] [INFO ] - chemlib:titanium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:titanium_ingot'] -> ['chemlib:titanium_metal_block']
+[09:09:59] [INFO ] - chemlib:titanium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:titanium_metal_block'] -> ['9x chemlib:titanium_ingot']
+[09:09:59] [INFO ] - chemlib:chromium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:chromium_ingot'] -> ['chemlib:chromium_metal_block']
+[09:09:59] [INFO ] - chemlib:chromium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:chromium_metal_block'] -> ['9x chemlib:chromium_ingot']
+[09:09:59] [INFO ] Posted recipe events in 345.8 ms
+[09:09:59] [INFO ] Modified & removed recipes in 144.2 ms
+[09:09:59] [INFO ] Added recipes in 36.19 ms
+[09:09:59] [INFO ] Added 188 recipes, removed 188 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

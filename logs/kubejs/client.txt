@@ -1,3 +1,3 @@
-[14:23:04] [INFO ] Hello, World! (You will see this line every time client resources reload)
-[14:23:04] [INFO ] Loaded script client_scripts:script.js in 0.009 s
-[14:23:04] [INFO ] Loaded 1/1 KubeJS client scripts in 0.019 s
+[09:01:58] [INFO ] Hello, World! (You will see this line every time client resources reload)
+[09:01:58] [INFO ] Loaded script client_scripts:script.js in 0.01 s
+[09:01:58] [INFO ] Loaded 1/1 KubeJS client scripts in 0.018 s

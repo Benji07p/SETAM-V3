@@ -400,6 +400,7 @@
 #F13051 byg:imparius_phylium
 #2D7E4E byg:imparius_stem
 #D5D61F beyond_earth:infernal_spire_block
+#D47B15 ae2:inscriber
 #2E2249 minecraft:iron_block
 #EAC0B1 ironchest:iron_chest
 #9B60B8 minecraft:iron_door
@@ -526,6 +527,7 @@
 #54BA16 byg:nightshade_leaves
 #B7582A byg:nightshade_log
 #D893BC byg:nightshade_phylium
+#1D338C ballistix:nuclear
 #347C45 nuclearscience:nuclearboiler
 #6B5D25 quark:oak_chest
 #308B47 minecraft:oak_door
@@ -541,6 +543,7 @@
 #374FD3 minecraft:oak_slab
 #72BC63 minecraft:oak_stairs
 #855CF4 minecraft:oak_trapdoor
+#1A2F87 quark:oak_vertical_slab
 #46FB1F minecraft:oak_wall_sign
 #188EC9 minecraft:observer
 #4A5E4E minecraft:obsidian

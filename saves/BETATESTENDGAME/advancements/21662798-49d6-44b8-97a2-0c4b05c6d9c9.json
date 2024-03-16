@@ -177,6 +177,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "gem": "2024-03-11 20:08:01 +0100",
       "ingot": "2024-03-02 17:21:19 +0100"
     },
     "done": false

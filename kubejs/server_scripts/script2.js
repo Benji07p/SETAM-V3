@@ -445,7 +445,7 @@ onEvent('recipes', event => {
             },
             "result": {
               "item": "quark:diamond_heart",
-              "count": 1
+              "count": 4
             }
           }
     )

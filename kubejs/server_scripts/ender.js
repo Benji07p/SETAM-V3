@@ -60,7 +60,7 @@ onEvent('recipes', event => {
 	)}
 
     enderCrafter("minecraft:nether_star" ,"minecraft:ender_eye" ,"extendedcrafting:ender_star" ,1)
-    enderCrafter("extendedcrafting:ender_star" ,"minecraft:diamond_block" ,"quark:diamond_heart" ,1)
+    enderCrafter("extendedcrafting:ender_star" ,"minecraft:diamond_block" ,"quark:diamond_heart" ,4)
     enderCrafter("extendedcrafting:ender_star" ,"extendedcrafting:ender_ingot" ,"extendedcrafting:enhanced_ender_ingot" ,4)
 
 })

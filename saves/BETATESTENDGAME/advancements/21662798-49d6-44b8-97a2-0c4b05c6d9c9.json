@@ -121,6 +121,12 @@
     },
     "done": true
   },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2024-03-20 15:46:46 +0100"
+    },
+    "done": true
+  },
   "ae2:main/quartz_crystal": {
     "criteria": {
       "certus": "2024-03-02 16:02:33 +0100"

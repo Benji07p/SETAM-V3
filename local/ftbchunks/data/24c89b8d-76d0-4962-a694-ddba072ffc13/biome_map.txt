@@ -1,5 +1,6 @@
 #368 byg:allium_fields
 #6EA byg:amaranth_fields
+#040 byg:araucaria_savanna
 #6C5 byg:aspen_forest
 #3AD byg:autumnal_valley
 #556 minecraft:beach

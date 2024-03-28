@@ -139,6 +139,12 @@
     },
     "done": true
   },
+  "electrodynamics:wiring": {
+    "criteria": {
+      "HasCopperWire": "2024-03-27 17:19:50 +0100"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "cleaver": "2024-03-02 15:57:36 +0100"

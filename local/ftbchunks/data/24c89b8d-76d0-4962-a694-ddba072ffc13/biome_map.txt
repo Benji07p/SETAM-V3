@@ -11,8 +11,10 @@
 #3FC byg:fragment_forest
 #053 beyond_earth:glacio
 #6D9 beyond_earth:glacio_ice_spikes
+#467 biomesoplenty:highland
 #65C biomesoplenty:lavender_field
 #79A minecraft:lukewarm_ocean
+#47F biomesoplenty:mediterranean_forest
 #1DF minecraft:old_growth_birch_forest
 #6DB byg:orchard
 #5F0 biomesoplenty:pasture
@@ -20,6 +22,9 @@
 #634 byg:prairie
 #5C1 byg:red_oak_forest
 #5FF minecraft:river
+#67B minecraft:savanna
 #274 biomesoplenty:scrubland
+#2CF biomesoplenty:shrubland
 #4C3 minecraft:windswept_hills
+#579 minecraft:windswept_savanna
 #11C byg:zelkova_forest

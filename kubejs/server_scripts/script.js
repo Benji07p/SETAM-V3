@@ -210,6 +210,7 @@ onEvent('recipes', event => {
 	event.remove({ id: 'computercraft:computer_advanced' })
 	event.remove({ id: 'rftoolsbase:machine_frame' })
 	event.remove({ id: 'alchemistry:reactor_casing' })
+	event.smelting('chemlib:thorium_ingot', 'nuclearscience:thorianitedust')
 
 	// Craft Bedrock Ingot
 	event.custom(

@@ -1152,9 +1152,7 @@ onEvent('recipes', event => {
         "powerCost": 500000,
         "inputCount": 1,
         "ingredient": {
-          "type": "forge:nbt",
-          "item": "botania:odin_ring",
-          "nbt": "{soulbindUUID:\"28260962-6d28-38d1-bdb1-3c366483d501\"}"
+          "item": "minecraft:cooked_beef"
         },
         "catalyst": {
           "item": "extendedcrafting:the_ultimate_catalyst"

@@ -821,6 +821,7 @@
 #FC10E7 byg:tall_pink_allium
 #0AA947 tardim:tardim_door
 #11066D tardim:tardim_roof
+#757E1A nuclearscience:teleporter
 #32013F timeextraminer:temporal_wheat_0
 #320140 timeextraminer:temporal_wheat_1
 #320141 timeextraminer:temporal_wheat_2

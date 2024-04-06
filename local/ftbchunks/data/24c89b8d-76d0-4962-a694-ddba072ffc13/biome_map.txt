@@ -7,6 +7,7 @@
 #72F byg:cherry_blossom_forest
 #1FE byg:coconino_meadow
 #34D minecraft:deep_lukewarm_ocean
+#67F biomesoplenty:fir_clearing
 #010 minecraft:forest
 #3FC byg:fragment_forest
 #053 beyond_earth:glacio
@@ -27,4 +28,5 @@
 #2CF biomesoplenty:shrubland
 #4C3 minecraft:windswept_hills
 #579 minecraft:windswept_savanna
+#7F2 biomesoplenty:woodland
 #11C byg:zelkova_forest

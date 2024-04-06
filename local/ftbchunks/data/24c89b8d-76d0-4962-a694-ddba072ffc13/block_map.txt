@@ -70,6 +70,7 @@
 #C2610B minecraft:exposed_copper
 #850F87 minecraft:exposed_cut_copper_stairs
 #397472 compactcrafting:field_projector
+#4110A6 biomesoplenty:fir_leaves
 #FC7434 biomesoplenty:flowering_oak_leaves
 #532A38 byg:flowering_orchard_leaves
 #A56058 create:framed_glass
@@ -77,6 +78,7 @@
 #A814E7 nuclearscience:gascentrifuge
 #2F436F minecraft:glass
 #279E3E minecraft:glass_pane
+#5A75B0 minecraft:glow_lichen
 #2C1BE1 minecraft:gold_block
 #060B35 minecraft:granite
 #3F84B7 minecraft:grass_block
@@ -158,6 +160,7 @@
 #02F1DC minecraft:quartz_block
 #431C61 minecraft:quartz_stairs
 #868785 minecraft:rail
+#DD1DB0 quark:red_corundum_cluster
 #430A40 byg:red_oak_leaves
 #24BE64 minecraft:redstone_torch
 #07F8D3 byg:ripe_orchard_leaves
@@ -201,6 +204,7 @@
 #9D5016 pipez:universal_pipe
 #6DB687 create:veridium
 #88779D minecraft:vine
+#38DB82 quark:violet_corundum_cluster
 #6EC37C byg:white_cherry_leaves
 #B5D07E minecraft:white_stained_glass
 #49E28F minecraft:white_stained_glass_pane

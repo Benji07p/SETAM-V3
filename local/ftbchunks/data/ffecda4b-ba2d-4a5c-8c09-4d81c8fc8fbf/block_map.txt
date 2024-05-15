@@ -270,6 +270,7 @@
 #FF48B8 create:depot
 #5A35D5 minecraft:diamond_block
 #16D43D ironchest:diamond_chest
+#E988CA botania:diluted_pool
 #A68B91 rftoolsbase:dimensionalshard_end
 #1A5DF2 rftoolsbase:dimensionalshard_nether
 #4D2B74 rftoolsbase:dimensionalshard_overworld

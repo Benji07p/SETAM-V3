@@ -19,11 +19,13 @@ onEvent('recipes', event => {
 					"slot": "input"
 				},
                 {
-					"type": "custommachinery:item_transform",
-					"input": "rftoolsutility:syringe",
-					"input_slot": "input1",
-                    "output": "input1",
-                    "input_nbt": "{mobId:\"botania:doppleganger\"}"
+					"type": "custommachinery:item",
+					"mode": "input",
+					"item": "rftoolsutility:syringe",
+                    "nbt": "{mobId:\"botania:doppleganger\"}",
+					"amount": 1,
+					"chance": 0,
+					"slot": "input1"
                 },
                 {
 					"type": "custommachinery:item",

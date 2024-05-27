@@ -16,6 +16,7 @@
     },
     {
         "id": "input1",
+        "mode": "input",
         "type": "custommachinery:item"
     },
     {
@@ -42,12 +43,6 @@
         "type": "custommachinery:energy",
         "x": 10,
         "y": 20
-    },
-    {
-        "id": "output1",
-        "x": 37,
-        "y": 30,
-        "type": "custommachinery:slot"
     },
     {
         "id": "input",

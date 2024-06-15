@@ -236,4 +236,24 @@ onEvent('fluid.tags', event => {
 	// Hydraulic Fluid
 	event.get('forge:hydraulic_fluid').remove('electrodynamics:fluidhydraulic')
 	event.get('forge:hydraulic_fluid').add(['timeextraminer:hydraulic_fluid', 'timeextraminer:flowing_hydraulic_fluid'])
+
+	// Hydrofluoric Acid
+	event.get('forge:hydrofluoric_acid').remove('electrodynamics:fluidhydrogenfluoride')
+	event.get('forge:hydrofluoric_acid').add(['timeextraminer:hydrogen_fluoride', 'timeextraminer:flowing_hydrogen_fluoride'])
+
+	// Liquid Concrete
+	event.get('forge:concrete').remove('electrodynamics:fluidconcrete')
+	event.get('forge:concrete').add(['timeextraminer:liquid_concrete', 'timeextraminer:flowing_liquid_concrete'])
+
+	// Liquid Clay
+	event.get('forge:clay').remove('electrodynamics:fluidclay')
+	event.get('forge:clay').add(['timeextraminer:liquid_clay', 'timeextraminer:flowing_liquid_clay'])
+
+	// Polyethylene
+	event.get('forge:polyethylene').remove('electrodynamics:fluidpolyethylene')
+	event.get('forge:polyethylene').add(['timeextraminer:polyethylene', 'timeextraminer:flowing_polyethylene'])
+
+	// Ammonia
+	event.get('forge:ammonia').remove('nuclearscience:fluidammonia')
+	event.get('forge:ammonia').add(['timeextraminer:ammonia', 'timeextraminer:flowing_ammonia'])
 })

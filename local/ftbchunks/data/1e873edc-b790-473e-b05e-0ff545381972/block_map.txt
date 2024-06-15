@@ -2,6 +2,8 @@
 #6E69B5 create:asurine
 #161AE7 minecraft:bamboo
 #18D108 minecraft:basalt
+#840F59 minecraft:bedrock
+#7C938F create:belt
 #8C6FD4 byg:black_sand
 #1B2131 byg:black_sandstone
 #C9CBB9 minecraft:blackstone
@@ -13,13 +15,17 @@
 #DE242D minecraft:coal_ore
 #FE4F0A minecraft:coarse_dirt
 #6E76AF minecraft:copper_ore
+#73CA69 create:creative_motor
 #3C3897 minecraft:cut_sandstone
+#BF4480 timeextraminer:damaged_bedrock
 #B2A2E1 minecraft:dandelion
 #5E9420 minecraft:deepslate
+#5E5E58 create:deployer
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
 #F7856E byg:ebony_leaves
 #C00BD2 byg:ebony_log
+#F89DF9 beyond_earth:glacio_stone
 #5A75B0 minecraft:glow_lichen
 #060B35 minecraft:granite
 #3F84B7 minecraft:grass_block
@@ -33,6 +39,7 @@
 #9812BA quark:limestone
 #DE9468 minecraft:magma_block
 #0B908B byg:mahogany_leaves
+#145137 create:mechanical_press
 #80CAA6 minecraft:melon
 #454322 minecraft:netherrack
 #AD9EB5 minecraft:oak_leaves
@@ -46,6 +53,7 @@
 #FEAF9D byg:overgrown_stone
 #B75237 minecraft:packed_ice
 #47E559 byg:palm_leaves
+#A9DF19 beyond_earth:permafrost
 #5CDCB7 minecraft:polished_basalt
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
@@ -54,8 +62,10 @@
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
 #705189 minecraft:sea_lantern
+#D3CCFE create:shaft
 #3768ED beyond_earth:sky_stone
 #872D76 minecraft:snow
+#12E6C4 minecraft:snow_block
 #74E2CA byg:soapstone
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
@@ -65,5 +75,6 @@
 #87BAF4 minecraft:tuff
 #88779D minecraft:vine
 #C7A814 byg:weeping_milkcap_mushroom_block
+#E2C9D0 create:weighted_ejector
 #A5A77C byg:wood_blewit_mushroom_block
 #6137CB create:zinc_ore

@@ -1597,4 +1597,125 @@ onEvent('recipes', event => {
 			}
 		}
 	)
+
+  //Time in a bottle
+  event.remove({ id: 'tiab:time_in_a_bottle' })
+  event.custom(
+		{
+			"type": "create:sequenced_assembly",
+			"ingredient": {
+			  "item": "minecraft:glass_bottle"
+			},
+			"transitionalItem": {
+			  "item": "quark:bottled_cloud"
+			},
+			"sequence": [
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "quark:bottled_cloud"
+            },
+            {
+              "item": "timeextraminer:hyper_cubes"
+            }
+          ],
+          "results": [
+            {
+              "item": "quark:bottled_cloud"
+            }
+          ]
+        },
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "quark:bottled_cloud"
+            },
+            {
+              "item": "timeextraminer:hyper_cubes"
+            }
+          ],
+          "results": [
+            {
+              "item": "quark:bottled_cloud"
+            }
+          ]
+        },
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "quark:bottled_cloud"
+            },
+            {
+              "item": "minecraft:clock"
+            }
+          ],
+          "results": [
+            {
+              "item": "quark:bottled_cloud"
+            }
+          ]
+        },
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "quark:bottled_cloud"
+            },
+            {
+              "item": "minecraft:clock"
+            }
+          ],
+          "results": [
+            {
+              "item": "quark:bottled_cloud"
+            }
+          ]
+        },
+				{
+					"type": "create:pressing",
+					"ingredients": [
+					  {
+						  "item": "quark:bottled_cloud"
+					  }
+					],
+					"results": [
+					  {
+						  "item": "quark:bottled_cloud"
+					  }
+					]
+				},
+			],
+			"results": [
+			  {
+				"item": "tiab:time_in_a_bottle",
+				"chance": 0.7
+			  }
+			],
+			"loops": 17
+		  }
+	)
+
+  //Bedrock to Damaged Bedrock
+  event.custom(
+    {
+      "type": "create:item_application",
+      "ingredients": [
+        {
+          "item": "minecraft:bedrock"
+        },
+        {
+          "item": "timeextraminer:liquid_air"
+        }
+      ],
+      "results": [
+        {
+          "item": "timeextraminer:damaged_bedrock"
+        }
+      ]
+    }
+  )
+  
 })

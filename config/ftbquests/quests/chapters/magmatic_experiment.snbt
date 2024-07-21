@@ -1,0 +1,400 @@
+{
+	id: "529C34BF01180D8A"
+	group: "68ED07BD49A7098E"
+	order_index: 1
+	filename: "magmatic_experiment"
+	title: "Magmatic Experiment"
+	icon: "minecraft:magma_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Tinkers !"
+			x: -4.5d
+			y: -7.5d
+			dependencies: ["0D1DB81B7928C2CD"]
+			id: "250A4850E61882D5"
+			tasks: [
+				{
+					id: "75CBF51AC84A49E2"
+					type: "item"
+					item: "tconstruct:seared_melter"
+				}
+				{
+					id: "7D74B8D1FD25A5A8"
+					type: "item"
+					item: "tconstruct:seared_table"
+				}
+				{
+					id: "2AD1EE87A8C5BD8E"
+					type: "item"
+					item: "tconstruct:seared_basin"
+				}
+				{
+					id: "1D47AF4B5A9C5A66"
+					type: "item"
+					item: "tconstruct:seared_faucet"
+				}
+				{
+					id: "26063F719ABAC8D3"
+					type: "item"
+					item: "tconstruct:seared_heater"
+				}
+			]
+			rewards: [{
+				id: "16B704F03EB9ACAB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "More Tinkers !"
+			x: -2.5d
+			y: -7.5d
+			dependencies: ["250A4850E61882D5"]
+			id: "736A74BE4563B05D"
+			tasks: [
+				{
+					id: "707FE8D972E3F1A3"
+					type: "item"
+					item: {
+						id: "tconstruct:smeltery_controller"
+						Count: 1b
+						tag: {
+							texture: "tconstruct:seared_bricks"
+						}
+					}
+				}
+				{
+					id: "00BB151C9882BC76"
+					type: "item"
+					item: {
+						id: "tconstruct:seared_drain"
+						Count: 1b
+						tag: {
+							texture: "tconstruct:seared_bricks"
+						}
+					}
+				}
+				{
+					id: "11E72C81E5E65F1E"
+					type: "item"
+					item: "tconstruct:seared_fuel_tank"
+				}
+			]
+		}
+		{
+			title: "Volcano Creator"
+			x: 1.5d
+			y: -8.5d
+			dependencies: ["1B7D05FAF6046D96"]
+			id: "7B7E08547A0504A1"
+			tasks: [
+				{
+					id: "59EF198C16D446C9"
+					type: "item"
+					item: "mm:volcancreator_controller"
+				}
+				{
+					id: "2B9648BCCA46DB94"
+					type: "item"
+					item: "mm:volcanfluid_port"
+				}
+				{
+					id: "5803F24617CC2E47"
+					type: "item"
+					item: "mm:volcanenergy_port"
+				}
+			]
+			rewards: [{
+				id: "1B175168D5DC642D"
+				type: "item"
+				item: {
+					id: "create:schematic"
+					Count: 1b
+					tag: {
+						Anchor: {
+							X: 0
+							Y: 0
+							Z: 0
+						}
+						Owner: "Benji07p"
+						Bounds: [
+							7
+							5
+							7
+						]
+						Deployed: 0b
+						File: "volcan.nbt"
+						Mirror: "NONE"
+						Rotation: "NONE"
+					}
+				}
+			}]
+		}
+		{
+			title: "Computer Science"
+			x: -0.5d
+			y: -7.5d
+			dependencies: ["736A74BE4563B05D"]
+			id: "1B7D05FAF6046D96"
+			tasks: [{
+				id: "68AD1753907790A0"
+				type: "item"
+				item: "computercraft:computer_normal"
+			}]
+			rewards: [{
+				id: "31A7537C3BB1678D"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			x: 12.0d
+			y: -14.5d
+			dependencies: ["54CF897688E00C4E"]
+			id: "5B5B91B9330A4709"
+			tasks: [{
+				id: "4589A774414A885F"
+				type: "item"
+				item: "chemlib:silicon"
+			}]
+		}
+		{
+			title: "Lava !!!"
+			icon: "minecraft:lava_bucket"
+			x: 1.5d
+			y: -6.5d
+			dependencies: ["1B7D05FAF6046D96"]
+			id: "53D79F86DBD38AEB"
+			tasks: [{
+				id: "2A3D40C7E994A41C"
+				type: "item"
+				item: "minecraft:lava_bucket"
+			}]
+		}
+		{
+			title: "Brass !"
+			x: 12.0d
+			y: -17.5d
+			dependencies: ["736A74BE4563B05D"]
+			id: "49FCE59A54788ED9"
+			tasks: [{
+				id: "4766A9EB79B21455"
+				type: "item"
+				item: "create:brass_ingot"
+			}]
+		}
+		{
+			title: "Professionnal Murderer"
+			x: 1.5d
+			y: -4.5d
+			dependencies: [
+				"736A74BE4563B05D"
+				"53D79F86DBD38AEB"
+			]
+			id: "02C159B69AA238D7"
+			tasks: [{
+				id: "65FE64A6C8BAAB97"
+				type: "item"
+				item: "tconstruct:blood_slime_ball"
+				count: 8L
+			}]
+		}
+		{
+			title: "Obsidian !!"
+			x: 12.0d
+			y: -8.5d
+			dependencies: [
+				"53D79F86DBD38AEB"
+				"2B5C3F3B5F57ED9A"
+			]
+			id: "44D31AB4EA2F56BC"
+			tasks: [{
+				id: "6AD786ADFCE04B7E"
+				type: "item"
+				item: "minecraft:obsidian"
+			}]
+			rewards: [{
+				id: "2EFA5D672D1B0511"
+				type: "item"
+				item: "minecraft:deepslate_diamond_ore"
+				count: 2
+			}]
+		}
+		{
+			title: "Second Machine !"
+			x: 8.5d
+			y: -12.5d
+			dependencies: ["54CF897688E00C4E"]
+			id: "40B7333D5649D9B0"
+			tasks: [{
+				id: "75539B928ADE73B9"
+				type: "item"
+				item: "electrodynamics:wiremill"
+			}]
+		}
+		{
+			title: "Power of molecules !"
+			x: 17.0d
+			y: -11.5d
+			description: [""]
+			dependencies: ["44D31AB4EA2F56BC"]
+			id: "47D02FAABB328E1B"
+			tasks: [{
+				id: "3C48D28CF903AA3A"
+				type: "item"
+				item: "alchemistry:combiner"
+			}]
+		}
+		{
+			x: 17.0d
+			y: -7.0d
+			id: "673E4BB4D2DD6D70"
+			tasks: [{
+				id: "533D0015419D6FD7"
+				type: "item"
+				item: "create:spout"
+			}]
+		}
+		{
+			title: "Third Machine ?"
+			x: 17.0d
+			y: -15.5d
+			id: "42506F4220E723DD"
+			tasks: [{
+				id: "2683CBF754FF488E"
+				type: "item"
+				item: "alchemistry:compactor"
+			}]
+		}
+		{
+			x: 12.0d
+			y: -12.5d
+			dependencies: ["40B7333D5649D9B0"]
+			id: "2DA0B8533D24A6AD"
+			tasks: [{
+				id: "685C2B109A185480"
+				type: "item"
+				item: "chemlib:oxygen"
+			}]
+		}
+		{
+			title: "Want to work with Create ?"
+			x: 17.0d
+			y: -13.5d
+			dependencies: [
+				"47D02FAABB328E1B"
+				"42506F4220E723DD"
+				"2DA0B8533D24A6AD"
+				"5B5B91B9330A4709"
+			]
+			id: "727AB00C6947AAFD"
+			tasks: [{
+				id: "3258D2038A4E185E"
+				type: "item"
+				item: "minecraft:andesite"
+			}]
+		}
+		{
+			x: 25.0d
+			y: -17.5d
+			dependencies: ["49FCE59A54788ED9"]
+			id: "70FA2CA046D96C03"
+			tasks: [{
+				id: "66AA8AEDD480B0D5"
+				type: "item"
+				item: "create:deployer"
+			}]
+		}
+		{
+			x: 27.0d
+			y: -13.5d
+			dependencies: [
+				"70FA2CA046D96C03"
+				"673E4BB4D2DD6D70"
+				"6D1C4864761B8FA9"
+			]
+			id: "5C4CFA8419E10C1F"
+			tasks: [{
+				id: "6296E16DADE61316"
+				type: "item"
+				item: "electrodynamics:circuitadvanced"
+			}]
+		}
+		{
+			x: 23.0d
+			y: -15.0d
+			dependencies: ["5F687652567FE7FE"]
+			id: "2B0E7ED3C06040FD"
+			tasks: [{
+				id: "3406BF7D978F7AF9"
+				type: "item"
+				item: "create:mechanical_press"
+			}]
+		}
+		{
+			title: "Welcome to Create !"
+			x: 21.0d
+			y: -13.5d
+			dependencies: ["727AB00C6947AAFD"]
+			id: "5F687652567FE7FE"
+			tasks: [
+				{
+					id: "58DF6409C8D44B69"
+					type: "item"
+					item: "create:andesite_alloy"
+				}
+				{
+					id: "024501F27EBD570F"
+					type: "item"
+					item: "create:shaft"
+				}
+				{
+					id: "7CD2C2B534CC5CA3"
+					type: "item"
+					item: "create:andesite_casing"
+				}
+			]
+		}
+		{
+			x: 23.0d
+			y: -12.0d
+			dependencies: ["5F687652567FE7FE"]
+			id: "6D1C4864761B8FA9"
+			tasks: [{
+				id: "36A5D4F09F516572"
+				type: "item"
+				item: "create:mechanical_saw"
+			}]
+		}
+		{
+			x: 25.5d
+			y: -6.0d
+			dependencies: [
+				"673E4BB4D2DD6D70"
+				"53D79F86DBD38AEB"
+				"02C159B69AA238D7"
+			]
+			id: "30503C4596EBD3AB"
+			tasks: [{
+				id: "21EBF0AD03CB6A3B"
+				type: "item"
+				item: "minecraft:magma_cream"
+			}]
+		}
+		{
+			x: 29.0d
+			y: -6.0d
+			dependencies: ["30503C4596EBD3AB"]
+			id: "7FDBD2BD16D80A0F"
+			tasks: [{
+				id: "0CEB618B6725C0B4"
+				type: "item"
+				item: "minecraft:magma_block"
+				count: 2L
+			}]
+		}
+	]
+	quest_links: [ ]
+}

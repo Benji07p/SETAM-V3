@@ -1,7 +1,7 @@
 {
 	id: "60FEB1B82E0BF817"
 	group: "68ED07BD49A7098E"
-	order_index: 0
+	order_index: 2
 	filename: "return_to_earth"
 	title: "Return to Earth"
 	icon: "minecraft:grass_block"
@@ -9,790 +9,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Commencement"
-			x: -2.5d
-			y: 0.0d
-			id: "5B3BC61728374FB2"
-			tasks: [{
-				id: "4855F4AD82838683"
-				type: "dimension"
-				dimension: "beyond_earth:glacio"
-			}]
-			rewards: [
-				{
-					id: "60A0D476D462F3AE"
-					type: "item"
-					item: "ftbquests:book"
-				}
-				{
-					id: "42EFD43691B593C2"
-					type: "item"
-					item: "minecraft:cooked_beef"
-					count: 32
-				}
-			]
-		}
-		{
-			title: "Outils en pierre"
-			x: 3.5d
-			y: 0.0d
-			dependencies: ["7C03AC310EA03CB3"]
-			id: "4366F30379A2A414"
-			tasks: [
-				{
-					id: "255AEE5B867F8047"
-					type: "item"
-					item: {
-						id: "tconstruct:pick_head"
-						Count: 1b
-						tag: {
-							Material: "tconstruct:rock"
-						}
-					}
-				}
-				{
-					id: "279FADD95E0860C4"
-					type: "item"
-					item: {
-						id: "tconstruct:small_axe_head"
-						Count: 1b
-						tag: {
-							Material: "tconstruct:rock"
-						}
-					}
-				}
-			]
-			rewards: [{
-				id: "1B02BF3A629A6758"
-				type: "item"
-				item: {
-					id: "minecraft:enchanted_book"
-					Count: 1b
-					tag: {
-						StoredEnchantments: [{
-							lvl: 1s
-							id: "minecraft:silk_touch"
-						}]
-					}
-				}
-			}]
-		}
-		{
-			title: "Serai-ce une pioche en bois ?"
-			x: -0.5d
-			y: 1.5d
-			dependencies: ["5B3BC61728374FB2"]
-			id: "2ED8360901C6F124"
-			tasks: [
-				{
-					id: "06574C82CECBF21B"
-					type: "item"
-					item: "minecraft:stick"
-				}
-				{
-					id: "661E8AFAC7C3B814"
-					type: "item"
-					item: {
-						id: "tconstruct:pick_head"
-						Count: 1b
-						tag: {
-							Material: "tconstruct:wood"
-						}
-					}
-				}
-			]
-			rewards: [{
-				id: "0C45FA6D545B819B"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "Outils en bois"
-			icon: {
-				id: "tconstruct:pickaxe"
-				Count: 1b
-				tag: {
-					tic_stats: {
-						"tconstruct:attack_speed": 1.2f
-						"tconstruct:mining_speed": 2.0f
-						"tconstruct:attack_damage": 0.0f
-						"tconstruct:harvest_tier": "minecraft:wood"
-						"tconstruct:durability": 60.0f
-					}
-					tic_broken: 0b
-					tic_modifiers: [
-						{
-							name: "tconstruct:piercing"
-							level: 1s
-						}
-						{
-							name: "tconstruct:cultivated"
-							level: 3s
-						}
-					]
-					tic_materials: [
-						"tconstruct:wood"
-						"tconstruct:wood"
-						"tconstruct:wood"
-					]
-					Damage: 0
-					tic_persistent_data: {
-						abilities: 1
-						upgrades: 3
-					}
-				}
-			}
-			x: 1.5d
-			y: -2.5d
-			dependencies: ["2ED8360901C6F124"]
-			id: "7C03AC310EA03CB3"
-			tasks: [{
-				id: "5E8A302998A575CC"
-				type: "item"
-				item: {
-					id: "tconstruct:pickaxe"
-					Count: 1b
-					tag: {
-						tic_broken: 0b
-						Damage: 0
-						tic_persistent_data: {
-							abilities: 1
-							upgrades: 3
-						}
-					}
-				}
-			}]
-		}
-		{
-			title: "T'as aimé le tutoriel ?"
-			x: 8.5d
-			y: -3.0d
-			dependencies: ["79080F20118E332D"]
-			id: "0CB433EBA80F365B"
-			tasks: [{
-				id: "5C13B58897E0A9AD"
-				type: "item"
-				item: "minecraft:crafting_table"
-			}]
-			rewards: [{
-				id: "793CC69BF3652234"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "C'est bien"
-			x: 6.5d
-			y: 2.0d
-			dependencies: ["4366F30379A2A414"]
-			id: "79080F20118E332D"
-			tasks: [
-				{
-					id: "01C17BBC0CF00047"
-					type: "item"
-					item: {
-						id: "minecraft:stone_pickaxe"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "5DFFB8B660E49522"
-					type: "item"
-					item: {
-						id: "minecraft:stone_axe"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-			]
-			rewards: [{
-				id: "0FED14CE108872B6"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "Fin de l'âge de pierres les enfants"
-			x: 11.0d
-			y: 0.0d
-			dependencies: ["0CB433EBA80F365B"]
-			id: "2E5EDED74EE4FB51"
-			tasks: [{
-				id: "72467B7813AAC665"
-				type: "item"
-				item: "minecraft:campfire"
-			}]
-			rewards: [{
-				id: "50A5D672B34D8109"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-		}
-		{
-			title: "Premières machines ?"
-			x: 12.5d
-			y: -2.0d
-			dependencies: ["2E5EDED74EE4FB51"]
-			id: "1E3D9A173C919E32"
-			tasks: [{
-				id: "6B2729FE4A726502"
-				type: "item"
-				item: "minecraft:blast_furnace"
-			}]
-		}
-		{
-			title: "Bruh il fait froid..."
-			x: 15.0d
-			y: 5.0d
-			id: "19134E00C5CD4951"
-			tasks: [{
-				id: "52512B2FB9B1D2A0"
-				type: "item"
-				item: "minecraft:packed_ice"
-			}]
-			rewards: [{
-				id: "68FB9615314BA61E"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "Ça réchauffe"
-			x: 18.0d
-			y: 1.5d
-			dependencies: [
-				"19134E00C5CD4951"
-				"2E5EDED74EE4FB51"
-			]
-			id: "2B5C3F3B5F57ED9A"
-			tasks: [{
-				id: "09D363FDA29EC67D"
-				type: "item"
-				item: "minecraft:water_bucket"
-			}]
-			rewards: [{
-				id: "59308F2D1B1E9FD7"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "Telle un forgeron"
-			x: 14.0d
-			y: -3.5d
-			dependencies: ["1E3D9A173C919E32"]
-			id: "59EC5760BC9ECFA4"
-			tasks: [{
-				id: "136249D564A6F5F1"
-				type: "item"
-				title: "Any #forge:ingots/steel"
-				item: {
-					id: "itemfilters:tag"
-					Count: 1b
-					tag: {
-						value: "forge:ingots/steel"
-					}
-				}
-			}]
-		}
-		{
-			title: "Bon ok là c'est ta première machine"
-			x: 16.0d
-			y: -5.5d
-			dependencies: ["59EC5760BC9ECFA4"]
-			id: "54CF897688E00C4E"
-			tasks: [{
-				id: "2359FF5E54E08324"
-				type: "item"
-				item: "electrodynamics:mineralgrinder"
-			}]
-		}
-		{
-			title: "Bienvenue dans le monde de l'éléctricité"
-			x: 16.0d
-			y: -2.0d
-			dependencies: ["59EC5760BC9ECFA4"]
-			id: "0752EE60C630E37C"
-			tasks: [{
-				id: "75E9359186BA8BA5"
-				type: "item"
-				item: "electrodynamics:coalgenerator"
-			}]
-		}
-		{
-			title: "Enfin de la pierre !"
-			x: 18.0d
-			y: -3.5d
-			dependencies: [
-				"0752EE60C630E37C"
-				"54CF897688E00C4E"
-				"62C647AC2E86590A"
-			]
-			id: "11E6526E56549451"
-			tasks: [
-				{
-					id: "314C7184C592C47D"
-					type: "item"
-					item: "minecraft:cobblestone"
-				}
-				{
-					id: "41FADCFDAFB69DFC"
-					type: "item"
-					item: "minecraft:stone"
-				}
-				{
-					id: "25D31F0EF2F049D2"
-					type: "item"
-					item: "minecraft:cobbled_deepslate"
-				}
-			]
-		}
-		{
-			title: "Pierres de Glacio"
-			x: 16.0d
-			y: -7.0d
-			id: "62C647AC2E86590A"
-			tasks: [
-				{
-					id: "7A4A766EC56862CC"
-					type: "item"
-					item: "beyond_earth:permafrost"
-				}
-				{
-					id: "210C19673DED4AB0"
-					type: "item"
-					item: "beyond_earth:glacio_stone"
-				}
-			]
-		}
-		{
-			title: "Argile ?"
-			x: 20.5d
-			y: -0.5d
-			description: ["Lance de la stone dans de l'eau !"]
-			dependencies: [
-				"2B5C3F3B5F57ED9A"
-				"11E6526E56549451"
-			]
-			id: "3F02BACCD385262A"
-			tasks: [{
-				id: "39DD94C9106F0BEF"
-				type: "item"
-				item: "minecraft:clay"
-			}]
-		}
-		{
-			title: "Tinkers !"
-			x: 24.0d
-			y: -2.0d
-			dependencies: [
-				"3F02BACCD385262A"
-				"48F160CF01DDF187"
-			]
-			id: "250A4850E61882D5"
-			tasks: [
-				{
-					id: "75CBF51AC84A49E2"
-					type: "item"
-					item: "tconstruct:seared_melter"
-				}
-				{
-					id: "7D74B8D1FD25A5A8"
-					type: "item"
-					item: "tconstruct:seared_table"
-				}
-				{
-					id: "2AD1EE87A8C5BD8E"
-					type: "item"
-					item: "tconstruct:seared_basin"
-				}
-				{
-					id: "1D47AF4B5A9C5A66"
-					type: "item"
-					item: "tconstruct:seared_faucet"
-				}
-				{
-					id: "26063F719ABAC8D3"
-					type: "item"
-					item: "tconstruct:seared_heater"
-				}
-			]
-			rewards: [{
-				id: "16B704F03EB9ACAB"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "T'as enfin du sable ?"
-			x: 20.5d
-			y: -5.5d
-			dependencies: ["11E6526E56549451"]
-			id: "48F160CF01DDF187"
-			tasks: [{
-				id: "20D4C1F4F8236313"
-				type: "item"
-				item: "minecraft:sand"
-			}]
-		}
-		{
-			title: "Encore plus de Tinkers"
-			x: 26.0d
-			y: -2.0d
-			dependencies: ["250A4850E61882D5"]
-			id: "736A74BE4563B05D"
-			tasks: [
-				{
-					id: "707FE8D972E3F1A3"
-					type: "item"
-					item: {
-						id: "tconstruct:smeltery_controller"
-						Count: 1b
-						tag: {
-							texture: "tconstruct:seared_bricks"
-						}
-					}
-				}
-				{
-					id: "00BB151C9882BC76"
-					type: "item"
-					item: {
-						id: "tconstruct:seared_drain"
-						Count: 1b
-						tag: {
-							texture: "tconstruct:seared_bricks"
-						}
-					}
-				}
-				{
-					id: "11E72C81E5E65F1E"
-					type: "item"
-					item: "tconstruct:seared_fuel_tank"
-				}
-			]
-		}
-		{
-			title: "Meurtrier professionnel"
-			x: 37.0d
-			y: -2.0d
-			dependencies: [
-				"736A74BE4563B05D"
-				"53D79F86DBD38AEB"
-			]
-			id: "02C159B69AA238D7"
-			tasks: [{
-				id: "65FE64A6C8BAAB97"
-				type: "item"
-				item: "tconstruct:blood_slime_ball"
-				count: 8L
-			}]
-		}
-		{
-			title: "Deuxième Machines !"
-			x: 27.5d
-			y: 12.0d
-			dependencies: ["54CF897688E00C4E"]
-			id: "40B7333D5649D9B0"
-			tasks: [{
-				id: "75539B928ADE73B9"
-				type: "item"
-				item: "electrodynamics:wiremill"
-			}]
-		}
-		{
-			title: "Informatique"
-			x: 27.5d
-			y: 0.0d
-			description: ["Met un smeltery dans un feu de camp"]
-			dependencies: ["736A74BE4563B05D"]
-			id: "1B7D05FAF6046D96"
-			tasks: [{
-				id: "68AD1753907790A0"
-				type: "item"
-				item: "computercraft:computer_normal"
-			}]
-			rewards: [{
-				id: "31A7537C3BB1678D"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-		}
-		{
-			title: "Créateur de Volcan"
-			x: 25.5d
-			y: 3.0d
-			dependencies: ["1B7D05FAF6046D96"]
-			id: "7B7E08547A0504A1"
-			tasks: [
-				{
-					id: "59EF198C16D446C9"
-					type: "item"
-					item: "mm:volcancreator_controller"
-				}
-				{
-					id: "2B9648BCCA46DB94"
-					type: "item"
-					item: "mm:volcanfluid_port"
-				}
-				{
-					id: "5803F24617CC2E47"
-					type: "item"
-					item: "mm:volcanenergy_port"
-				}
-			]
-			rewards: [{
-				id: "1B175168D5DC642D"
-				type: "item"
-				item: {
-					id: "create:schematic"
-					Count: 1b
-					tag: {
-						Anchor: {
-							X: 0
-							Y: 0
-							Z: 0
-						}
-						Owner: "Benji07p"
-						Bounds: [
-							7
-							5
-							7
-						]
-						Deployed: 0b
-						File: "volcan.nbt"
-						Mirror: "NONE"
-						Rotation: "NONE"
-					}
-				}
-			}]
-		}
-		{
-			title: "De la lave !!!"
-			icon: "minecraft:lava_bucket"
-			x: 27.0d
-			y: 4.5d
-			dependencies: ["7B7E08547A0504A1"]
-			id: "53D79F86DBD38AEB"
-			tasks: [{
-				id: "2A3D40C7E994A41C"
-				type: "item"
-				item: "minecraft:lava_bucket"
-			}]
-		}
-		{
-			title: "Obsidienne !!"
-			x: 29.0d
-			y: 8.0d
-			dependencies: [
-				"53D79F86DBD38AEB"
-				"2B5C3F3B5F57ED9A"
-			]
-			id: "44D31AB4EA2F56BC"
-			tasks: [{
-				id: "6AD786ADFCE04B7E"
-				type: "item"
-				item: "minecraft:obsidian"
-			}]
-			rewards: [{
-				id: "2EFA5D672D1B0511"
-				type: "item"
-				item: "minecraft:deepslate_diamond_ore"
-				count: 2
-			}]
-		}
-		{
-			title: "3ème machine ?"
-			x: 31.0d
-			y: 10.5d
-			id: "42506F4220E723DD"
-			tasks: [{
-				id: "2683CBF754FF488E"
-				type: "item"
-				item: "alchemistry:compactor"
-			}]
-		}
-		{
-			title: "La puissance des molécules !"
-			x: 31.0d
-			y: 6.0d
-			description: [""]
-			dependencies: ["44D31AB4EA2F56BC"]
-			id: "47D02FAABB328E1B"
-			tasks: [{
-				id: "3C48D28CF903AA3A"
-				type: "item"
-				item: "alchemistry:combiner"
-			}]
-		}
-		{
-			x: 24.5d
-			y: 10.5d
-			dependencies: ["54CF897688E00C4E"]
-			id: "5B5B91B9330A4709"
-			tasks: [{
-				id: "4589A774414A885F"
-				type: "item"
-				item: "chemlib:silicon"
-			}]
-		}
-		{
-			title: "Oxygène"
-			x: 31.5d
-			y: 13.5d
-			dependencies: ["40B7333D5649D9B0"]
-			id: "2DA0B8533D24A6AD"
-			tasks: [{
-				id: "685C2B109A185480"
-				type: "item"
-				item: "chemlib:oxygen"
-			}]
-		}
-		{
-			title: "Veux-tu souffrir avec Create ?"
-			x: 33.5d
-			y: 8.0d
-			dependencies: [
-				"47D02FAABB328E1B"
-				"42506F4220E723DD"
-				"2DA0B8533D24A6AD"
-				"5B5B91B9330A4709"
-			]
-			id: "727AB00C6947AAFD"
-			tasks: [{
-				id: "3258D2038A4E185E"
-				type: "item"
-				item: "minecraft:andesite"
-			}]
-		}
-		{
-			title: "Bienvenue dans Create"
-			x: 35.5d
-			y: 8.0d
-			dependencies: ["727AB00C6947AAFD"]
-			id: "5F687652567FE7FE"
-			tasks: [
-				{
-					id: "58DF6409C8D44B69"
-					type: "item"
-					item: "create:andesite_alloy"
-				}
-				{
-					id: "024501F27EBD570F"
-					type: "item"
-					item: "create:shaft"
-				}
-				{
-					id: "7CD2C2B534CC5CA3"
-					type: "item"
-					item: "create:andesite_casing"
-				}
-			]
-		}
-		{
-			x: 37.0d
-			y: 10.0d
-			dependencies: ["5F687652567FE7FE"]
-			id: "2B0E7ED3C06040FD"
-			tasks: [{
-				id: "3406BF7D978F7AF9"
-				type: "item"
-				item: "create:mechanical_press"
-			}]
-		}
-		{
-			x: 36.5d
-			y: 5.5d
-			id: "673E4BB4D2DD6D70"
-			tasks: [{
-				id: "533D0015419D6FD7"
-				type: "item"
-				item: "create:spout"
-			}]
-		}
-		{
-			x: 36.5d
-			y: 3.0d
-			dependencies: ["49FCE59A54788ED9"]
-			id: "70FA2CA046D96C03"
-			tasks: [{
-				id: "66AA8AEDD480B0D5"
-				type: "item"
-				item: "create:deployer"
-			}]
-		}
-		{
-			title: "Laiton !"
-			x: 31.0d
-			y: 0.5d
-			dependencies: ["736A74BE4563B05D"]
-			id: "49FCE59A54788ED9"
-			tasks: [{
-				id: "4766A9EB79B21455"
-				type: "item"
-				item: "create:brass_ingot"
-			}]
-		}
-		{
-			x: 37.5d
-			y: 13.0d
-			dependencies: ["5F687652567FE7FE"]
-			id: "6D1C4864761B8FA9"
-			tasks: [{
-				id: "36A5D4F09F516572"
-				type: "item"
-				item: "create:mechanical_saw"
-			}]
-		}
-		{
-			x: 39.0d
-			y: 8.0d
-			dependencies: [
-				"70FA2CA046D96C03"
-				"673E4BB4D2DD6D70"
-				"6D1C4864761B8FA9"
-			]
-			id: "5C4CFA8419E10C1F"
-			tasks: [{
-				id: "6296E16DADE61316"
-				type: "item"
-				item: "electrodynamics:circuitadvanced"
-			}]
-		}
-		{
-			x: 40.0d
-			y: 1.5d
-			dependencies: [
-				"673E4BB4D2DD6D70"
-				"53D79F86DBD38AEB"
-				"02C159B69AA238D7"
-			]
-			id: "30503C4596EBD3AB"
-			tasks: [{
-				id: "21EBF0AD03CB6A3B"
-				type: "item"
-				item: "minecraft:magma_cream"
-			}]
-		}
-		{
-			x: 43.5d
-			y: 1.5d
-			dependencies: ["30503C4596EBD3AB"]
-			id: "7FDBD2BD16D80A0F"
-			tasks: [{
-				id: "0CEB618B6725C0B4"
-				type: "item"
-				item: "minecraft:magma_block"
-				count: 2L
-			}]
-		}
-		{
-			title: "Tout ça pour ça ?"
+			title: "All that for this ?"
 			x: 52.5d
 			y: 2.25d
 			dependencies: ["79DBF2E3049A4C3F"]
@@ -806,7 +23,7 @@
 		}
 		{
 			x: 49.0d
-			y: 1.5d
+			y: 4.5d
 			dependencies: ["7FDBD2BD16D80A0F"]
 			id: "79DBF2E3049A4C3F"
 			tasks: [{
@@ -816,8 +33,8 @@
 			}]
 		}
 		{
-			x: 56.0d
-			y: 3.0d
+			x: 55.5d
+			y: 2.25d
 			dependencies: ["10B7333A6E1C7B9E"]
 			size: 2.0d
 			ignore_reward_blocking: true
@@ -829,9 +46,9 @@
 			}]
 		}
 		{
-			title: "En route vers l'agriculture"
-			x: 59.5d
-			y: 6.0d
+			title: "Entering the field of agriculture"
+			x: 58.5d
+			y: 5.0d
 			dependencies: [
 				"5D0F58B085613F39"
 				"284410EEF1F79A4E"
@@ -844,8 +61,8 @@
 			}]
 		}
 		{
-			x: 51.0d
-			y: 7.5d
+			x: 52.5d
+			y: 6.5d
 			dependencies: ["79DBF2E3049A4C3F"]
 			id: "7BBEFC018E50D78B"
 			tasks: [{
@@ -855,8 +72,8 @@
 			}]
 		}
 		{
-			x: 51.0d
-			y: 12.0d
+			x: 52.5d
+			y: 8.5d
 			id: "1EDF7454C11F264A"
 			tasks: [{
 				id: "06550F1215D4003B"
@@ -865,8 +82,8 @@
 			}]
 		}
 		{
-			x: 53.5d
-			y: 9.5d
+			x: 55.5d
+			y: 7.5d
 			dependencies: [
 				"7BBEFC018E50D78B"
 				"1EDF7454C11F264A"
@@ -879,9 +96,9 @@
 			}]
 		}
 		{
-			title: "Traitement du pétrole"
+			title: "Oil Processing"
 			x: 62.5d
-			y: 6.0d
+			y: 5.0d
 			dependencies: ["56BDAA17CC981920"]
 			id: "172E6DF5BE5BEB3F"
 			tasks: [
@@ -913,8 +130,8 @@
 			]
 		}
 		{
-			x: 59.5d
-			y: 2.0d
+			x: 60.0d
+			y: 2.25d
 			dependencies: ["5D0F58B085613F39"]
 			id: "2FD1D6F149841720"
 			tasks: [{
@@ -924,9 +141,9 @@
 			}]
 		}
 		{
-			title: "Machines Spatiale"
+			title: "Space Machines"
 			x: 63.0d
-			y: 2.0d
+			y: 2.25d
 			dependencies: ["2FD1D6F149841720"]
 			id: "380A80D46E032ED4"
 			tasks: [
@@ -943,7 +160,7 @@
 			]
 		}
 		{
-			title: "ENFIN !"
+			title: "FINALLY !"
 			x: 66.5d
 			y: 4.5d
 			dependencies: [
@@ -964,7 +181,7 @@
 			}]
 		}
 		{
-			title: "GG"
+			title: "GG !"
 			x: 72.0d
 			y: 4.5d
 			dependencies: ["5475262280E4A3D5"]

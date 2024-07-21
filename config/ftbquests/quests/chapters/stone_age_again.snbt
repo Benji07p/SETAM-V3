@@ -1,0 +1,431 @@
+{
+	id: "73D5A7C28A7C9B46"
+	group: "68ED07BD49A7098E"
+	order_index: 0
+	filename: "stone_age_again"
+	title: "Stone Age... Again ?"
+	icon: "minecraft:stone"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Beginning !"
+			x: -6.5d
+			y: -0.5d
+			id: "5B3BC61728374FB2"
+			tasks: [{
+				id: "4855F4AD82838683"
+				type: "dimension"
+				dimension: "beyond_earth:glacio"
+			}]
+			rewards: [
+				{
+					id: "60A0D476D462F3AE"
+					type: "item"
+					item: "ftbquests:book"
+				}
+				{
+					id: "42EFD43691B593C2"
+					type: "item"
+					item: "minecraft:cooked_beef"
+					count: 32
+				}
+			]
+		}
+		{
+			title: "Will it be a Wooden Pickaxe ?"
+			x: -4.5d
+			y: -0.5d
+			dependencies: ["5B3BC61728374FB2"]
+			id: "2ED8360901C6F124"
+			tasks: [
+				{
+					id: "06574C82CECBF21B"
+					type: "item"
+					item: "minecraft:stick"
+				}
+				{
+					id: "661E8AFAC7C3B814"
+					type: "item"
+					item: {
+						id: "tconstruct:pick_head"
+						Count: 1b
+						tag: {
+							Material: "tconstruct:wood"
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "0C45FA6D545B819B"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Wooden Tools"
+			icon: {
+				id: "tconstruct:pickaxe"
+				Count: 1b
+				tag: {
+					tic_stats: {
+						"tconstruct:attack_speed": 1.2f
+						"tconstruct:mining_speed": 2.0f
+						"tconstruct:attack_damage": 0.0f
+						"tconstruct:harvest_tier": "minecraft:wood"
+						"tconstruct:durability": 60.0f
+					}
+					tic_broken: 0b
+					tic_modifiers: [
+						{
+							name: "tconstruct:piercing"
+							level: 1s
+						}
+						{
+							name: "tconstruct:cultivated"
+							level: 3s
+						}
+					]
+					tic_materials: [
+						"tconstruct:wood"
+						"tconstruct:wood"
+						"tconstruct:wood"
+					]
+					Damage: 0
+					tic_persistent_data: {
+						abilities: 1
+						upgrades: 3
+					}
+				}
+			}
+			x: -2.5d
+			y: -0.5d
+			dependencies: ["2ED8360901C6F124"]
+			id: "7C03AC310EA03CB3"
+			tasks: [{
+				id: "5E8A302998A575CC"
+				type: "item"
+				item: {
+					id: "tconstruct:pickaxe"
+					Count: 1b
+					tag: {
+						tic_broken: 0b
+						Damage: 0
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 3
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Stone Tools"
+			x: -0.5d
+			y: -0.5d
+			dependencies: ["7C03AC310EA03CB3"]
+			id: "4366F30379A2A414"
+			tasks: [
+				{
+					id: "255AEE5B867F8047"
+					type: "item"
+					item: {
+						id: "tconstruct:pick_head"
+						Count: 1b
+						tag: {
+							Material: "tconstruct:rock"
+						}
+					}
+				}
+				{
+					id: "279FADD95E0860C4"
+					type: "item"
+					item: {
+						id: "tconstruct:small_axe_head"
+						Count: 1b
+						tag: {
+							Material: "tconstruct:rock"
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "1B02BF3A629A6758"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 1s
+							id: "minecraft:silk_touch"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			title: "That's good"
+			x: 1.5d
+			y: -0.5d
+			dependencies: ["4366F30379A2A414"]
+			id: "79080F20118E332D"
+			tasks: [
+				{
+					id: "01C17BBC0CF00047"
+					type: "item"
+					item: {
+						id: "minecraft:stone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5DFFB8B660E49522"
+					type: "item"
+					item: {
+						id: "minecraft:stone_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "0FED14CE108872B6"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Did you like the tutorial ?"
+			x: 3.5d
+			y: -0.5d
+			dependencies: ["79080F20118E332D"]
+			id: "0CB433EBA80F365B"
+			tasks: [{
+				id: "5C13B58897E0A9AD"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+			rewards: [{
+				id: "793CC69BF3652234"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "End of the Stone Age !"
+			x: 5.5d
+			y: -0.5d
+			dependencies: ["0CB433EBA80F365B"]
+			id: "2E5EDED74EE4FB51"
+			tasks: [{
+				id: "72467B7813AAC665"
+				type: "item"
+				item: "minecraft:campfire"
+			}]
+			rewards: [{
+				id: "50A5D672B34D8109"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "First machines ?"
+			x: 7.5d
+			y: -2.0d
+			dependencies: ["2E5EDED74EE4FB51"]
+			id: "1E3D9A173C919E32"
+			tasks: [{
+				id: "6B2729FE4A726502"
+				type: "item"
+				item: "minecraft:blast_furnace"
+			}]
+		}
+		{
+			title: "Bruh that's cold..."
+			x: 5.5d
+			y: 2.5d
+			dependencies: ["4366F30379A2A414"]
+			id: "19134E00C5CD4951"
+			tasks: [{
+				id: "52512B2FB9B1D2A0"
+				type: "item"
+				item: "minecraft:packed_ice"
+			}]
+			rewards: [{
+				id: "68FB9615314BA61E"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "That's warming up !"
+			x: 7.5d
+			y: 1.0d
+			dependencies: [
+				"19134E00C5CD4951"
+				"2E5EDED74EE4FB51"
+			]
+			id: "2B5C3F3B5F57ED9A"
+			tasks: [{
+				id: "09D363FDA29EC67D"
+				type: "item"
+				item: "minecraft:water_bucket"
+			}]
+			rewards: [{
+				id: "59308F2D1B1E9FD7"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Like a blacksmith"
+			x: 9.5d
+			y: -2.0d
+			dependencies: ["1E3D9A173C919E32"]
+			id: "59EC5760BC9ECFA4"
+			tasks: [{
+				id: "136249D564A6F5F1"
+				type: "item"
+				title: "Any #forge:ingots/steel"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ingots/steel"
+					}
+				}
+			}]
+		}
+		{
+			title: "Ok this is your first machine"
+			x: 11.5d
+			y: -0.5d
+			dependencies: ["59EC5760BC9ECFA4"]
+			id: "54CF897688E00C4E"
+			tasks: [{
+				id: "2359FF5E54E08324"
+				type: "item"
+				item: "electrodynamics:mineralgrinder"
+			}]
+		}
+		{
+			title: "Welcome to the world of Electricity"
+			x: 11.5d
+			y: -3.5d
+			dependencies: ["59EC5760BC9ECFA4"]
+			id: "0752EE60C630E37C"
+			tasks: [{
+				id: "75E9359186BA8BA5"
+				type: "item"
+				item: "electrodynamics:coalgenerator"
+			}]
+		}
+		{
+			title: "Stones of Glacio"
+			x: 13.5d
+			y: -5.0d
+			dependencies: ["79080F20118E332D"]
+			id: "62C647AC2E86590A"
+			tasks: [
+				{
+					id: "7A4A766EC56862CC"
+					type: "item"
+					item: "beyond_earth:permafrost"
+				}
+				{
+					id: "210C19673DED4AB0"
+					type: "item"
+					item: "beyond_earth:glacio_stone"
+				}
+			]
+		}
+		{
+			title: "Finally, Stones !"
+			x: 13.5d
+			y: -2.0d
+			dependencies: [
+				"0752EE60C630E37C"
+				"54CF897688E00C4E"
+				"62C647AC2E86590A"
+			]
+			id: "11E6526E56549451"
+			tasks: [
+				{
+					id: "314C7184C592C47D"
+					type: "item"
+					item: "minecraft:cobblestone"
+				}
+				{
+					id: "41FADCFDAFB69DFC"
+					type: "item"
+					item: "minecraft:stone"
+				}
+				{
+					id: "25D31F0EF2F049D2"
+					type: "item"
+					item: "minecraft:cobbled_deepslate"
+				}
+			]
+		}
+		{
+			title: "Clay ?"
+			x: 15.5d
+			y: 1.0d
+			dependencies: [
+				"2B5C3F3B5F57ED9A"
+				"11E6526E56549451"
+			]
+			id: "3F02BACCD385262A"
+			tasks: [{
+				id: "39DD94C9106F0BEF"
+				type: "item"
+				item: "minecraft:clay"
+			}]
+		}
+		{
+			title: "Do you finally have Sand ?"
+			x: 15.5d
+			y: -5.0d
+			dependencies: ["11E6526E56549451"]
+			id: "48F160CF01DDF187"
+			tasks: [{
+				id: "20D4C1F4F8236313"
+				type: "item"
+				item: "minecraft:sand"
+			}]
+		}
+		{
+			x: 17.5d
+			y: -2.0d
+			dependencies: [
+				"65E0F1EF85D5DFF1"
+				"48F160CF01DDF187"
+				"3F02BACCD385262A"
+			]
+			id: "0D1DB81B7928C2CD"
+			tasks: [{
+				id: "308AAD2449CE0CBE"
+				type: "item"
+				item: "tconstruct:seared_brick"
+			}]
+		}
+		{
+			x: 15.5d
+			y: -2.0d
+			dependencies: ["11E6526E56549451"]
+			id: "65E0F1EF85D5DFF1"
+			tasks: [{
+				id: "737DC7FC443CD17B"
+				type: "item"
+				item: "minecraft:gravel"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,7 +1,7 @@
 {
 	id: "66C6716EF2B118B4"
 	group: "68ED07BD49A7098E"
-	order_index: 4
+	order_index: 6
 	filename: "phase_3"
 	title: "Phase 3"
 	icon: "extendedcrafting:ultimate_singularity"
@@ -610,14 +610,14 @@
 			]
 		}
 		{
-			title: "Entrer dans le monde quantique"
+			title: "Enter in the quantum world"
 			x: 5.5d
 			y: -20.5d
 			description: [
-				"Premièrement craft la dimension"
-				"Deuxièmement détruit la avec l'Enscriber "
-				"Troisièmement recompose la et donne lui un nom"
-				"Enfin crée la dimension avec le dimension builder"
+				"First Craft the dimension"
+				"Then Destroy it with the Enscriber "
+				"Then Rebuild it and give it a name"
+				"Lastly Create the dimension with the Dimension Builder"
 			]
 			dependencies: ["166213C42E0936FB"]
 			id: "549768A7C0C8D032"

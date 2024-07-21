@@ -43,13 +43,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-04-12 18:09:07 +0200"
+      "minecraft:skeleton": "2024-04-12 18:09:07 +0200",
+      "minecraft:spider": "2024-07-13 15:02:52 +0200",
+      "minecraft:zombie": "2024-07-13 15:21:38 +0200"
     },
     "done": false
   },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-04-12 18:02:48 +0200"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2024-04-12 18:02:48 +0200"
     },
     "done": true
   },
@@ -65,21 +73,15 @@
     },
     "done": true
   },
-  "byg:biomepedia_gift": {
-    "criteria": {
-      "tick": "2024-04-12 18:02:48 +0200"
-    },
-    "done": true
-  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-04-12 18:02:48 +0200"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "byg:root": {
     "criteria": {
-      "iron_chestplate": "2024-04-12 18:22:00 +0200"
+      "tick": "2024-04-12 18:02:48 +0200"
     },
     "done": true
   },
@@ -89,9 +91,9 @@
     },
     "done": true
   },
-  "byg:root": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "tick": "2024-04-12 18:02:48 +0200"
+      "iron_chestplate": "2024-04-12 18:22:00 +0200"
     },
     "done": true
   },

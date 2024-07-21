@@ -4,7 +4,7 @@
 	enableCameraRecoil = true
 	#The maximum amount of cooldown time remaining before the server will accept another shoot packet from a client. This allows for a litle slack since the server may be lagging
 	#Range: 75 ~ 1000
-	cooldownThreshold = 0
+	cooldownThreshold = 75
 
 	#Stun Grenade related properties
 	[server.grenade]

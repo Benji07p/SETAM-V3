@@ -1,10 +1,15 @@
+#C05E24 minecraft:acacia_door
 #942E52 minecraft:acacia_leaves
+#FBEB73 minecraft:allium
 #FA75A8 minecraft:andesite
+#FF3C04 byg:araucaria_leaves
+#6E69B5 create:asurine
 #0F359D minecraft:azure_bluet
 #871778 byg:baobab_leaves
 #16C608 byg:baobab_log
 #18D108 minecraft:basalt
 #7F50F6 minecraft:bell
+#B0D3D0 minecraft:birch_door
 #3DE8FE minecraft:birch_leaves
 #7F5002 quark:black_corundum_cluster
 #C9CBB9 minecraft:blackstone
@@ -16,6 +21,7 @@
 #642081 minecraft:brown_terracotta
 #00BE18 minecraft:calcite
 #1BD05D minecraft:carved_pumpkin
+#6A23D5 minecraft:cauldron
 #F522F4 minecraft:chest
 #7FDE54 minecraft:clay
 #8B43D8 minecraft:coal_block
@@ -52,6 +58,7 @@
 #3B3ABB tconstruct:earth_congealed_slime
 #F7856E byg:ebony_leaves
 #C00BD2 byg:ebony_log
+#4C963A minecraft:emerald_ore
 #C2610B minecraft:exposed_copper
 #850F87 minecraft:exposed_cut_copper_stairs
 #009B14 minecraft:farmland
@@ -107,6 +114,7 @@
 #1A43F4 electrodynamics:oremolybdenum
 #1CDEF7 electrodynamics:oremonazite
 #EE8C3B electrodynamics:oresulfur
+#60E4DD electrodynamics:orethorianite
 #266A57 electrodynamics:oretin
 #D222D1 electrodynamics:orevanadinite
 #FEAF9D byg:overgrown_stone
@@ -114,6 +122,7 @@
 #B75237 minecraft:packed_ice
 #AB1C58 minecraft:peony
 #83AE09 byg:pink_cherry_leaves
+#36285C minecraft:pink_tulip
 #522933 minecraft:pointed_dripstone
 #5CDCB7 minecraft:polished_basalt
 #B267E8 minecraft:polished_blackstone
@@ -146,6 +155,7 @@
 #74E2CA byg:soapstone
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
+#6B495B minecraft:spawner
 #5E33FE minecraft:spruce_door
 #13F5AC minecraft:spruce_leaves
 #DC3458 minecraft:stone
@@ -161,6 +171,7 @@
 #88779D minecraft:vine
 #6EC37C byg:white_cherry_leaves
 #B5D07E minecraft:white_stained_glass
+#1B60CF minecraft:white_tulip
 #BC20FE minecraft:white_wool
 #A5A77C byg:wood_blewit_mushroom_block
 #D9C16D quark:yellow_blossom_leaves

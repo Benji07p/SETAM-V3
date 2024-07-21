@@ -7,6 +7,7 @@
 #4CA minecraft:dripstone_caves
 #074 byg:ebony_woods
 #637 byg:firecracker_shrubland
+#674 minecraft:flower_forest
 #010 minecraft:forest
 #053 beyond_earth:glacio
 #6D9 beyond_earth:glacio_ice_spikes

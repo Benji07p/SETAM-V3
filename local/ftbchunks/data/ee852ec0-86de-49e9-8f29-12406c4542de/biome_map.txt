@@ -1,0 +1,13 @@
+#46B byg:autumnal_forest
+#388 byg:autumnal_taiga
+#36D byg:black_forest
+#2B9 byg:borealis_grove
+#06B byg:coniferous_forest
+#3A0 minecraft:frozen_river
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#73A minecraft:old_growth_pine_taiga
+#5FF minecraft:river
+#1D8 byg:skyris_vale
+#340 minecraft:snowy_taiga
+#152 minecraft:windswept_forest

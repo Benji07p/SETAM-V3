@@ -1,0 +1,13 @@
+#244 byg:atacama_desert
+#05B minecraft:bamboo_jungle
+#6D2 byg:dacite_shore
+#34D minecraft:deep_lukewarm_ocean
+#053 beyond_earth:glacio
+#79A minecraft:lukewarm_ocean
+#498 minecraft:lush_caves
+#07C byg:mojave_desert
+#4AA byg:rainbow_beach
+#4C0 byg:sierra_badlands
+#2B7 minecraft:warm_ocean
+#6F1 byg:windswept_beach
+#1C9 minecraft:wooded_badlands

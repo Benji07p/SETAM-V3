@@ -1,0 +1,10 @@
+#6C5 byg:aspen_forest
+#05B minecraft:bamboo_jungle
+#583 byg:dacite_ridges
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#5FF minecraft:river
+#3AF minecraft:sparse_jungle
+#6BC byg:tropical_rainforest

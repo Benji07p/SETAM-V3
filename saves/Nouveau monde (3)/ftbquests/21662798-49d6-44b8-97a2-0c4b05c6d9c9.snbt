@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "2166279849d644b897a20c4b05c6d9c9"
+	name: "Benji07p"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		4855F4AD82838683: 1
+	}
+	started: {
+		5B3BC61728374FB2: 1723308642267L
+		73D5A7C28A7C9B46: 1723308642267L
+		0000000000000001: 1723308642267L
+		4855F4AD82838683: 1723308642267L
+	}
+	completed: {
+		5B3BC61728374FB2: 1723308642267L
+		4855F4AD82838683: 1723308642267L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

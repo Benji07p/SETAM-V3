@@ -1,0 +1,9 @@
+#368 byg:allium_fields
+#47F minecraft:birch_forest
+#583 byg:dacite_ridges
+#010 minecraft:forest
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#1DF minecraft:old_growth_birch_forest
+#5FF minecraft:river
+#14F byg:temperate_rainforest

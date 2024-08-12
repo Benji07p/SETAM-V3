@@ -1,0 +1,6 @@
+#2B9 byg:borealis_grove
+#3A0 minecraft:frozen_river
+#6D9 beyond_earth:glacio_ice_spikes
+#1D8 byg:skyris_vale
+#72D minecraft:snowy_beach
+#340 minecraft:snowy_taiga

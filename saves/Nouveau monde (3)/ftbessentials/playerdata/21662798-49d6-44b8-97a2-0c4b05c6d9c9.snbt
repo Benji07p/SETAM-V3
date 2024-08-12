@@ -1,0 +1,13 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "beyond_earth:glacio", x: 1, y: 110, z: 1, time: 1723308694834L }
+	recording: 0
+	teleport_history: [
+		{ dim: "beyond_earth:glacio", x: 1, y: 110, z: 1, time: 1723308660246L }
+		{ dim: "beyond_earth:glacio", x: 1, y: 110, z: 1, time: 1723308687777L }
+	]
+	homes: { }
+}

@@ -4,6 +4,7 @@
 #18D108 minecraft:basalt
 #840F59 minecraft:bedrock
 #7C938F create:belt
+#73D2B3 minecraft:birch_planks
 #8C6FD4 byg:black_sand
 #1B2131 byg:black_sandstone
 #C9CBB9 minecraft:blackstone
@@ -28,6 +29,7 @@
 #C00BD2 byg:ebony_log
 #AB1E32 beyond_earth:glacio_coal_ore
 #F89DF9 beyond_earth:glacio_stone
+#2F436F minecraft:glass
 #5A75B0 minecraft:glow_lichen
 #060B35 minecraft:granite
 #3F84B7 minecraft:grass_block
@@ -48,6 +50,7 @@
 #80CAA6 minecraft:melon
 #454322 minecraft:netherrack
 #AD9EB5 minecraft:oak_leaves
+#E3886A minecraft:oak_planks
 #4A5E4E minecraft:obsidian
 #6F71C2 electrodynamics:orealuminum
 #0F7269 electrodynamics:orehalite
@@ -61,11 +64,13 @@
 #A9DF19 beyond_earth:permafrost
 #5CDCB7 minecraft:polished_basalt
 #437566 minecraft:polished_granite
+#1F3D4B byg:polished_travertine
 #AFAC0D minecraft:poppy
 #CB1F3C minecraft:powder_snow
 #213091 minecraft:raw_copper_block
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
+#3C4AE0 create:schematic_table
 #705189 minecraft:sea_lantern
 #D3CCFE create:shaft
 #3768ED beyond_earth:sky_stone

@@ -1,0 +1,10 @@
+#47F minecraft:birch_forest
+#010 minecraft:forest
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#2D6 minecraft:meadow
+#4F1 minecraft:ocean
+#60C minecraft:old_growth_spruce_taiga
+#5FF minecraft:river
+#169 minecraft:taiga
+#58E timeextraminer:war_biomes

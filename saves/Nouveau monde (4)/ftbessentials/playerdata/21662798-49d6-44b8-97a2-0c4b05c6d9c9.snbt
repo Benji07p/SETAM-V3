@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "beyond_earth:glacio", x: 464, y: 178, z: 448, time: 1723993941627L }
+	last_seen: { dim: "beyond_earth:glacio", x: 255, y: 113, z: 428, time: 1725635794971L }
 	recording: 0
 	teleport_history: [ ]
 	homes: { }

@@ -274,6 +274,7 @@
 		{
 			x: -2.0d
 			y: -5.5d
+			description: ["Can be duplicate in Atomic Assembler"]
 			dependencies: ["79F5BEBF0ACFAEB5"]
 			id: "4C51D45963F3C20D"
 			tasks: [{
@@ -285,6 +286,7 @@
 		{
 			x: 2.5d
 			y: -5.5d
+			description: ["Can be duplicate in Atomic Assembler"]
 			dependencies: ["4C51D45963F3C20D"]
 			id: "71406E69168674FF"
 			tasks: [{
@@ -296,6 +298,7 @@
 		{
 			x: 7.5d
 			y: -5.5d
+			description: ["Can be duplicate in Atomic Assembler"]
 			dependencies: ["71406E69168674FF"]
 			id: "5AA75B5981D8A6E9"
 			tasks: [{

@@ -112,6 +112,58 @@ onEvent('recipes', event => {
 	)
     }
 
+	//Duplication Ruthénium
+	duplication("{Damage:0}", "chemlib:ruthenium", 1, "{Damage:1}", 2)
+	duplication("{Damage:1}", "chemlib:ruthenium", 1, "{Damage:2}", 2)
+	duplication("{Damage:2}", "chemlib:ruthenium", 1, "{Damage:3}", 2)
+	duplication("{Damage:3}", "chemlib:ruthenium", 1, "{Damage:4}", 2)
+	duplication("{Damage:0}", "chemlib:ruthenium", 2, "{Damage:1}", 4)
+	duplication("{Damage:1}", "chemlib:ruthenium", 2, "{Damage:2}", 4)
+	duplication("{Damage:2}", "chemlib:ruthenium", 2, "{Damage:3}", 4)
+	duplication("{Damage:3}", "chemlib:ruthenium", 2, "{Damage:4}", 4)
+	duplication("{Damage:0}", "chemlib:ruthenium", 4, "{Damage:1}", 8)
+	duplication("{Damage:1}", "chemlib:ruthenium", 4, "{Damage:2}", 8)
+	duplication("{Damage:2}", "chemlib:ruthenium", 4, "{Damage:3}", 8)
+	duplication("{Damage:3}", "chemlib:ruthenium", 4, "{Damage:4}", 8)
+	duplication("{Damage:0}", "chemlib:ruthenium", 8, "{Damage:1}", 16)
+	duplication("{Damage:1}", "chemlib:ruthenium", 8, "{Damage:2}", 16)
+	duplication("{Damage:2}", "chemlib:ruthenium", 8, "{Damage:3}", 16)
+	duplication("{Damage:3}", "chemlib:ruthenium", 8, "{Damage:4}", 16)
+
+	duplication("{Damage:0}", "chemlib:ruthenium_ingot", 1, "{Damage:1}", 2)
+	duplication("{Damage:1}", "chemlib:ruthenium_ingot", 1, "{Damage:2}", 2)
+	duplication("{Damage:2}", "chemlib:ruthenium_ingot", 1, "{Damage:3}", 2)
+	duplication("{Damage:3}", "chemlib:ruthenium_ingot", 1, "{Damage:4}", 2)
+	duplication("{Damage:0}", "chemlib:ruthenium_ingot", 2, "{Damage:1}", 4)
+	duplication("{Damage:1}", "chemlib:ruthenium_ingot", 2, "{Damage:2}", 4)
+	duplication("{Damage:2}", "chemlib:ruthenium_ingot", 2, "{Damage:3}", 4)
+	duplication("{Damage:3}", "chemlib:ruthenium_ingot", 2, "{Damage:4}", 4)
+	duplication("{Damage:0}", "chemlib:ruthenium_ingot", 4, "{Damage:1}", 8)
+	duplication("{Damage:1}", "chemlib:ruthenium_ingot", 4, "{Damage:2}", 8)
+	duplication("{Damage:2}", "chemlib:ruthenium_ingot", 4, "{Damage:3}", 8)
+	duplication("{Damage:3}", "chemlib:ruthenium_ingot", 4, "{Damage:4}", 8)
+	duplication("{Damage:0}", "chemlib:ruthenium_ingot", 8, "{Damage:1}", 16)
+	duplication("{Damage:1}", "chemlib:ruthenium_ingot", 8, "{Damage:2}", 16)
+	duplication("{Damage:2}", "chemlib:ruthenium_ingot", 8, "{Damage:3}", 16)
+	duplication("{Damage:3}", "chemlib:ruthenium_ingot", 8, "{Damage:4}", 16)
+
+	duplication("{Damage:0}", "chemlib:ruthenium_metal_block", 1, "{Damage:1}", 2)
+	duplication("{Damage:1}", "chemlib:ruthenium_metal_block", 1, "{Damage:2}", 2)
+	duplication("{Damage:2}", "chemlib:ruthenium_metal_block", 1, "{Damage:3}", 2)
+	duplication("{Damage:3}", "chemlib:ruthenium_metal_block", 1, "{Damage:4}", 2)
+	duplication("{Damage:0}", "chemlib:ruthenium_metal_block", 2, "{Damage:1}", 4)
+	duplication("{Damage:1}", "chemlib:ruthenium_metal_block", 2, "{Damage:2}", 4)
+	duplication("{Damage:2}", "chemlib:ruthenium_metal_block", 2, "{Damage:3}", 4)
+	duplication("{Damage:3}", "chemlib:ruthenium_metal_block", 2, "{Damage:4}", 4)
+	duplication("{Damage:0}", "chemlib:ruthenium_metal_block", 4, "{Damage:1}", 8)
+	duplication("{Damage:1}", "chemlib:ruthenium_metal_block", 4, "{Damage:2}", 8)
+	duplication("{Damage:2}", "chemlib:ruthenium_metal_block", 4, "{Damage:3}", 8)
+	duplication("{Damage:3}", "chemlib:ruthenium_metal_block", 4, "{Damage:4}", 8)
+	duplication("{Damage:0}", "chemlib:ruthenium_metal_block", 8, "{Damage:1}", 16)
+	duplication("{Damage:1}", "chemlib:ruthenium_metal_block", 8, "{Damage:2}", 16)
+	duplication("{Damage:2}", "chemlib:ruthenium_metal_block", 8, "{Damage:3}", 16)
+	duplication("{Damage:3}", "chemlib:ruthenium_metal_block", 8, "{Damage:4}", 16)
+
 	//Craft 1 Ruthénium
 	atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:0}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:rhenium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', "{Damage:1}")
     atomicAssembler("timeextraminer:positrons", 2, "electrodynamics:ingotsilver", 5, "{Damage:1}", "electrodynamics:ingotmolybdenum", "", 5, "chemlib:rhenium_ingot", 5, '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_5rnr3krs6iqxyry8aak7bzfyg"}}', "{Damage:2}")
@@ -255,4 +307,110 @@ onEvent('recipes', event => {
 				"loops": 2
 			  }
 		)
+
+
+	function duplication(nbtinput, input, amount, nbtoutput, outamount2){
+        
+		//Atomic Duplicator Craft
+		event.custom(
+			{
+				"type": "custommachinery:custom_machine",
+				"machine": "setamvtroismm:atomic_assembler",
+				"time": 12000,
+				"requirements": [
+					{
+						"type": "custommachinery:energy_per_tick",
+						"mode": "input",
+						"amount": 80
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "input1",
+						"nbt": nbtinput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "input2",
+						"nbt": nbtinput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "input3",
+						"nbt": nbtinput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "input4",
+						"nbt": nbtinput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "input5",
+						"nbt": nbtinput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "input6",
+						"nbt": nbtinput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "input",
+						"item": input,
+						"amount": amount,
+						"slot": "input7"
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "output",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "output1",
+						"nbt": nbtoutput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "output",
+						"item": input,
+						"amount": outamount2,
+						"slot": "output2"
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "output",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "output3",
+						"nbt": nbtoutput
+					},
+					{
+						"type": "custommachinery:item",
+						"mode": "output",
+						"item": "nuclearscience:celldarkmatter",
+						"amount": 1,
+						"slot": "output4",
+						"nbt": nbtoutput
+					}
+				]
+			}
+		)
+	}
 })

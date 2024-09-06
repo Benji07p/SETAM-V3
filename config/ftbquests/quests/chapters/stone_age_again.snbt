@@ -28,7 +28,7 @@
 					id: "42EFD43691B593C2"
 					type: "item"
 					item: "minecraft:cooked_beef"
-					count: 32
+					count: 128
 				}
 			]
 		}
@@ -301,6 +301,20 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "06EE6BA63480C7DC"
+					type: "item"
+					item: "electrodynamics:sheetplastic"
+					count: 10
+				}
+				{
+					id: "1EE891D5CFB757F4"
+					type: "item"
+					item: "minecraft:redstone"
+					count: 4
+				}
+			]
 		}
 		{
 			title: "Ok this is your first machine"
@@ -312,6 +326,12 @@
 				id: "2359FF5E54E08324"
 				type: "item"
 				item: "electrodynamics:mineralgrinder"
+			}]
+			rewards: [{
+				id: "1F0424B32A64BEE8"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 4
 			}]
 		}
 		{

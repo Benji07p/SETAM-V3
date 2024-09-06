@@ -82,6 +82,11 @@
 					item: "tconstruct:seared_fuel_tank"
 				}
 			]
+			rewards: [{
+				id: "16522F973A95DF56"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 		}
 		{
 			title: "Volcano Creator"
@@ -144,9 +149,10 @@
 				item: "computercraft:computer_normal"
 			}]
 			rewards: [{
-				id: "31A7537C3BB1678D"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "6FEB3DEA1736287E"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 16
 			}]
 		}
 		{
@@ -215,12 +221,20 @@
 				type: "item"
 				item: "minecraft:obsidian"
 			}]
-			rewards: [{
-				id: "2EFA5D672D1B0511"
-				type: "item"
-				item: "minecraft:deepslate_diamond_ore"
-				count: 2
-			}]
+			rewards: [
+				{
+					id: "2EFA5D672D1B0511"
+					type: "item"
+					item: "minecraft:deepslate_diamond_ore"
+					count: 2
+				}
+				{
+					id: "5EA38A6AFF469099"
+					type: "item"
+					item: "minecraft:redstone"
+					count: 3
+				}
+			]
 		}
 		{
 			title: "Second Machine !"
@@ -238,7 +252,6 @@
 			title: "Power of molecules !"
 			x: 17.0d
 			y: -11.5d
-			description: [""]
 			dependencies: ["44D31AB4EA2F56BC"]
 			id: "47D02FAABB328E1B"
 			tasks: [{
@@ -255,6 +268,12 @@
 				id: "533D0015419D6FD7"
 				type: "item"
 				item: "create:spout"
+			}]
+			rewards: [{
+				id: "784F2508856B325D"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 16
 			}]
 		}
 		{
@@ -320,6 +339,12 @@
 				id: "6296E16DADE61316"
 				type: "item"
 				item: "electrodynamics:circuitadvanced"
+			}]
+			rewards: [{
+				id: "02F5489982939A12"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 32
 			}]
 		}
 		{

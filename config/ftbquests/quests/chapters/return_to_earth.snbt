@@ -59,6 +59,12 @@
 				type: "item"
 				item: "car:canola_seeds"
 			}]
+			rewards: [{
+				id: "00C7B0E07F54BF4E"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 16
+			}]
 		}
 		{
 			x: 52.5d

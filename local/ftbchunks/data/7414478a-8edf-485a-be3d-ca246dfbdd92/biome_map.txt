@@ -1,0 +1,11 @@
+#6F6 minecraft:badlands
+#008 minecraft:desert
+#614 minecraft:eroded_badlands
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#07C byg:mojave_desert
+#5FF minecraft:river
+#51A minecraft:stony_shore
+#2B7 minecraft:warm_ocean
+#6F1 byg:windswept_beach
+#467 byg:windswept_desert

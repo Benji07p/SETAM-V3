@@ -1,0 +1,7 @@
+#46B byg:autumnal_forest
+#4CA minecraft:dripstone_caves
+#6D9 beyond_earth:glacio_ice_spikes
+#286 minecraft:grove
+#54B byg:howling_peaks
+#1D8 byg:skyris_vale
+#340 minecraft:snowy_taiga

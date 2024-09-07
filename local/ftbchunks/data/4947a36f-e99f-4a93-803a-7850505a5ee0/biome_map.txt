@@ -1,0 +1,6 @@
+#008 minecraft:desert
+#4CA minecraft:dripstone_caves
+#053 beyond_earth:glacio
+#07C byg:mojave_desert
+#5FF minecraft:river
+#467 byg:windswept_desert

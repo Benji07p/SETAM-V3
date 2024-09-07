@@ -1,0 +1,10 @@
+#244 byg:atacama_desert
+#00A byg:cypress_swamplands
+#008 minecraft:desert
+#053 beyond_earth:glacio
+#1DB byg:red_rock_valley
+#5FF minecraft:river
+#4D3 minecraft:swamp
+#2B7 minecraft:warm_ocean
+#6F1 byg:windswept_beach
+#579 minecraft:windswept_savanna

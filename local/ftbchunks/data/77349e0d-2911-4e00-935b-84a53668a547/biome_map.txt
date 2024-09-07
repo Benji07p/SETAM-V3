@@ -1,0 +1,16 @@
+#368 byg:allium_fields
+#6C5 byg:aspen_forest
+#41B byg:basalt_barrera
+#4B5 byg:canadian_shield
+#1FE byg:coconino_meadow
+#06B byg:coniferous_forest
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#79C byg:maple_taiga
+#2D6 minecraft:meadow
+#4F1 minecraft:ocean
+#73A minecraft:old_growth_pine_taiga
+#5FF minecraft:river
+#169 minecraft:taiga

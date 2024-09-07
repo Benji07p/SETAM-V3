@@ -1,0 +1,9 @@
+#556 minecraft:beach
+#1FE byg:coconino_meadow
+#010 minecraft:forest
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#79C byg:maple_taiga
+#2D6 minecraft:meadow
+#3DC minecraft:plains
+#5FF minecraft:river

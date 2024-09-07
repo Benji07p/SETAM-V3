@@ -1,0 +1,9 @@
+#1FE byg:coconino_meadow
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#3FC byg:fragment_forest
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#3DC minecraft:plains
+#5FF minecraft:river
+#11C byg:zelkova_forest

@@ -30,6 +30,17 @@
 					item: "minecraft:cooked_beef"
 					count: 128
 				}
+				{
+					id: "75A867A09B856D7C"
+					type: "item"
+					item: {
+						id: "minecraft:leather_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
 			]
 		}
 		{

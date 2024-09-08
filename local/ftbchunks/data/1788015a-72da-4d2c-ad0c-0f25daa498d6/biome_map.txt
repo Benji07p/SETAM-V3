@@ -1,0 +1,13 @@
+#368 byg:allium_fields
+#47F minecraft:birch_forest
+#583 byg:dacite_ridges
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#508 minecraft:frozen_peaks
+#053 beyond_earth:glacio
+#6D9 beyond_earth:glacio_ice_spikes
+#286 minecraft:grove
+#498 minecraft:lush_caves
+#1DF minecraft:old_growth_birch_forest
+#73A minecraft:old_growth_pine_taiga
+#169 minecraft:taiga

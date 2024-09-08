@@ -1,0 +1,219 @@
+{
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-09-08 18:29:23 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:raworetin": {
+    "criteria": {
+      "HasRawTinOre": "2024-09-08 17:18:06 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:coalgenerator": {
+    "criteria": {
+      "HasCoalGenerator": "2024-09-08 17:47:59 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-09-08 16:56:51 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-09-08 17:23:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-09-08 17:09:44 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-09-08 18:00:00 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "rock": "2024-09-08 16:56:51 +0200",
+      "wood": "2024-09-08 16:56:51 +0200",
+      "nahuatl": "2024-09-08 16:56:51 +0200"
+    },
+    "done": false
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2024-09-08 18:58:34 +0200",
+      "seared_table": "2024-09-08 19:01:47 +0200",
+      "seared_basin": "2024-09-08 19:02:23 +0200",
+      "seared_faucet": "2024-09-08 18:58:52 +0200",
+      "seared_melter": "2024-09-08 19:01:47 +0200"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-08 17:09:44 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "blastfurnace": "2024-09-08 17:19:58 +0200"
+    },
+    "done": false
+  },
+  "electrodynamics:electrodynamics/guidebook": {
+    "criteria": {
+      "spawn": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-09-08 19:35:09 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-09-08 17:22:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-08 17:09:44 +0200"
+    },
+    "done": true
+  },
+  "tardim:tardim/root": {
+    "criteria": {
+      "discovers_rotor": "2024-09-08 16:54:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-09-08 19:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-08 16:57:56 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2024-09-08 16:56:51 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-09-08 16:58:58 +0200"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2024-09-08 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-09-08 17:20:34 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-09-08 16:56:46 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:insulation": {
+    "criteria": {
+      "HasInsulation": "2024-09-08 17:29:22 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:wiring": {
+    "criteria": {
+      "HasCopperWire": "2024-09-08 17:29:40 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "blastfurnace": "2024-09-08 17:19:58 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:root": {
+    "criteria": {
+      "HasCraftingTable": "2024-09-08 16:58:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-08 19:35:50 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:insulatedwiring": {
+    "criteria": {
+      "HasCopperInsulatedWire": "2024-09-08 17:29:50 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:mineralgrinder": {
+    "criteria": {
+      "HasGrinder": "2024-09-08 17:34:12 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

@@ -1,13 +1,13 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1725807243118L
+	last_login_time: 1725901660101L
 	chunks: {
 		"beyond_earth:glacio": [
-			{ x: 1, z: 0, time: 1725811339981L }
-			{ x: 1, z: 1, time: 1725811339979L }
-			{ x: 0, z: 0, time: 1725811339980L }
-			{ x: 0, z: 1, time: 1725811339980L }
+			{ x: 1, z: 0, time: 1725811339981L, force_loaded: 1725902906727L }
+			{ x: 1, z: 1, time: 1725811339979L, force_loaded: 1725902906721L }
+			{ x: 0, z: 0, time: 1725811339980L, force_loaded: 1725902906726L }
+			{ x: 0, z: 1, time: 1725811339980L, force_loaded: 1725902906726L }
 		]
 	}
 	member_data: {

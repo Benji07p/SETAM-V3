@@ -11,15 +11,15 @@
     },
     "done": true
   },
-  "electrodynamics:coalgenerator": {
-    "criteria": {
-      "HasCoalGenerator": "2024-09-08 17:47:59 +0200"
-    },
-    "done": true
-  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2024-09-08 16:56:51 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:coalgenerator": {
+    "criteria": {
+      "HasCoalGenerator": "2024-09-08 17:47:59 +0200"
     },
     "done": true
   },
@@ -44,6 +44,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-09-08 17:23:52 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2024-09-09 19:09:40 +0200"
     },
     "done": true
   },
@@ -83,9 +89,21 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-09-09 19:35:52 +0200"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-09-08 17:09:44 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:electrodynamics/guidebook": {
+    "criteria": {
+      "spawn": "2024-09-08 16:54:12 +0200"
     },
     "done": true
   },
@@ -94,12 +112,6 @@
       "blastfurnace": "2024-09-08 17:19:58 +0200"
     },
     "done": false
-  },
-  "electrodynamics:electrodynamics/guidebook": {
-    "criteria": {
-      "spawn": "2024-09-08 16:54:12 +0200"
-    },
-    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -113,15 +125,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-09-08 17:22:39 +0200"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-09-08 17:09:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-09-08 17:22:39 +0200"
     },
     "done": true
   },
@@ -161,6 +173,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "blood": "2024-09-09 19:38:28 +0200"
+    },
+    "done": false
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-09-08 17:20:34 +0200"
@@ -170,6 +188,12 @@
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2024-09-08 16:56:46 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "blastfurnace": "2024-09-08 17:19:58 +0200"
     },
     "done": true
   },
@@ -185,27 +209,21 @@
     },
     "done": true
   },
-  "morevillagers:first_workstation_get": {
-    "criteria": {
-      "blastfurnace": "2024-09-08 17:19:58 +0200"
-    },
-    "done": true
-  },
   "electrodynamics:root": {
     "criteria": {
       "HasCraftingTable": "2024-09-08 16:58:58 +0200"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-09-08 19:35:50 +0200"
-    },
-    "done": true
-  },
   "electrodynamics:insulatedwiring": {
     "criteria": {
       "HasCopperInsulatedWire": "2024-09-08 17:29:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-08 19:35:50 +0200"
     },
     "done": true
   },

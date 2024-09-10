@@ -1,4 +1,10 @@
 {
+  "create:spout": {
+    "criteria": {
+      "0": "2024-09-10 19:59:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2024-09-08 18:29:23 +0200"
@@ -59,6 +65,12 @@
     },
     "done": false
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-09-10 19:59:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-09-08 18:00:00 +0200"
@@ -98,6 +110,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-09-08 17:09:44 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-09-10 19:59:20 +0200"
     },
     "done": true
   },
@@ -143,6 +161,12 @@
     },
     "done": true
   },
+  "electrodynamics:wiremill": {
+    "criteria": {
+      "HasMill": "2024-09-10 19:49:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-09-08 19:37:16 +0200"
@@ -175,6 +199,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2024-09-10 19:59:58 +0200",
       "blood": "2024-09-09 19:38:28 +0200"
     },
     "done": false
@@ -188,6 +213,12 @@
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2024-09-08 16:56:46 +0200"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-09-10 19:53:42 +0200"
     },
     "done": true
   },
@@ -224,6 +255,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-09-08 19:35:50 +0200"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-09-10 20:31:10 +0200"
     },
     "done": true
   },

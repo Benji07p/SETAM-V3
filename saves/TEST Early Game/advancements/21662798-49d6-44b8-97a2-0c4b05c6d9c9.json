@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2024-09-11 18:32:39 +0200"
+    },
+    "done": true
+  },
   "electrodynamics:raworetin": {
     "criteria": {
       "HasRawTinOre": "2024-09-08 17:18:06 +0200"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2024-09-11 18:32:05 +0200"
     },
     "done": true
   },

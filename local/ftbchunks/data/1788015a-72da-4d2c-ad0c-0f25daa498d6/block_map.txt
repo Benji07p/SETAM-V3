@@ -41,6 +41,7 @@
 #EE8C3B electrodynamics:oresulfur
 #BE2B3C byg:overgrown_dacite
 #B75237 minecraft:packed_ice
+#A9DF19 beyond_earth:permafrost
 #18F386 byg:pink_allium_flower_bush
 #27C02B quark:pink_blossom_leaves
 #BB7F65 minecraft:podzol

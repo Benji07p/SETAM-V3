@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "beyond_earth:glacio", x: 16, y: 102, z: 16, time: 1726077224397L }
+	last_seen: { dim: "minecraft:overworld", x: 33, y: 157, z: 34, time: 1726162388171L }
 	recording: 0
 	teleport_history: [
-		{ dim: "beyond_earth:glacio", x: 12, y: 102, z: 9, time: 1725901982131L }
-		{ dim: "beyond_earth:glacio", x: 109, y: -54, z: -1399, time: 1725901994699L }
-		{ dim: "beyond_earth:glacio", x: -62, y: 5, z: 23, time: 1725903029891L }
-		{ dim: "beyond_earth:glacio", x: 8, y: 102, z: 17, time: 1725903627033L }
-		{ dim: "beyond_earth:glacio", x: 12, y: 102, z: 10, time: 1725904142912L }
-		{ dim: "beyond_earth:glacio", x: 109, y: -53, z: -1403, time: 1725904153140L }
-		{ dim: "beyond_earth:glacio", x: -238, y: 26, z: -137, time: 1725990290577L }
 		{ dim: "beyond_earth:glacio", x: 5, y: 102, z: 14, time: 1725991091824L }
 		{ dim: "beyond_earth:glacio", x: 109, y: -54, z: -1399, time: 1725991113433L }
 		{ dim: "beyond_earth:glacio", x: -66, y: 11, z: -27, time: 1726071999490L }
+		{ dim: "beyond_earth:glacio", x: -58, y: 69, z: -53, time: 1726151499912L }
+		{ dim: "beyond_earth:glacio", x: 25, y: -35, z: 103, time: 1726152700852L }
+		{ dim: "beyond_earth:glacio", x: -71, y: 10, z: 36, time: 1726154867445L }
+		{ dim: "beyond_earth:glacio", x: -12, y: -5, z: -119, time: 1726157908517L }
+		{ dim: "beyond_earth:glacio", x: -42, y: -43, z: -16, time: 1726160207724L }
+		{ dim: "beyond_earth:glacio", x: -41, y: 8, z: -16, time: 1726160365818L }
+		{ dim: "beyond_earth:glacio", x: -79, y: -31, z: -104, time: 1726161462922L }
 	]
 	homes: {
 		home: { dim: "beyond_earth:glacio", x: 13, y: 102, z: 14, time: 1725807820418L }

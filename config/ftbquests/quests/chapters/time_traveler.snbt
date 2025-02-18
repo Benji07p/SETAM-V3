@@ -12,6 +12,7 @@
 			x: -2.0d
 			y: 3.0d
 			shape: "gear"
+			subtitle: "/travel x y z timeextraminer:war_dimension"
 			size: 3.0d
 			id: "33997829AD11FE53"
 			tasks: [{

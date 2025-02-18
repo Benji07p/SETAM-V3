@@ -1,6 +1,0 @@
-#2B9 byg:borealis_grove
-#575 byg:cardinal_tundra
-#3A0 minecraft:frozen_river
-#6D9 beyond_earth:glacio_ice_spikes
-#4E5 minecraft:snowy_plains
-#340 minecraft:snowy_taiga

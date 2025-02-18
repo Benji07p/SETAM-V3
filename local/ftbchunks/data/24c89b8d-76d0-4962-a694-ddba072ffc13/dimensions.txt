@@ -1,3 +1,0 @@
-minecraft:overworld
-beyond_earth:glacio
-rftoolsdim:quantum

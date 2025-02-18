@@ -1,7 +1,0 @@
-#1FE byg:coconino_meadow
-#010 minecraft:forest
-#053 beyond_earth:glacio
-#6D9 beyond_earth:glacio_ice_spikes
-#5FF minecraft:river
-#169 minecraft:taiga
-#11C byg:zelkova_forest

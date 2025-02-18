@@ -1,9 +1,0 @@
-#674 minecraft:flower_forest
-#0F2 byg:forgotten_forest
-#053 beyond_earth:glacio
-#6D9 beyond_earth:glacio_ice_spikes
-#6DB byg:orchard
-#3DC minecraft:plains
-#634 byg:prairie
-#5FF minecraft:river
-#774 minecraft:sunflower_plains

@@ -1,3 +1,0 @@
-#3DE minecraft:deep_ocean
-#053 beyond_earth:glacio
-#6D9 beyond_earth:glacio_ice_spikes

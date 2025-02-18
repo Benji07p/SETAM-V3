@@ -1,7 +1,0 @@
-#053 beyond_earth:glacio
-#79A minecraft:lukewarm_ocean
-#07C byg:mojave_desert
-#1DB byg:red_rock_valley
-#5FF minecraft:river
-#2B7 minecraft:warm_ocean
-#6F1 byg:windswept_beach

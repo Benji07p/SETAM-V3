@@ -1562,7 +1562,7 @@ onEvent('recipes', event => {
         "post": [
           {
             "type": "execute",
-            "command": "say xxxxx9787",
+            "command": "tellraw @a [\"\",{\"text\":\"T\",\"color\":\"#780000\"},{\"text\":\"H\",\"color\":\"#780078\"},{\"text\":\"A\",\"color\":\"#000078\"},{\"text\":\"N\",\"color\":\"#3E3EB7\"},{\"text\":\"K\",\"color\":\"#3EB73E\"},{\"text\":\" Y\",\"color\":\"#007800\"},{\"text\":\"O\",\"color\":\"#B7B73E\"},{\"text\":\"U\",\"color\":\"#B73E3E\"},{\"text\":\" F\",\"color\":\"#B73EB7\"},{\"text\":\"O\",\"color\":\"#B77800\"},{\"text\":\"R\",\"color\":\"#007878\"},{\"text\":\" P\",\"color\":\"#3EB7B7\"},{\"text\":\"L\",\"color\":\"#787878\"},{\"text\":\"A\",\"color\":\"#B7B7B7\"},{\"text\":\"Y\",\"color\":\"#3E3E3E\"},{\"text\":\"I\",\"color\":\"#780000\"},{\"text\":\"N\",\"color\":\"#780078\"},{\"text\":\"G\",\"color\":\"#000078\"},{\"text\":\" S\",\"color\":\"#3EB73E\"},{\"text\":\"E\",\"color\":\"#3EB7B7\"},{\"text\":\"T\",\"color\":\"#3E3EB7\"},{\"text\":\"A\",\"color\":\"#B7B7B7\"},{\"text\":\"M\",\"color\":\"#B73EB7\"},{\"text\":\" V3\",\"color\":\"#B73E3E\"}]",
             "hide": true
           }
         ]

@@ -1,0 +1,175 @@
+{
+	id: "694C34359C328E4E"
+	group: ""
+	order_index: 0
+	filename: "welcome"
+	title: "Welcome !"
+	icon: "beyond_earth:permafrost"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "beyond_earth:permafrost"
+			x: -1.0d
+			y: 0.5d
+			subtitle: "Welcome !"
+			description: ["Have fun :)"]
+			dependencies: [
+				"4E6390101E786D9E"
+				"503E6EE74B166975"
+				"6134204D99BD0F97"
+				"2F37EE6521289E74"
+				"5DB7B15B71DC986F"
+			]
+			size: 2.0d
+			id: "417B27BAFA217742"
+			tasks: [{
+				id: "5D941C4D693560CD"
+				type: "checkmark"
+				title: "Welcome !"
+			}]
+		}
+		{
+			icon: "ftbquests:book"
+			x: -1.0d
+			y: -2.5d
+			subtitle: "Create your team"
+			description: [
+				"To share your quests with your friends, you need to create a team. "
+				""
+				"To do this, type the command: /ftbteams party create. "
+				""
+				"Now go to your inventory menu and click on the button \"My Team\" at the top left. "
+				"You can, from there, click on Settings to configure your team (name, color, description, etc.) "
+				""
+				"You just have to invite your friends with the command: "
+				"/ftbteams party invite <NAME> "
+				""
+				"Your friends just have to accept, and you are now in a team. "
+				""
+				"If you want to join an already existing team you just have to type the command: "
+				"/ftbteams party join <TEAM> <NAME>"
+			]
+			id: "4E6390101E786D9E"
+			tasks: [{
+				id: "6F2D191191E56391"
+				type: "checkmark"
+				title: "FTB Quests"
+			}]
+		}
+		{
+			icon: "computercraft:pocket_computer_advanced"
+			x: -4.0d
+			y: 0.5d
+			subtitle: "Contact Us"
+			description: [
+				"Hi, I'm Benji, the creator of this modpack."
+				"This is my first modpack, so it might have some issues."
+				"If you encounter any bugs or other problems, please report them on GitHub: github.com/Benji07p/SETAM-V3/issues"
+			]
+			id: "503E6EE74B166975"
+			tasks: [{
+				id: "66C126E1AE56047D"
+				type: "checkmark"
+				title: "Contact"
+			}]
+		}
+		{
+			icon: "rftoolsbuilder:builder"
+			x: 2.0d
+			y: 0.5d
+			subtitle: "Control Fake Player"
+			description: [
+				"On this pack you have the FTB Chunks, which allows you to claim your chunks and protect them from any potential griefs."
+				""
+				"But when you place a Block Placer, a Wither Builder or other machine that places or breaks blocks automatically, they don't work. "
+				"This is normal, you'll need to authorize Fake Player in your chunk config. "
+				""
+				"To do so, you must click, in your inventory, the icon at the top left which represents three players (blue, green and red)"
+				"Then click the gear on the top right. And there you have all the configurations that you can customize for your chunks."
+				" "
+				"&cBE CAREFUL, by accepting all fake players, anyone on your server will be able to use an RFTools builder (for example) to grief."
+			]
+			id: "6134204D99BD0F97"
+			tasks: [{
+				id: "5A78822C1E01E91C"
+				type: "checkmark"
+				title: "Fake Player"
+			}]
+		}
+		{
+			icon: "quark:diamond_heart"
+			x: -3.0d
+			y: 2.5d
+			subtitle: "Thanks to them"
+			description: [
+				"Thanks to my beta tester."
+				"This modpack wouldn't exist without them."
+			]
+			id: "2F37EE6521289E74"
+			tasks: [{
+				id: "76F9834E2404EBA9"
+				type: "checkmark"
+				title: "Thanks"
+			}]
+		}
+		{
+			icon: "extendedcrafting:ultimate_singularity"
+			x: -1.0d
+			y: 3.5d
+			subtitle: "Be prepared"
+			description: [
+				"In this modpack, you'll need to passively farm certain resources to progress efficiently."
+				""
+				"Make a habit of checking which resources are required by each mod, so you can start farming them early."
+				"That way, you won't face long waiting times later in the game."
+			]
+			id: "5DB7B15B71DC986F"
+			tasks: [{
+				id: "5E853CB682819394"
+				type: "checkmark"
+				title: "Be prepared"
+			}]
+		}
+		{
+			icon: {
+				id: "computercraft:disk"
+				Count: 1b
+				tag: {
+					Color: 1118481
+				}
+			}
+			x: 1.0d
+			y: -1.5d
+			id: "6EC4469FBB7BA4DE"
+			tasks: [{
+				id: "02F7C72CB06CFE95"
+				type: "checkmark"
+				title: "About"
+			}]
+		}
+		{
+			icon: "computercraft:printed_book"
+			x: -3.0d
+			y: -1.5d
+			id: "74B9484D6823133F"
+			tasks: [{
+				id: "4A3D1186CB32FF58"
+				type: "checkmark"
+				title: "Story"
+			}]
+		}
+		{
+			icon: "minecraft:bedrock"
+			x: 1.0d
+			y: 2.5d
+			id: "753D7653771C14BF"
+			tasks: [{
+				id: "0E8C53415D55411C"
+				type: "checkmark"
+				title: "Goals"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

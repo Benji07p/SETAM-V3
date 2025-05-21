@@ -12,6 +12,7 @@
 			title: "Beginning !"
 			x: -6.5d
 			y: -0.5d
+			dependencies: ["333C9DACC4A4B476"]
 			id: "5B3BC61728374FB2"
 			tasks: [{
 				id: "4855F4AD82838683"

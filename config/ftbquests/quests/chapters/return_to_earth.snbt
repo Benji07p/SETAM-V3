@@ -24,7 +24,10 @@
 		{
 			x: 49.0d
 			y: 4.5d
-			dependencies: ["7FDBD2BD16D80A0F"]
+			dependencies: [
+				"7FDBD2BD16D80A0F"
+				"2001993FCD75907C"
+			]
 			id: "79DBF2E3049A4C3F"
 			tasks: [{
 				id: "759DAE6CB0EB68A0"
@@ -80,6 +83,7 @@
 		{
 			x: 52.5d
 			y: 8.5d
+			dependencies: ["2001993FCD75907C"]
 			id: "1EDF7454C11F264A"
 			tasks: [{
 				id: "06550F1215D4003B"

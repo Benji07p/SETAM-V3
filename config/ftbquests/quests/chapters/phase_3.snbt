@@ -3,7 +3,7 @@
 	group: "68ED07BD49A7098E"
 	order_index: 6
 	filename: "phase_3"
-	title: "Phase 3"
+	title: "Endgame"
 	icon: "extendedcrafting:ultimate_singularity"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -11,6 +11,7 @@
 		{
 			x: -13.0d
 			y: -2.0d
+			dependencies: ["1C5043478352FBEC"]
 			size: 2.0d
 			id: "0B20A232CEC3CA8D"
 			tasks: [{

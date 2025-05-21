@@ -12,7 +12,10 @@
 			title: "Tinkers !"
 			x: -4.5d
 			y: -7.5d
-			dependencies: ["0D1DB81B7928C2CD"]
+			dependencies: [
+				"0D1DB81B7928C2CD"
+				"53D2AF6C549E9B7D"
+			]
 			id: "250A4850E61882D5"
 			tasks: [
 				{
@@ -263,6 +266,7 @@
 		{
 			x: 17.0d
 			y: -7.0d
+			dependencies: ["53D2AF6C549E9B7D"]
 			id: "673E4BB4D2DD6D70"
 			tasks: [{
 				id: "533D0015419D6FD7"
@@ -280,6 +284,7 @@
 			title: "Third Machine ?"
 			x: 17.0d
 			y: -15.5d
+			dependencies: ["53D2AF6C549E9B7D"]
 			id: "42506F4220E723DD"
 			tasks: [{
 				id: "2683CBF754FF488E"

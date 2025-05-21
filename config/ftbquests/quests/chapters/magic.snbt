@@ -69,6 +69,7 @@
 			x: -10.0d
 			y: -0.5d
 			shape: "diamond"
+			dependencies: ["199C1481902CF8B4"]
 			size: 1.5d
 			id: "489DA499F9880A8D"
 			tasks: [{
@@ -179,6 +180,7 @@
 		{
 			x: 0.5d
 			y: -1.5d
+			dependencies: ["199C1481902CF8B4"]
 			id: "3098F0672258C76D"
 			tasks: [{
 				id: "317C2DAB2BB2B662"
@@ -189,6 +191,7 @@
 		{
 			x: 0.5d
 			y: 0.5d
+			dependencies: ["199C1481902CF8B4"]
 			id: "7FD91AE01D97E880"
 			tasks: [{
 				id: "3B14BF0B58B7F181"

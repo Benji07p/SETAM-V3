@@ -1,0 +1,116 @@
+{
+	id: "26994BA5E0CC5C1D"
+	group: ""
+	order_index: 1
+	filename: "progression"
+	title: "Progression"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Stone Age... Again ?"
+			icon: "minecraft:stone"
+			x: -3.0d
+			y: 0.0d
+			dependencies: ["694C34359C328E4E"]
+			id: "333C9DACC4A4B476"
+			tasks: [{
+				id: "3244E714F9C5C423"
+				type: "checkmark"
+				title: "Stone Age... Again ?"
+			}]
+		}
+		{
+			icon: "minecraft:magma_block"
+			x: -1.0d
+			y: 0.0d
+			dependencies: [
+				"73D5A7C28A7C9B46"
+				"333C9DACC4A4B476"
+			]
+			id: "53D2AF6C549E9B7D"
+			tasks: [{
+				id: "520F6D422735BEB6"
+				type: "checkmark"
+				title: "Magmatic Experiment"
+			}]
+		}
+		{
+			icon: "minecraft:grass_block"
+			x: 1.0d
+			y: 0.0d
+			dependencies: [
+				"53D2AF6C549E9B7D"
+				"7FDBD2BD16D80A0F"
+				"5C4CFA8419E10C1F"
+			]
+			id: "2001993FCD75907C"
+			tasks: [{
+				id: "1ECC9AFEB570FC3A"
+				type: "checkmark"
+				title: "Return to Earth"
+			}]
+		}
+		{
+			icon: "minecraft:bedrock"
+			x: 3.0d
+			y: 0.0d
+			dependencies: [
+				"60FEB1B82E0BF817"
+				"2001993FCD75907C"
+			]
+			id: "62A352D711C64326"
+			tasks: [{
+				id: "479595D4C7693A80"
+				type: "checkmark"
+				title: "Bedrock Crafting"
+			}]
+		}
+		{
+			icon: "mythicbotany:central_rune_holder"
+			x: 5.0d
+			y: 0.0d
+			dependencies: [
+				"6A74C2577E9C6ACE"
+				"62A352D711C64326"
+			]
+			id: "199C1481902CF8B4"
+			tasks: [{
+				id: "5161CE9A501EA471"
+				type: "checkmark"
+				title: "Magic"
+			}]
+		}
+		{
+			icon: "timeextraminer:times_block"
+			x: 7.0d
+			y: 0.0d
+			dependencies: [
+				"7D0C9108138FBA75"
+				"199C1481902CF8B4"
+			]
+			id: "4F94537B249155D8"
+			tasks: [{
+				id: "023AC1D6673087C7"
+				type: "checkmark"
+				title: "Time Traveler"
+			}]
+		}
+		{
+			icon: "extendedcrafting:ultimate_singularity"
+			x: 9.0d
+			y: 0.0d
+			dependencies: [
+				"4F94537B249155D8"
+				"24616CD7CF345945"
+			]
+			id: "1C5043478352FBEC"
+			tasks: [{
+				id: "24C96719D9E8480D"
+				type: "checkmark"
+				title: "Endgame"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

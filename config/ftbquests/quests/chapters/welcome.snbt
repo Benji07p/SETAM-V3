@@ -20,6 +20,9 @@
 				"6134204D99BD0F97"
 				"2F37EE6521289E74"
 				"5DB7B15B71DC986F"
+				"753D7653771C14BF"
+				"6EC4469FBB7BA4DE"
+				"74B9484D6823133F"
 			]
 			size: 2.0d
 			id: "417B27BAFA217742"
@@ -141,6 +144,12 @@
 			}
 			x: 1.0d
 			y: -1.5d
+			description: [
+				"SETAM is a modpack with six axes:"
+				"Science, Space, Time, Magic, World Exploration, and Weapons."
+				"It was a modpack I originally created for my friends a long time ago."
+				"The third version was the most successful, so I decided to publish it."
+			]
 			id: "6EC4469FBB7BA4DE"
 			tasks: [{
 				id: "02F7C72CB06CFE95"
@@ -152,6 +161,12 @@
 			icon: "computercraft:printed_book"
 			x: -3.0d
 			y: -1.5d
+			description: [
+				"Earth has been destroyed. You are the only survivor(s). You wandered through space until you discovered a habitable planet in another galaxy: Glacio."
+				"You’ve been living there for several years. But even though the planet is habitable, there are no animals, and farming is poor due to the cold. Your resources are running dangerously low."
+				"One day, as you gaze at the sky, you notice that Earth seems to be becoming livable again — the radiation is fading, and nature is starting to reclaim the land."
+				"This might be your last chance to avoid starving to death."
+			]
 			id: "74B9484D6823133F"
 			tasks: [{
 				id: "4A3D1186CB32FF58"
@@ -163,6 +178,12 @@
 			icon: "minecraft:bedrock"
 			x: 1.0d
 			y: 2.5d
+			description: [
+				"First Goal : Return to Earth"
+				"Second Goal : Craft Bedrock with the Atomic Assembler"
+				"Third Goal : Produced more Bedrock with Botania and TimeExtraMiner"
+				"Final Goal : Become Powerful"
+			]
 			id: "753D7653771C14BF"
 			tasks: [{
 				id: "0E8C53415D55411C"
